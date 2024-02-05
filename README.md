@@ -7,4 +7,4 @@ Aqui serão armazenados todos os trabalhos da Unidade Curricular de Engenharia W
 
 - **Nome:** Luís Alberto Barreiro Araújo
 - **ID:** a96351
-- **Foto:** ![Fotografia do aluno](myfoto.png)
+- **Foto:** ![Fotografia do aluno](myfoto.jpeg)
