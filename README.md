@@ -1,7 +1,7 @@
 # EngWeb2024
 
 ## Introdução 
-Aqui ser~ao armazenados todos os trabalhos da Unidade Curricular de Engenharia Web.
+Aqui serão armazenados todos os trabalhos da Unidade Curricular de Engenharia Web.
 
 ## Aluno
 
