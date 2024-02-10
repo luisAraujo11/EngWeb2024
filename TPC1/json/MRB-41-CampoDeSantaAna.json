@@ -1,0 +1,263 @@
+{
+    "rua": {
+        "@_noNamespaceSchemaLocation": "file:/C:/Users/micas/Desktop/Maria/Uminho/4%C2%BAano/1%C2%BAsemestre/publicacao_eletronica/Trabalho%20Final/MRB-rua.xsd",
+        "meta": {
+            "número": "41",
+            "nome": "Campo de Santa Ana"
+        },
+        "corpo": {
+            "para": [
+                {
+                    "#text": "Grande espaço aberto em frente à, onde já na Idade Média\n        passava uma rua- a- que levava àe, donde partia a estrada paraou.",
+                    "lugar": [
+                        "porta de Souto",
+                        "Corredoura",
+                        "Senhora a Branca",
+                        "S.Victor",
+                        "Chaves",
+                        "Bom Jesus"
+                    ]
+                },
+                {
+                    "#text": "Nos inícios do«era todo cheio de vinhas e árvores e não tinha mais\n        espaço nem campo saindo dapara».\n        O, «mandou fazer o rocio de Santa Ana...\n        e comprou estas vinhas e campos até ao padrão onde está uma cruz acerca de Nossa Senhora e meteu\n        tudo neste rocio de Santa Ana, e do dito padrão para diante alargou aquele campo até Nossa Senhora»,\n        criando assim um espaço amplo e belo onde «fez de novo a Ermida se Santa Ana, com a sua capela e \n        escada... e poz de redor delas certas colunas escritas do tempo dos romanos» e «uma Cruz... com \n        seus degraus e haste».",
+                    "data": "séc. XVI",
+                    "lugar": [
+                        "porta do Souto",
+                        "Santa Maria a Branca"
+                    ],
+                    "entidade": {
+                        "#text": "arcebispo D.Diogo de Sousa",
+                        "@_tipo": "pessoa"
+                    }
+                },
+                {
+                    "#text": "Era a transformação deste local em amplo espaço urbano. Até essa data apenas existia a capela\n        de S.Gonçalo, fundada poucos anos antes, em, por, além da.",
+                    "data": "1500",
+                    "entidade": {
+                        "#text": "D.Jorge da \n        Costa",
+                        "@_tipo": "pessoa"
+                    },
+                    "lugar": "rua da Corredoura"
+                },
+                {
+                    "#text": "Com a construção de uma casa «à...[para] estrebarias e alpendre\n        com suas colunas para pousarem de praça os Almocreves» e de «um pelourinho de pedra». por ordem\n        também de, ficava imediatamente criado um polo de atracção\n        e comércio que pela proximidade com que estava deste campo, não deixaria de o afectar; o que aliás\n        é visível no desenho das casas existentes no seu extremo Sudoeste.",
+                    "lugar": "porta do Souto",
+                    "entidade": {
+                        "#text": "D.Diogo",
+                        "@_tipo": "pessoa"
+                    }
+                },
+                {
+                    "#text": "Emfoi fundado o, que seria ampliado em, com mais quartos e uma igreja.",
+                    "data": [
+                        "1652",
+                        "1720"
+                    ],
+                    "entidade": {
+                        "#text": "recolhimento das Beatas da\n        Penha de França",
+                        "@_tipo": "instituição"
+                    }
+                },
+                {
+                    "#text": "Passados 34 anos instalaram-se aqui osque\n        lançaram a primeira pedra para a sua igreja em. Emconseguiram construir o seu magnífico convento e igreja (dos Congregados), onde andou a mão de.",
+                    "entidade": [
+                        {
+                            "#text": "Oratorianos",
+                            "@_tipo": "instituição"
+                        },
+                        {
+                            "#text": "André Soares",
+                            "@_tipo": "pessoa"
+                        }
+                    ],
+                    "data": [
+                        "1689",
+                        "1739-1766"
+                    ]
+                },
+                {
+                    "#text": "Ema capela de S.Gonçalo foi totalmente reedificada, fundando-se na mesma\n        data o, em espaço contíguo.",
+                    "data": "1722",
+                    "entidade": {
+                        "#text": "Recolhimento das Convertidas",
+                        "@_tipo": "instituição"
+                    }
+                },
+                {
+                    "#text": "Com todas estas instituições, onde nos permitimos salientar ospela forma com que souberam atrair as populações,foi tomando uma importância na vida da cidade que atingiu o seu máximo em meados do século passado,\n        e que ainda hoje mantém.",
+                    "entidade": {
+                        "#text": "Oratonianos",
+                        "@_tipo": "instituição"
+                    },
+                    "lugar": "campo de Santa Ana"
+                },
+                {
+                    "#text": "Em, e embora o Mappa nos mostre apenas algumas das suas casas, nota-se bem\n        a excelente qualidade de muitas delas, sobretudo as do lado Norte (excepto a do prazo n.º5) e a\n        situada no seu extremo Sudoeste. São amplas, de grande fachada, construídas em pedra e ladeadas por \n        pilastras, com fartas aberturas, e as janelas do piso nobre transformadas em varandas. O lado Sul \n        contrasta totalmente; exceptuando a magnífica e grande casa localizada no gaveto com aque tem quatro vãos e três pisos, com uma raríssima varanda corrida no \n        seu último andar, todas as outras são bastantes diferentes. São habitações na sua maioria de três\n        pisos (sendo o terceiro sobradado em quatro delas), com amplas portas para possibilitar melhor comércio\n        e com janelas bracarenses. Curiosamente não encontramos aqui nenhuma casa recoberta de gelosias.",
+                    "data": "1750",
+                    "lugar": "rua de Águas"
+                },
+                {
+                    "#text": "No extremo Sudeste está o,\n        ainda em construção.",
+                    "entidade": {
+                        "#text": "convento dos Congregados",
+                        "@_tipo": "instituição"
+                    }
+                },
+                {
+                    "#text": "Não deixa de ser curioso assinalar que quando nase \n        reconstruiram muitos destes edifícios, os do lado Norte continuaram a ter grande vulto e dos do Sul\n        mantiveram também as pequenas proporções de 100 anos atrás.",
+                    "data": "segunda metade do séc.XIX"
+                },
+                {
+                    "#text": "Das 8 casas do lado Norte e 20 do Sul, eram prazos do5 e 2, respectivamente.",
+                    "entidade": {
+                        "#text": "Cabido",
+                        "@_tipo": "instituição"
+                    }
+                },
+                {
+                    "#text": "Otem o nome actual de.",
+                    "lugar": [
+                        "campo de Santa Ana",
+                        "avenida Central"
+                    ]
+                }
+            ],
+            "figura": [
+                {
+                    "@_id": "MRB-41-norte",
+                    "imagem": {
+                        "@_path": "../imagem/MRB-41-CampoDeSantaAna-Norte.jpg"
+                    },
+                    "legenda": "Campo de Santa Ana - Norte."
+                },
+                {
+                    "@_id": "MRB-41-sul",
+                    "imagem": {
+                        "@_path": "../imagem/MRB-41-CampoDeSantaAna-Sul.jpg"
+                    },
+                    "legenda": "Campo de Santa Ana - Sul."
+                }
+            ],
+            "lista-casas": {
+                "casa": [
+                    {
+                        "número": "1",
+                        "enfiteuta": "D.Agostinha de Barros Gavião, enfiteuta principal do casal dos Chãos ou Quinteiro, \n                sito na freguesia de S.José de S.Lázaro",
+                        "desc": {
+                            "para": "Uma parte do quintal desta casa é pertença do prazo do casal dos Chãos ou Quinteiro, \n                        sito na freguesia de S.José de S.Lázaro, à face do qual está subemprazado."
+                        }
+                    },
+                    {
+                        "número": "2",
+                        "enfiteuta": "D.Agostinha de Barros Gavião, enfiteuta principal do casal dos Chãos ou Quinteiro, \n                    sito na freguesia de S.José de S.Lázaro",
+                        "desc": {
+                            "para": "Uma parte do quintal desta casa é pertença do prazo do casal dos Chãos ou Quinteiro, \n                        a face do qual está subemprazado."
+                        }
+                    },
+                    {
+                        "número": "3",
+                        "enfiteuta": "D.Agostinha de Barros Gavião, enfiteuta principal do casal dos Chãos ou Quinteiro, \n                    sito na freguesia de S.José de S.Lázaro",
+                        "desc": {
+                            "para": [
+                                "Uma parte do quintal desta casa é pertença do prazo do casal dos Chãos ou Quinteiro, \n                        à face do qual está subemprazado.",
+                                {
+                                    "#text": "Confronta, do poente, com casa foreira ao.",
+                                    "entidade": {
+                                        "#text": "Convento de Vilar de Frades",
+                                        "@_tipo": "instituição"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "número": "4",
+                        "enfiteuta": "D.Agostinha de Barros Gavião, enfiteuta principal do casal dos Chãos ou Quinteiro, \n                    sito na freguesia de S.José de S.Lázaro",
+                        "desc": {
+                            "para": "Uma parte do quintal desta casa é pertença do prazo do casal dos Chãos ou Quinteiro, \n                        à face do qual está subemprazado."
+                        }
+                    },
+                    {
+                        "número": "5",
+                        "enfiteuta": "D.Agostinha de Barros Gavião, enfiteuta principal do casal dos Chãos ou Quinteiro, \n                    sito na freguesia de S.José de S.Lázaro",
+                        "desc": {
+                            "para": {
+                                "#text": "Uma parte do quintal desta casa é pertença do prazo do casal dos Chãos ou Quinteiro, \n                        à face do qual está subemprazado. A casa e a parte sul do quintal pagam foro aoConfronta, do nascente, \n                    com a.",
+                                "entidade": {
+                                    "#text": "mosteiro de Vilar de Frades.",
+                                    "@_tipo": "instituição"
+                                },
+                                "lugar": "rua de S.Gonçalo"
+                            }
+                        }
+                    },
+                    {
+                        "número": "6",
+                        "enfiteuta": "Manuel Fernandes Lima",
+                        "desc": {
+                            "para": [
+                                {
+                                    "#text": ", casado com, \n                    paga, de pensões ou foro, 10 reis ao n.º3 da, por um \n                    pedaço de terra que se separou doou do.",
+                                    "entidade": [
+                                        {
+                                            "#text": "Vincente Francisco",
+                                            "@_tipo": "pessoa"
+                                        },
+                                        {
+                                            "#text": "Francisca Ferreira",
+                                            "@_tipo": "pessoa"
+                                        }
+                                    ],
+                                    "lugar": [
+                                        "Rua das Águas",
+                                        "campo da Rua das Águas",
+                                        "Caminho Novo"
+                                    ]
+                                },
+                                {
+                                    "#text": "A casa e a outra parte do quintal não são foreiras ao.",
+                                    "entidade": {
+                                        "#text": "cabido",
+                                        "@_tipo": "instituição"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "número": "7",
+                        "enfiteuta": "Manuel Fernandes Lima",
+                        "desc": {
+                            "para": [
+                                {
+                                    "#text": ", reitor de, paga, de pensão ou foro, \n                        50 reis ao n.º3 daou do.",
+                                    "entidade": [
+                                        {
+                                            "#text": "Gualter da Fonseca Pereira",
+                                            "@_tipo": "pessoa"
+                                        },
+                                        {
+                                            "#text": "Sta. Maria de Covelo",
+                                            "@_tipo": "instituição"
+                                        }
+                                    ],
+                                    "lugar": [
+                                        "Rua das Águas",
+                                        "Caminho Novo"
+                                    ]
+                                },
+                                {
+                                    "#text": "A casa e a outra parte do quintal não são foreiras ao.",
+                                    "entidade": {
+                                        "#text": "cabido",
+                                        "@_tipo": "instituição"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

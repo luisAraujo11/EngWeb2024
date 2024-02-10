@@ -1,0 +1,93 @@
+{
+    "rua": {
+        "@_noNamespaceSchemaLocation": "MRB-rua.xsd",
+        "meta": {
+            "número": "57",
+            "nome": "Estrada de Real"
+        },
+        "corpo": {
+            "para": [
+                {
+                    "#text": "Longa via, talvez decalcando a velha estrada romana, saía de, por terrenos que pensamos ser coincidentes com os da actual, em direção á freguesia suburbana de.",
+                    "lugar": [
+                        "Braga",
+                        "rua Andrade Corvo",
+                        "S.Jerónimo de Real"
+                    ]
+                },
+                {
+                    "#text": "Em, todas as suas casas (3 do lado Norte e 15 do Sul) eram foreiras aoe incluiam-se no prazo da.",
+                    "data": "1750",
+                    "lugar": [
+                        "Cabido",
+                        "Quinta da Cónega"
+                    ]
+                },
+                "Eram, naturalmente, construções muito pequenas, muito simples, de um só piso (excepto 2), e do tipo de porta ladeada por janela. Estes edifícios inscreviam-se apenas no extremo Oeste da rua: o restante espaço estava ocupado apenas com campos de cultivo."
+            ],
+            "figura": [
+                {
+                    "@_id": "MRB-57-norte",
+                    "imagem": {
+                        "@_path": "../imagem/MRB-57-EstradaDeReal-norte.jpg"
+                    },
+                    "legenda": "Estrada de Real - norte."
+                },
+                {
+                    "@_id": "MRB-57-sul",
+                    "imagem": {
+                        "@_path": "../imagem/MRB-57-EstradaDeReal-sul.jpg"
+                    },
+                    "legenda": "Estrada de Real - sul."
+                }
+            ],
+            "lista-casas": {
+                "casa": [
+                    {
+                        "número": "1",
+                        "desc": {
+                            "para": {
+                                "#text": "Campo do prazo da.",
+                                "lugar": "Quinta da Cónega(freguesia de S.Pedro de Maximinos)"
+                            }
+                        }
+                    },
+                    {
+                        "número": "2 a 20",
+                        "enfiteuta": "Sebastião de Faria Gusmão, enfiteuta principa da Quinta da Cónega.",
+                        "desc": {
+                            "para": [
+                                {
+                                    "#text": "Pertencem à, a cujo enfiteuta se paga foro. O nº17 confronta, do poente, com o caminho que vai para a.",
+                                    "lugar": [
+                                        "Quinta da Cónega",
+                                        "Quinta do Real"
+                                    ]
+                                },
+                                {
+                                    "#text": "O nº18, confronta, do poente, com o caminho que vai junto dapara a cangosta do.",
+                                    "lugar": [
+                                        "Curutela",
+                                        "Pópulo"
+                                    ]
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "número": "21",
+                        "desc": {
+                            "para": {
+                                "#text": "Corresponde a um campo do prazo da. Confronta, do nascente, com a casa nº22 da.",
+                                "lugar": [
+                                    "Quinta da Cónega",
+                                    "Rua da Cónega"
+                                ]
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

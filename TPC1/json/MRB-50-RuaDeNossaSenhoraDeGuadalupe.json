@@ -1,0 +1,252 @@
+{
+    "rua": {
+        "@_noNamespaceSchemaLocation": "../MRB-rua (3).xsd",
+        "meta": {
+            "número": "50",
+            "nome": "Rua de Nossa Senhora de Guadalupe"
+        },
+        "corpo": {
+            "para": [
+                {
+                    "#text": "Rua íngreme, pertencente ao complexo urbanístico do, ligava \n            aà.",
+                    "lugar": [
+                        {
+                            "#text": "campo Novo",
+                            "@_norm": "Campo Novo"
+                        },
+                        "Capela de Guadalupe",
+                        {
+                            "#text": "praça do Gavião",
+                            "@_norm": "Praça do Gavião"
+                        }
+                    ]
+                },
+                {
+                    "#text": "Aberta também em, tinha já, nesta data, quase todas as suas casas \n            construídas, no lado Norte. Eram simples, na sua grande maioria de um só piso, \n            e que, contrariamente à, se estendiam pela encosta acima, até \n            à.",
+                    "data": "1725",
+                    "lugar": [
+                        {
+                            "#text": "rua de S. Gonçalo",
+                            "@_norm": "Rua de S. Gonçalo"
+                        },
+                        {
+                            "#text": "rua em Frente de Nossa Senhora de Guadalupe",
+                            "@_norm": "Rua em Frente de Nossa Senhora de Guadalupe"
+                        }
+                    ]
+                },
+                "Na parte Sul estavam apenas construídas 2 habitações, sensivelmente no meio \n            da rua, na parte plana. Eram edifícios de 2 pisos, em pedra, mas de desenho \n            tradicional. Infelizmente o desenho está um pouco destruído, cortando todo o piso \n            térreo da casa do prazo n.º 9 e um pouco da do anterior.",
+                {
+                    "#text": "Todas as 17 casas aqui apresentadas são prazos do.",
+                    "entidade": {
+                        "#text": "Cabido",
+                        "@_tipo": "instituição"
+                    }
+                },
+                {
+                    "#text": "Ainda hoje é denominada.",
+                    "lugar": {
+                        "#text": "rua de Guadalupe",
+                        "@_norm": "Rua de Guadalupe"
+                    }
+                }
+            ],
+            "figura": [
+                {
+                    "@_id": "MRB-50-a",
+                    "imagem": {
+                        "@_path": "../imagem/MRB-50-RuaDeNossaSenhoraDeGuadalupe-a.jpg"
+                    },
+                    "legenda": "Rua de Nossa Senhora de Guadalupe - Vista norte."
+                },
+                {
+                    "@_id": "MRB-50-b",
+                    "imagem": {
+                        "@_path": "../imagem/MRB-50-RuaDeNossaSenhoraDeGuadalupe-b.jpg"
+                    },
+                    "legenda": "Rua de Nossa Senhora de Guadalupe - Vista sul"
+                }
+            ],
+            "lista-casas": {
+                "casa": [
+                    {
+                        "número": "1 e 2",
+                        "enfiteuta": "D. Agostinha Maria de Barros Gavião, enfiteuta principal do prazo do casal dos Chãos ou Quinteiro.",
+                        "desc": {
+                            "para": {
+                                "#text": "«Chãos de casas» do prazo do. \n                        O chão n.º 1 confronta, do poente, com o chão n.° 26 da.",
+                                "entidade": {
+                                    "#text": "casal dos Chãos ou Quinteiro",
+                                    "@_tipo": "família"
+                                },
+                                "lugar": "Praça do Gavião"
+                            }
+                        }
+                    },
+                    {
+                        "número": "3, 4, 5 e 6",
+                        "enfiteuta": "D. Agostinha Maria de Barros Gavião, enfiteuta principal do prazo do casal dos Chãos ou Quinteiro.",
+                        "desc": {
+                            "para": {
+                                "#text": "Pertencem ao. \n                        Nos livros dos prazos donão se \n                        encontram escrituras de subemprazamento.",
+                                "entidade": [
+                                    {
+                                        "#text": "casal dos Chãos ou Quinteiro",
+                                        "@_tipo": "família"
+                                    },
+                                    {
+                                        "#text": "cabido",
+                                        "@_tipo": "instituição"
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "número": "7",
+                        "enfiteuta": "D. Agostinha Maria de Barros Gavião, enfiteuta principal do prazo do casal dos Chãos ou Quinteiro.",
+                        "desc": {
+                            "para": {
+                                "#text": ", e suas irmãs,e, pagam 1200 reis ao enfiteuta do \n                        prazo do, à face \n                        do qual foi subemprazada em.",
+                                "entidade": [
+                                    {
+                                        "#text": "Ursula Vieira",
+                                        "@_tipo": "pessoa"
+                                    },
+                                    {
+                                        "#text": "Vitoriana Josefa",
+                                        "@_tipo": "pessoa"
+                                    },
+                                    {
+                                        "#text": "Joana Antónia",
+                                        "@_tipo": "pessoa"
+                                    },
+                                    {
+                                        "#text": "casal dos Chãos ou Quinteiro",
+                                        "@_tipo": "família"
+                                    }
+                                ],
+                                "data": "1745"
+                            }
+                        }
+                    },
+                    {
+                        "número": "8",
+                        "enfiteuta": "D. Agostinha Maria de Barros Gavião, enfiteuta principal do prazo do casal dos Chãos ou Quinteiro.",
+                        "desc": {
+                            "para": {
+                                "#text": ", pedreiro, casado com, \n                        paga 1200 reis ao enfiteuta do prazo do, à face do qual \n                        foi subemprazado em.",
+                                "entidade": [
+                                    {
+                                        "#text": "António Gomes",
+                                        "@_tipo": "pessoa"
+                                    },
+                                    {
+                                        "#text": "Ana Gomes",
+                                        "@_tipo": "pessoa"
+                                    },
+                                    {
+                                        "#text": "casal dos Chãos ou Quinteiro",
+                                        "@_tipo": "família"
+                                    }
+                                ],
+                                "data": "1725"
+                            }
+                        }
+                    },
+                    {
+                        "número": "9 a 17",
+                        "enfiteuta": "D. Agostinha Maria de Barros Gavião, enfiteuta principal do prazo do casal dos Chãos ou Quinteiro.",
+                        "desc": {
+                            "para": [
+                                {
+                                    "#text": ", casado com, paga \n                        7800 reis ao enfiteuta do prazo do, \n                        conforme o subemprazamento de.",
+                                    "entidade": [
+                                        {
+                                            "#text": "Luís Cardoso Coutinho de Oliveira",
+                                            "@_tipo": "pessoa"
+                                        },
+                                        {
+                                            "#text": "Antónia José Leonor de Vasconcelos",
+                                            "@_tipo": "pessoa"
+                                        },
+                                        {
+                                            "#text": "casal dos Chãos ou Quinteiro",
+                                            "@_tipo": "família"
+                                        }
+                                    ],
+                                    "data": "1740"
+                                },
+                                {
+                                    "#text": "Ao prazo pertencem, ainda, os n.° 1 a 6 da.",
+                                    "lugar": {
+                                        "#text": "rua em frente de N. Sra. de Guadalupe",
+                                        "@_norm": "Rua em Frente de Nossa Senhora de Guadalupe"
+                                    }
+                                },
+                                {
+                                    "#text": "Os n.° 9 e 10, encontram-se unidos desde o \n                        ano de.",
+                                    "data": "1725"
+                                },
+                                {
+                                    "#text": "À face da escritura do ano deforam feitos \n                        títulos subalternos das casas n.° 14, 15, 16 e 17.",
+                                    "data": "1740"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "número": "18 a 27",
+                        "enfiteuta": "D. Agostinha Maria de Barros Gavião, enfiteuta principal do prazo do casal dos Chãos ou Quinteiro.",
+                        "desc": {
+                            "para": {
+                                "#text": "«Chãos de casas» do prazo do. \n                        O chão n.° 18 confronta, do \n                        nascente, com a.",
+                                "entidade": {
+                                    "#text": "casal dos Chãos ou Quinteiro",
+                                    "@_tipo": "família"
+                                },
+                                "lugar": {
+                                    "#text": "rua em frente de N. Sra. de Guadalupe",
+                                    "@_norm": "Rua em Frente de Nossa Senhora de Guadalupe"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "número": "28 e 29",
+                        "enfiteuta": "D. Agostinha Maria de Barros Gavião, enfiteuta principal do prazo do casal dos Chãos ou Quinteiro.",
+                        "desc": {
+                            "para": {
+                                "#text": "Pertencem ao, a \n                        cujo enfiteuta se paga foro. Nos livros dos \n                        prazos donão se encontram escrituras de \n                        subemprazamento.",
+                                "entidade": [
+                                    {
+                                        "#text": "casal dos Chãos ou Quinteiro",
+                                        "@_tipo": "família"
+                                    },
+                                    {
+                                        "#text": "cabido",
+                                        "@_tipo": "instituição"
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "número": "30 a 35",
+                        "enfiteuta": "D. Agostinha Maria de Barros Gavião, enfiteuta principal do prazo do casal dos Chãos ou Quinteiro.",
+                        "desc": {
+                            "para": {
+                                "#text": "«Chãos de casa» do prazo do. \n                        O n.° 35 confronta, do poente, \n                        com o n.° 27 da.",
+                                "entidade": {
+                                    "#text": "casal dos Chãos ou Quinteiro",
+                                    "@_tipo": "família"
+                                },
+                                "lugar": "Praça do Gavião"
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

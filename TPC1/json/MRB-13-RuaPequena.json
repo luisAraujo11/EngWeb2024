@@ -1,0 +1,193 @@
+{
+    "rua": {
+        "@_noNamespaceSchemaLocation": "file:/C:/Users/Cristiana%20Carvalho/Desktop/Publica%C3%A7%C3%A3o%20eletr%C3%B3nica/PROJETO%20FINAL/MRM-rua.xsd",
+        "meta": {
+            "número": "13",
+            "nome": "Rua Pequena"
+        },
+        "corpo": {
+            "para": [
+                {
+                    "#text": "Como o nome diz é uma pequenina rua que ligava acom a.",
+                    "lugar": [
+                        "rua das Oucias",
+                        "travessa da rua do Forno para a do Poço"
+                    ]
+                },
+                {
+                    "#text": "Respeitando o reticulado romano era mais uma das artérias doadjacente à.",
+                    "lugar": [
+                        "bairro medieval",
+                        "catedral"
+                    ]
+                },
+                {
+                    "#text": "Na Idade Média era já pequena e permitia um melhor acesso ao, então existente junto ao transepto da. Por isso recebeu esse nome.",
+                    "lugar": [
+                        "mercado da olaria",
+                        "Sé"
+                    ]
+                },
+                {
+                    "#text": "No séc. XVI, o célebre humanistaemprazou aoa casa n.º 2, passando a ser conhecida por. Até que por volta de, talvez senhor de forte importância política ou económica, veio para aqui viver, tanto bastando para ser conhecida pelo seu apelido.",
+                    "entidade": [
+                        {
+                            "#text": "Diogo Teive",
+                            "@_tipo": "pessoa"
+                        },
+                        {
+                            "#text": "Cabido",
+                            "@_tipo": "instituição"
+                        },
+                        {
+                            "#text": "Mateus Fernando Farto",
+                            "@_tipo": "pessoa"
+                        }
+                    ],
+                    "lugar": "rua do Teive",
+                    "data": "1620"
+                },
+                {
+                    "#text": "No Mappa, contudo, aparece como. Sabemos ainda que talvez a partir do fim da Idade Média, e durante cerca de um século, também foi chamada de, por nela ter morado oda freguesia transmontana do mesmo nome.",
+                    "lugar": [
+                        "rua Pequena",
+                        "rua Painsalvos"
+                    ],
+                    "entidade": {
+                        "#text": "abade",
+                        "@_tipo": "pessoa"
+                    }
+                },
+                "Embora pequena, tem 3 edifícios notáveis: o prazo n.º 1, grande construção em pedra, com fachada bem organizada e um recuado em toda a extensão; o prazo n.º 2, casa com quase excesso de aberturas, (sem comparação com qualquer outra em todo o Mappa); e o prazo n.º 5, construção também em pedra, de 2 pisos, com mais um piso, no seu último vão Sul, quase semelhando uma torre.",
+                {
+                    "#text": "Das 4 casas existentes quer no lado Nascente, quer no Poente, 3 e 4, respectivamente, são prazos do.",
+                    "entidade": {
+                        "#text": "Cabido",
+                        "@_tipo": "instituição"
+                    }
+                }
+            ],
+            "figura": [
+                {
+                    "@_id": "MRB-13-nascente",
+                    "imagem": {
+                        "@_path": "../imagem/MRB-13-RuaPequena-Nascente.jpg"
+                    },
+                    "legenda": "RuaPequena - vista nascente."
+                },
+                {
+                    "@_id": "MRB-13-poente",
+                    "imagem": {
+                        "@_path": "../imagem/MRB-13-RuaPequena-Poente.jpg"
+                    },
+                    "legenda": "RuaPequena - vista poente."
+                }
+            ],
+            "lista-casas": {
+                "casa": [
+                    {
+                        "número": "1",
+                        "desc": {
+                            "para": {
+                                "#text": "Corresponde ao n° 8 da, para onde tem a frontaria e serventia principais.",
+                                "lugar": "Rua das Oussias"
+                            }
+                        }
+                    },
+                    {
+                        "número": "2",
+                        "enfiteuta": "Francisco de Sousa Castro",
+                        "foro": "875 reis e 2 galinhas",
+                        "desc": {
+                            "para": {
+                                "#text": "Prazo constituído por casa, quintal e palheiro. este incorporado eme pertencente ao\n                        n.º\t1.",
+                                "data": "1618"
+                            }
+                        }
+                    },
+                    {
+                        "número": "3",
+                        "enfiteuta": "D. Filipa Maria de Melo",
+                        "foro": "240 reis",
+                        "desc": {
+                            "para": "Confronta, do norte, com casa dízima a Deus e com o n° 2 e, do sul, com casa foreira ao morgado de Real."
+                        }
+                    },
+                    {
+                        "número": "4",
+                        "desc": {
+                            "para": {
+                                "#text": "Corresponde ao n° 7 daque vai daou depara a do, para onde tem frontaria e serventia principais.",
+                                "lugar": [
+                                    "travessa",
+                                    "Rua do Poço",
+                                    "Santa Maria",
+                                    "Forno"
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "número": "5",
+                        "enfiteuta": "Miguel Teodósio Fiuza de Sottomayor. viúvo de Amarante",
+                        "foro": "320 reis e 1 capão"
+                    },
+                    {
+                        "número": "6",
+                        "enfiteuta": "Lic. Paulo de Sousa de Magalhães",
+                        "foro": "220 reis e 2 capões",
+                        "desc": {
+                            "para": {
+                                "#text": "Este prazo encontra-se unido desde.",
+                                "data": "1583"
+                            }
+                        }
+                    },
+                    {
+                        "número": "7",
+                        "enfiteuta": "Lic. Paulo de Sousa de Magalhães",
+                        "foro": "220 reis e 2 capões",
+                        "desc": {
+                            "para": {
+                                "#text": "Este prazo encontra-se unido desde.",
+                                "data": "1583"
+                            }
+                        }
+                    },
+                    {
+                        "número": "8",
+                        "enfiteuta": "Francisca Teresa Petiz",
+                        "foro": "70 reis e 1 galinha",
+                        "desc": {
+                            "para": {
+                                "#text": "A enfiteuta foi herdeira do Reitor de Freitas,. A casa foi construída, depois de, em pertenças do n.º 9 daou de.",
+                                "entidade": {
+                                    "#text": "José Ferreira Petiz",
+                                    "@_tipo": "pessoa"
+                                },
+                                "data": "1587",
+                                "lugar": [
+                                    "Rua do Poço",
+                                    "Santa Maria"
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "número": "9",
+                        "desc": {
+                            "para": {
+                                "#text": "Corresponde ao n.º 9 da, para onde tem a frontaria e serventia principais. Situa-se na esquina dae.",
+                                "lugar": [
+                                    "Rua das Oussias",
+                                    "Rua Pequena",
+                                    "terreiro das Oussias"
+                                ]
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

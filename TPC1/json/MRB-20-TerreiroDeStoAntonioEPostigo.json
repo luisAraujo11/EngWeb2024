@@ -1,0 +1,160 @@
+{
+    "rua": {
+        "@_noNamespaceSchemaLocation": "file:/home/teresa-queiroga/MedInf/PublicacaoEletronica/Projeto_final/MRB-rua(1).xsd",
+        "meta": {
+            "número": "20",
+            "nome": "Terreiro de Sto. António e Postigo"
+        },
+        "corpo": {
+            "para": [
+                {
+                    "#text": "Pequena artéria que ligava oao.",
+                    "lugar": [
+                        "terreiro de S. Tiago",
+                        "Postigo de S.Sebastião"
+                    ]
+                },
+                {
+                    "#text": "Mantendo o traçado de uma rua da cidade romana, já no séc. XIV nos aparece com os nomes \n            dee.",
+                    "lugar": [
+                        "rua Travessa",
+                        "rua do Postigo"
+                    ]
+                },
+                "Com a expulsão dos judeus a sua designação passará a ser de Santo António, a mesma \n            da rua que lhe era contígua.",
+                {
+                    "#text": "Poucos anos mais tardecriou os Estudos Gerais, que os seus sucessoresemuito protegeram; \n            a sua capela, com a invocação \n            de S. Paulo, faceava com o lado Sul do Terreiro, que aqui aparece como.",
+                    "entidade": [
+                        {
+                            "#text": "D. Diogo de Sousa",
+                            "@_tipo": "pessoa"
+                        },
+                        {
+                            "#text": "D. Henrique",
+                            "@_tipo": "pessoa"
+                        },
+                        {
+                            "#text": "D. Frei Bartolomeu dos Mártires",
+                            "@_tipo": "pessoa"
+                        }
+                    ],
+                    "lugar": "rua do Terreiro de Santo \n            António"
+                },
+                "Ao lado da capela, não se sabe se relacionada com os Estudos Gerais, havia uma estupenda \n            casa seiscentista, com um belíssimo e muito raro trabalho de pedra nas janelas, e portão, lateral,\n            brasonado.",
+                {
+                    "#text": "O impacto económico da saída dos muitos estudantes aqui hospedados, após a expulsão dos jesuítas em,\n            e, consequente encerramento dos Estudos Gerais, ainda não foi estudado.",
+                    "data": "1759"
+                },
+                {
+                    "#text": "No último quartel do séc. XIX foi esta rua alargada desaparecendo a sua face Sul, bem com o.",
+                    "lugar": "«postigo»\n            da muralha"
+                },
+                "A face Norte manteve-se excepto a casa mais recuada, que, nos inícios do séc. XIX, foi totalmente \n            alterada.",
+                {
+                    "#text": "Actual.",
+                    "lugar": "rua de S. Paulo"
+                }
+            ],
+            "figura": [
+                {
+                    "@_id": "MRB-20-norte",
+                    "imagem": {
+                        "@_path": "../imagem/MRB-20-TerreiroDeStoAntonioEPostigo-norte.jpg"
+                    },
+                    "legenda": "RUa das Chagas - norte"
+                },
+                {
+                    "@_id": "MRB-20-sul",
+                    "imagem": {
+                        "@_path": "../imagem/MRB-20-TerreiroDeStoAntonioEPostigo-sul.jpg"
+                    },
+                    "legenda": "RUa das Chagas - poente"
+                }
+            ],
+            "lista-casas": {
+                "casa": [
+                    {
+                        "número": "1 e 2",
+                        "enfiteuta": "Fernando da Cunha Sottomayor",
+                        "foro": "320 reis e 4 galinhas",
+                        "desc": {
+                            "para": {
+                                "#text": "Encontram-se unidas, num só prazo, desde. A casa n.º 1 confronta, do nascente, com \n                       uma parte da casa que é foreira à comenda de.",
+                                "data": "1569",
+                                "lugar": "S. Pedro de Merelim"
+                            }
+                        }
+                    },
+                    {
+                        "número": "3",
+                        "enfiteuta": "João Domingues, casado com Maria Vaz",
+                        "foro": "320 reis e 4 galinhas",
+                        "desc": {
+                            "para": {
+                                "#text": "O enfiteuta é da freguesia de, concelho de.",
+                                "lugar": [
+                                    "Penso",
+                                    "Melgaço"
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "número": "4",
+                        "enfiteuta": "D. Doroteia de Vasconcelos, viúva de Francisca Ferreira da Costa",
+                        "foro": "250 reis e 2 galinhas",
+                        "desc": {
+                            "para": {
+                                "#text": "Confronta, do poente, com casa foreira ao.",
+                                "lugar": "mosteiro de Bouro"
+                            }
+                        }
+                    },
+                    {
+                        "número": "5",
+                        "enfiteuta": "D. Doroteia de Vasconcelos, viúva",
+                        "foro": "170 reis e 1 galinha"
+                    },
+                    {
+                        "número": "6, 7, 8 e 9",
+                        "enfiteuta": "D. Doroteia de Vasconcelos, viúva de Francisca Ferreira da Costa",
+                        "desc": {
+                            "para": "Foram construídas, depois do ano de 1683, no quintal da casa n.º 4 e pagavam foro a \n                        este prazo."
+                        }
+                    },
+                    {
+                        "número": "10",
+                        "enfiteuta": "Quitéria Maria",
+                        "foro": "300 reis e 2 galinhas",
+                        "desc": {
+                            "para": {
+                                "#text": "A enfiteuta é filha de, escrivão das apelações, e de sua 2.ª mulher,. A casa foi construída, depois do ano de, em pertenças do n.º 12, \n                        da.",
+                                "entidade": [
+                                    {
+                                        "#text": "António de Araújo",
+                                        "@_tipo": "pessoa"
+                                    },
+                                    {
+                                        "#text": "Ursula de Araújo",
+                                        "@_tipo": "pessoa"
+                                    }
+                                ],
+                                "data": "1557",
+                                "lugar": "Rua de D. Gualdim"
+                            }
+                        }
+                    },
+                    {
+                        "número": "11",
+                        "desc": {
+                            "para": {
+                                "#text": "Corresponde ao n.º 11 da, para onde tem frontaria \n                        e serventia principais.",
+                                "lugar": "Rua de D. Gualdim"
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

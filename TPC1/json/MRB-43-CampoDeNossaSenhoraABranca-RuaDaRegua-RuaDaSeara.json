@@ -1,0 +1,858 @@
+{
+    "rua": {
+        "@_noNamespaceSchemaLocation": "file:/C:/Users/micas/Desktop/Maria/Uminho/4%C2%BAano/1%C2%BAsemestre/publicacao_eletronica/Trabalho%20Final/MRB-rua.xsd",
+        "meta": {
+            "número": "43",
+            "nome": "Campo de Nossa Senhora a Branca. Rua da Régua. Rua Nova da Seara"
+        },
+        "corpo": {
+            "para": [
+                "Devido ao desnível do terreno onde se implantava, estava dividido em duas ruas, separadas\n        por um murete no centro.",
+                {
+                    "#text": "Aberta talvez sobre o traçado da via romana que levava a, \n        esta rua, na Idade Média, fazia a ligação entre a cidade e a.Chamava-se então.",
+                    "lugar": [
+                        "Chaves",
+                        "rua da Corredoura"
+                    ],
+                    "entidade": {
+                        "#text": "igreja de\n        S. Victor",
+                        "@_tipo": "instituição"
+                    }
+                },
+                {
+                    "#text": "reedificador\n        daque fica na extremidade Este desta\n        artéria, mandou alargá-la, criando então 2 artérias paralelas e desniveladas: a dano lado Norte e a, no Sul.",
+                    "entidade": [
+                        {
+                            "#text": "D.Luís de Sousa",
+                            "@_tipo": "pessoa"
+                        },
+                        {
+                            "#text": "igreja de S.Victor",
+                            "@_tipo": "instituição"
+                        }
+                    ],
+                    "data": "(1677-1690)",
+                    "lugar": [
+                        "Régua",
+                        "rua Nova da Seara"
+                    ]
+                },
+                {
+                    "#text": "Emtinha um carácter ainda de via de penetração; por ela entrava na cidade\n        todo o tráfego oriundo da zona doe do.",
+                    "data": "1750",
+                    "lugar": [
+                        "Barroso",
+                        "Bom Jesus"
+                    ]
+                },
+                "Os seus edifícios eram quase todos do tipo com a porta de entrada ladeada de uma janela, com \n        dois pisos e janelas bracarenses no primeiro andar.",
+                {
+                    "#text": "Os alçados que aqui se apresentam têm três tipos diferentes: os da parte dosão casas simples, de dois pisos, do tipo de porta ladeada por janela \n        no rés-do-chão e janelas bracarenses no andar nobre, e três vãos. Os da, \n        são do mesmo tipo mas têm apenas 2 vãos o que imediatamente lhe dá outro carácter. Os dasão muito mais pobres, predominando os de um só piso (75%), muitos deles também \n        do tipo de porta ladeada por janela (79%), e com as aberturas vazadas, que seriam tapadas por portas \n        de madeira; a metade Oeste estava totalmente ocupada por campos.",
+                    "lugar": [
+                        "campo de \n        Nossa Senhora a Branca",
+                        "rua da Régua",
+                        "rua \n        Nova da Seara"
+                    ]
+                },
+                {
+                    "#text": "Esta artéria mantém algumas das raras casas deste tipo que ainda hoje se conservam em.",
+                    "lugar": "Braga"
+                },
+                {
+                    "#text": "Das 56 casas do lado Norte (correspondendo aoe) e 24 do Sul () eram prazos do22 e 24, respectivamente.",
+                    "lugar": [
+                        "Campo de Nossa Senhora a Branca",
+                        "rua da Régua",
+                        "rua Nova da Seara"
+                    ],
+                    "entidade": {
+                        "#text": "Cabido",
+                        "@_tipo": "instituição"
+                    }
+                },
+                {
+                    "#text": "Asformam actualmente a. \n        Esta designação remonta já a.",
+                    "lugar": [
+                        "ruas da Régua e Nova da Seara",
+                        "rua de S. Victor"
+                    ],
+                    "data": "1865"
+                }
+            ],
+            "figura": [
+                {
+                    "@_id": "MRB-43-norte",
+                    "imagem": {
+                        "@_path": "../imagem/MRB-43-CampoDeNossaSenhoraABranca-RuaDaRegua-RuaDaSeara-Norte.jpg"
+                    },
+                    "legenda": "Campo de Nossa Senhora a Branca. Rua da Régua. Rua Nova da Seara- Norte."
+                },
+                {
+                    "@_id": "MRB-43-sul",
+                    "imagem": {
+                        "@_path": "../imagem/MRB-43-CampoDeNossaSenhoraABranca-RuaDaRegua-RuaDaSeara-Sul.jpg"
+                    },
+                    "legenda": "Campo de Nossa Senhora a Branca. Rua da Régua. Rua Nova da Seara- Sul"
+                }
+            ],
+            "lista-casas": [
+                {
+                    "casa": [
+                        {
+                            "número": "1",
+                            "vista": "Norte",
+                            "enfiteuta": "Sebastião Luís de Faria, enfiteuta principal do prazo dos campos detrás de Nossa Senhora \n                a Branca e das Ranhas, sito na freguesia de S.Vitor",
+                            "desc": {
+                                "para": {
+                                    "#text": "Os herdeiros de, besteiro, casado\n                    com, pagam 540 reis e 1 galinha ao enfiteuta\n                    do prazo dos campos detrás dee das, \n                    situado na. Confronta, do poente, com casa foreira ao.",
+                                    "entidade": [
+                                        {
+                                            "#text": "Cosme Francisco",
+                                            "@_tipo": "pessoa"
+                                        },
+                                        {
+                                            "#text": "Isabel Pereira",
+                                            "@_tipo": "pessoa"
+                                        },
+                                        {
+                                            "#text": "Hospital de S.Marcos",
+                                            "@_tipo": "instituição"
+                                        }
+                                    ],
+                                    "lugar": [
+                                        "N. Sra. a Branca",
+                                        "Ranhas",
+                                        "freguesia de S. Vitor"
+                                    ]
+                                }
+                            }
+                        },
+                        {
+                            "número": "2 e 3",
+                            "vista": "Norte",
+                            "enfiteuta": "Sebastião Luís de Faria, enfiteuta principal do prazo dos campos detrás de Nossa Senhora \n                    a Branca e das Ranhas, sito na freguesia de S.Vitor",
+                            "desc": {
+                                "para": {
+                                    "#text": "Os herdeiros de, alfaiate, casado\n                        com, pagam 660 reis e 1 galinha ao enfiteuta\n                        do prazo dos campos detrás dee das.",
+                                    "entidade": [
+                                        {
+                                            "#text": "Francisco Gomes",
+                                            "@_tipo": "pessoa"
+                                        },
+                                        {
+                                            "#text": "Margarida Francisca",
+                                            "@_tipo": "pessoa"
+                                        }
+                                    ],
+                                    "lugar": [
+                                        "N. Sra. a Branca",
+                                        "Ranhas"
+                                    ]
+                                }
+                            }
+                        },
+                        {
+                            "número": "4",
+                            "vista": "Norte",
+                            "enfiteuta": "Sebastião Luís de Faria, enfiteuta principal do prazo dos campos detrás de Nossa Senhora \n                    a Branca e das Ranhas, sito na freguesia de S.Vitor",
+                            "desc": {
+                                "para": {
+                                    "#text": "Os herdeiros de, viúva, pagam 710 reis \n                        e 1 galinha ao enfiteuta do prazo dos campos detrás dee das.",
+                                    "entidade": {
+                                        "#text": "Maria de Oliveira",
+                                        "@_tipo": "pessoa"
+                                    },
+                                    "lugar": [
+                                        "N. Sra. a Branca",
+                                        "Ranhas"
+                                    ]
+                                }
+                            }
+                        },
+                        {
+                            "número": "5 e 6",
+                            "vista": "Norte",
+                            "enfiteuta": "Sebastião Luís de Faria, enfiteuta principal do prazo dos campos detrás de Nossa Senhora \n                    a Branca e das Ranhas, sito na freguesia de S.Vitor",
+                            "desc": {
+                                "para": {
+                                    "#text": "Os herdeiros de, carpinteiro, casado\n                        com, pagam 1050 reis e 1 galinha ao enfiteuta\n                        do prazo dos campos detrás dee das.",
+                                    "entidade": [
+                                        {
+                                            "#text": "Tomé de Araújo",
+                                            "@_tipo": "pessoa"
+                                        },
+                                        {
+                                            "#text": "Maria Antónia",
+                                            "@_tipo": "pessoa"
+                                        }
+                                    ],
+                                    "lugar": [
+                                        "N. Sra. a Branca",
+                                        "Ranhas"
+                                    ]
+                                }
+                            }
+                        },
+                        {
+                            "número": "7, 8 e 9",
+                            "vista": "Norte",
+                            "enfiteuta": "Sebastião Luís de Faria, enfiteuta principal do prazo dos campos detrás de Nossa Senhora \n                    a Branca e das Ranhas, sito na freguesia de S.Vitor",
+                            "desc": {
+                                "para": {
+                                    "#text": "Os herdeiros de, tanoeiro, casado\n                        com, pagam 1400 reis e 2 galinhas ao enfiteuta\n                        do prazo dos campos detrás dee das.",
+                                    "entidade": [
+                                        {
+                                            "#text": "Domingos Fernandes",
+                                            "@_tipo": "pessoa"
+                                        },
+                                        {
+                                            "#text": "Isabel Gonçalves",
+                                            "@_tipo": "pessoa"
+                                        }
+                                    ],
+                                    "lugar": [
+                                        "N. Sra. a Branca",
+                                        "Ranhas"
+                                    ]
+                                }
+                            }
+                        },
+                        {
+                            "número": "11",
+                            "vista": "Norte",
+                            "enfiteuta": "Sebastião Luís de Faria, enfiteuta principal do prazo dos campos detrás de Nossa Senhora \n                    a Branca e das Ranhas, sito na freguesia de S.Vitor",
+                            "desc": {
+                                "para": [
+                                    {
+                                        "#text": "Os herdeiros de, casada\n                        com, da,\n                        pagam 750 reis e 1 galinha ao enfiteuta do prazo dos campos detrás dee das.",
+                                        "entidade": [
+                                            {
+                                                "#text": "Maria de Sousa",
+                                                "@_tipo": "pessoa"
+                                            },
+                                            {
+                                                "#text": "Tomé da Silva",
+                                                "@_tipo": "pessoa"
+                                            }
+                                        ],
+                                        "lugar": [
+                                            "freguesia de Barroso",
+                                            "N. Sra. a Branca",
+                                            "Ranhas"
+                                        ]
+                                    },
+                                    {
+                                        "#text": "Esteve unida ao n.º10 entre os anos de.",
+                                        "data": "1612 a 1671"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "número": "12",
+                            "vista": "Norte",
+                            "enfiteuta": "Sebastião Luís de Faria, enfiteuta principal do prazo dos campos detrás de Nossa Senhora \n                    a Branca e das Ranhas, sito na freguesia de S.Vitor",
+                            "desc": {
+                                "para": {
+                                    "#text": "Os herdeiros de, filha natural de, pagam 720 reis e 1 galinha ao enfiteuta\n                        do prazo dos campos detrás dee das.\n                        Esteve unida ao n.º10 entre os anos de.",
+                                    "entidade": [
+                                        {
+                                            "#text": "Inácia do Vale",
+                                            "@_tipo": "pessoa"
+                                        },
+                                        {
+                                            "#text": "Isabel Dias",
+                                            "@_tipo": "pessoa"
+                                        }
+                                    ],
+                                    "lugar": [
+                                        "N. Sra. a Branca",
+                                        "Ranhas"
+                                    ],
+                                    "data": "1612 a 1679"
+                                }
+                            }
+                        },
+                        {
+                            "número": "13",
+                            "vista": "Norte",
+                            "enfiteuta": "Sebastião Luís de Faria, enfiteuta principal do prazo dos campos detrás de Nossa Senhora \n                    a Branca e das Ranhas, sito na freguesia de S.Vitor",
+                            "desc": {
+                                "para": {
+                                    "#text": "Os herdeiros de, ferreiro, casado\n                        com, pagam foro ao enfiteuta\n                        do prazo dos campos detrás dee das.",
+                                    "entidade": [
+                                        {
+                                            "#text": "Domingos Fernandes",
+                                            "@_tipo": "pessoa"
+                                        },
+                                        {
+                                            "#text": "Isabel Antónia",
+                                            "@_tipo": "pessoa"
+                                        }
+                                    ],
+                                    "lugar": [
+                                        "N. Sra. a Branca",
+                                        "Ranhas"
+                                    ]
+                                }
+                            }
+                        },
+                        {
+                            "número": "14",
+                            "vista": "Norte",
+                            "enfiteuta": "Sebastião Luís de Faria, enfiteuta principal do prazo dos campos detrás de Nossa Senhora \n                    a Branca e das Ranhas, sito na freguesia de S.Vitor",
+                            "desc": {
+                                "para": {
+                                    "#text": "Os herdeiros de, sombreiro, casado\n                        com, pagam 700 reis e 1 galinha ao enfiteuta\n                        do prazo dos campos detrás dee das.",
+                                    "entidade": [
+                                        {
+                                            "#text": "António Carvalho",
+                                            "@_tipo": "pessoa"
+                                        },
+                                        {
+                                            "#text": "Maria Martins",
+                                            "@_tipo": "pessoa"
+                                        }
+                                    ],
+                                    "lugar": [
+                                        "N. Sra. a Branca",
+                                        "Ranhas"
+                                    ]
+                                }
+                            }
+                        },
+                        {
+                            "número": "15",
+                            "vista": "Norte",
+                            "enfiteuta": "Sebastião Luís de Faria, enfiteuta principal do prazo dos campos detrás de Nossa Senhora \n                    a Branca e das Ranhas, sito na freguesia de S.Vitor",
+                            "desc": {
+                                "para": {
+                                    "#text": "Os herdeiros de, sombreiro, casado\n                        com, pagam 770 reis ao enfiteuta\n                        do prazo dos campos detrás dee das.",
+                                    "entidade": [
+                                        {
+                                            "#text": "Francisco Martins",
+                                            "@_tipo": "pessoa"
+                                        },
+                                        {
+                                            "#text": "Gregória Ferreira",
+                                            "@_tipo": "pessoa"
+                                        }
+                                    ],
+                                    "lugar": [
+                                        "N. Sra. a Branca",
+                                        "Ranhas"
+                                    ]
+                                }
+                            }
+                        },
+                        {
+                            "número": "16",
+                            "vista": "Norte",
+                            "enfiteuta": "Sebastião Luís de Faria, enfiteuta principal do prazo dos campos detrás de Nossa Senhora \n                    a Branca e das Ranhas, sito na freguesia de S.Vitor",
+                            "desc": {
+                                "para": {
+                                    "#text": "Os herdeiros do, pagam \n                        755 reis ao enfiteuta do prazo dos campos detrás dee das.",
+                                    "entidade": {
+                                        "#text": "Padre António de Oliveira",
+                                        "@_tipo": "pessoa"
+                                    },
+                                    "lugar": [
+                                        "N. Sra. a Branca",
+                                        "Ranhas"
+                                    ]
+                                }
+                            }
+                        },
+                        {
+                            "número": "17",
+                            "vista": "Norte",
+                            "enfiteuta": "Sebastião Luís de Faria, enfiteuta principal do prazo dos campos detrás de Nossa Senhora \n                    a Branca e das Ranhas, sito na freguesia de S.Vitor",
+                            "desc": {
+                                "para": [
+                                    {
+                                        "#text": "Os herdeiros de, viúva de, pagam 700 reis e 1 galinha ao enfiteuta\n                        do prazo dos campos detrás dee das.",
+                                        "entidade": [
+                                            {
+                                                "#text": "Maria Gonçalves",
+                                                "@_tipo": "pessoa"
+                                            },
+                                            {
+                                                "#text": "Francisco Gonçalves",
+                                                "@_tipo": "pessoa"
+                                            }
+                                        ],
+                                        "lugar": [
+                                            "N. Sra. a Branca",
+                                            "Ranhas"
+                                        ]
+                                    },
+                                    {
+                                        "#text": "Foi subenfiteut, juntamente com os n.º18, 19, 20, 21 e 22, no ano de.",
+                                        "data": "1612"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "número": "18 a 22",
+                            "vista": "Norte",
+                            "enfiteuta": "Sebastião Luís de Faria, enfiteuta principal do prazo dos campos detrás de Nossa Senhora \n                    a Branca e das Ranhas, sito na freguesia de S.Vitor",
+                            "desc": {
+                                "para": [
+                                    {
+                                        "#text": "Os subenfiteutas pagam ao enfiteuta do prazo dos campos detrás dee das, pelo n.º18, 100 reis; pelo n.º19, 600 reis e 1 galinha; pelos n.º20 e 21\n                    (unidos), 700 reis e 1 galinha; e pelo n.º22, 700 reis e 1 galinha.",
+                                        "lugar": [
+                                            "N. Sra. a Branca",
+                                            "Ranhas"
+                                        ]
+                                    },
+                                    "A casa n.º22 confronta, do nascente, com casa foeira à Mitra."
+                                ]
+                            }
+                        }
+                    ]
+                },
+                {
+                    "casa": [
+                        {
+                            "número": "1 e 2",
+                            "vista": "Sul",
+                            "enfiteuta": "As filhas do Dr. António Carneiro Tinoco",
+                            "desc": {
+                                "para": "Pagam 1800 reis ao n.º24."
+                            }
+                        },
+                        {
+                            "número": "3",
+                            "vista": "Sul",
+                            "enfiteuta": "As filhas do Dr. António Carneiro Tinoco",
+                            "desc": {
+                                "para": {
+                                    "#text": ", sombreireiro, casado com, paga 1200 reis ao n.º24.",
+                                    "entidade": [
+                                        {
+                                            "#text": "Manuel Teixeira",
+                                            "@_tipo": "pessoa"
+                                        },
+                                        {
+                                            "#text": "Teresa Maria",
+                                            "@_tipo": "pessoa"
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        {
+                            "número": "4",
+                            "vista": "Sul",
+                            "enfiteuta": "As filhas do Dr. António Carneiro Tinoco",
+                            "desc": {
+                                "para": {
+                                    "#text": ", solteira, e seu filho, da,\n                            pagam 1200 reis ao n.º24.",
+                                    "entidade": [
+                                        {
+                                            "#text": "Senhorinha Lopes",
+                                            "@_tipo": "pessoa"
+                                        },
+                                        {
+                                            "#text": "João Marcos",
+                                            "@_tipo": "pessoa"
+                                        }
+                                    ],
+                                    "lugar": "freguesia de S. Mamede d'Este"
+                                }
+                            }
+                        },
+                        {
+                            "número": "5",
+                            "vista": "Sul",
+                            "enfiteuta": "As filhas do Dr. António Carneiro Tinoco",
+                            "desc": {
+                                "para": {
+                                    "#text": ", sombreireiro, casado com, paga 1200 reis ao n.º24.",
+                                    "entidade": [
+                                        {
+                                            "#text": "Bento de Macedo",
+                                            "@_tipo": "pessoa"
+                                        },
+                                        {
+                                            "#text": "Quitéria Francisca",
+                                            "@_tipo": "pessoa"
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        {
+                            "número": "6",
+                            "vista": "Sul",
+                            "enfiteuta": "As filhas do Dr. António Carneiro Tinoco",
+                            "desc": {
+                                "para": {
+                                    "#text": ", alfaiate, casado com, paga 1200 reis ao n.º24.",
+                                    "entidade": [
+                                        {
+                                            "#text": "João Franscisco de Oliveira",
+                                            "@_tipo": "pessoa"
+                                        },
+                                        {
+                                            "#text": "Mariana Antónia",
+                                            "@_tipo": "pessoa"
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        {
+                            "número": "7",
+                            "vista": "Sul",
+                            "enfiteuta": "As filhas do Dr. António Carneiro Tinoco",
+                            "desc": {
+                                "para": {
+                                    "#text": ", sombreireiro, casado com, paga 1200 reis ao n.º24.",
+                                    "entidade": [
+                                        {
+                                            "#text": "Carlos Pereira",
+                                            "@_tipo": "pessoa"
+                                        },
+                                        {
+                                            "#text": "Mariana Francisca",
+                                            "@_tipo": "pessoa"
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        {
+                            "número": "8",
+                            "vista": "Sul",
+                            "enfiteuta": "As filhas do Dr. António Carneiro Tinoco",
+                            "desc": {
+                                "para": {
+                                    "#text": ", serralheiro, casado com, paga 1200 reis ao n.º24.",
+                                    "entidade": [
+                                        {
+                                            "#text": "António de Araújo",
+                                            "@_tipo": "pessoa"
+                                        },
+                                        {
+                                            "#text": "Josefa Teresa",
+                                            "@_tipo": "pessoa"
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        {
+                            "número": "9",
+                            "vista": "Sul",
+                            "enfiteuta": "As filhas do Dr. António Carneiro Tinoco",
+                            "desc": {
+                                "para": {
+                                    "#text": ", sombreireiro, casado com, paga 1200 reis ao n.º24.",
+                                    "entidade": [
+                                        {
+                                            "#text": "Manuel Marques",
+                                            "@_tipo": "pessoa"
+                                        },
+                                        {
+                                            "#text": "Antónia Francisca",
+                                            "@_tipo": "pessoa"
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        {
+                            "número": "10 e 11",
+                            "vista": "Sul",
+                            "enfiteuta": "As filhas do Dr. António Carneiro Tinoco",
+                            "desc": {
+                                "para": {
+                                    "#text": ", carpinteiro, casado com, paga 1800 reis ao n.º24.",
+                                    "entidade": [
+                                        {
+                                            "#text": "José de Oliveira",
+                                            "@_tipo": "pessoa"
+                                        },
+                                        {
+                                            "#text": "Maria Francisca",
+                                            "@_tipo": "pessoa"
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        {
+                            "número": "12",
+                            "vista": "Sul",
+                            "enfiteuta": "As filhas do Dr. António Carneiro Tinoco",
+                            "desc": {
+                                "para": {
+                                    "#text": ", serralheiro, casado com, paga 1200 reis ao n.º24.",
+                                    "entidade": [
+                                        {
+                                            "#text": "Manuel Dias",
+                                            "@_tipo": "pessoa"
+                                        },
+                                        {
+                                            "#text": "Maria Francisca",
+                                            "@_tipo": "pessoa"
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        {
+                            "número": "13",
+                            "vista": "Sul",
+                            "enfiteuta": "As filhas do Dr. António Carneiro Tinoco",
+                            "desc": {
+                                "para": {
+                                    "#text": ", sombreireiro, casado com, paga 1200 reis ao n.º24.",
+                                    "entidade": [
+                                        {
+                                            "#text": "António de Araújo",
+                                            "@_tipo": "pessoa"
+                                        },
+                                        {
+                                            "#text": "Isabel Maria",
+                                            "@_tipo": "pessoa"
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        {
+                            "número": "14",
+                            "vista": "Sul",
+                            "enfiteuta": "As filhas do Dr. António Carneiro Tinoco",
+                            "desc": {
+                                "para": {
+                                    "#text": ", carpinteiro, casado com, paga 1200 reis ao n.º24.",
+                                    "entidade": [
+                                        {
+                                            "#text": "Francisco Silva",
+                                            "@_tipo": "pessoa"
+                                        },
+                                        {
+                                            "#text": "Isabel Gomes",
+                                            "@_tipo": "pessoa"
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        {
+                            "número": "15",
+                            "vista": "Sul",
+                            "enfiteuta": "As filhas do Dr. António Carneiro Tinoco",
+                            "desc": {
+                                "para": {
+                                    "#text": ", pedreiro, casado com, paga 1200 reis ao n.º24.",
+                                    "entidade": [
+                                        {
+                                            "#text": "Custódio Francisco",
+                                            "@_tipo": "pessoa"
+                                        },
+                                        {
+                                            "#text": "Ana Francisca",
+                                            "@_tipo": "pessoa"
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        {
+                            "número": "16",
+                            "vista": "Sul",
+                            "enfiteuta": "As filhas do Dr. António Carneiro Tinoco",
+                            "desc": {
+                                "para": {
+                                    "#text": ", jornaleiro, casado com, paga 1200 reis ao n.º24.",
+                                    "entidade": [
+                                        {
+                                            "#text": "Silvestre de Oliveira",
+                                            "@_tipo": "pessoa"
+                                        },
+                                        {
+                                            "#text": "Inês Dantas",
+                                            "@_tipo": "pessoa"
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        {
+                            "número": "17",
+                            "vista": "Sul",
+                            "enfiteuta": "As filhas do Dr. António Carneiro Tinoco",
+                            "desc": {
+                                "para": {
+                                    "#text": ", viúva de, alfaiate, paga 1200 reis ao n.º24.",
+                                    "entidade": [
+                                        {
+                                            "#text": "Ana Ferreira",
+                                            "@_tipo": "pessoa"
+                                        },
+                                        {
+                                            "#text": "Domingos Marques",
+                                            "@_tipo": "pessoa"
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        {
+                            "número": "18",
+                            "vista": "Sul",
+                            "enfiteuta": "As filhas do Dr. António Carneiro Tinoco",
+                            "desc": {
+                                "para": {
+                                    "#text": ", sombreireiro, casado com, paga 1200 reis ao n.º24.",
+                                    "entidade": [
+                                        {
+                                            "#text": "Manuel da Costa",
+                                            "@_tipo": "pessoa"
+                                        },
+                                        {
+                                            "#text": "Marta Ferreira",
+                                            "@_tipo": "pessoa"
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        {
+                            "número": "19",
+                            "vista": "Sul",
+                            "enfiteuta": "As filhas do Dr. António Carneiro Tinoco",
+                            "desc": {
+                                "para": {
+                                    "#text": ", sombreireiro, casado com, paga 1200 reis ao n.º24.",
+                                    "entidade": [
+                                        {
+                                            "#text": "Diogo da Costa",
+                                            "@_tipo": "pessoa"
+                                        },
+                                        {
+                                            "#text": "Ana Lopes",
+                                            "@_tipo": "pessoa"
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        {
+                            "número": "20",
+                            "vista": "Sul",
+                            "enfiteuta": "As filhas do Dr. António Carneiro Tinoco",
+                            "desc": {
+                                "para": {
+                                    "#text": ", pedreiro, casado com, paga 1200 reis ao n.º24.",
+                                    "entidade": [
+                                        {
+                                            "#text": "Custódio Pereira",
+                                            "@_tipo": "pessoa"
+                                        },
+                                        {
+                                            "#text": "Ursula Francisca",
+                                            "@_tipo": "pessoa"
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        {
+                            "número": "21",
+                            "vista": "Sul",
+                            "enfiteuta": "As filhas do Dr. António Carneiro Tinoco",
+                            "desc": {
+                                "para": {
+                                    "#text": ", sombreireiro, casado com, paga 1200 reis ao n.º24.",
+                                    "entidade": [
+                                        {
+                                            "#text": "Geraldo de Matos",
+                                            "@_tipo": "pessoa"
+                                        },
+                                        {
+                                            "#text": "Domingas Francisca",
+                                            "@_tipo": "pessoa"
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        {
+                            "número": "22",
+                            "vista": "Sul",
+                            "enfiteuta": "As filhas do Dr. António Carneiro Tinoco",
+                            "desc": {
+                                "para": {
+                                    "#text": ", carpinteiro, casado com, paga 1200 reis ao n.º24.",
+                                    "entidade": [
+                                        {
+                                            "#text": "Garcia Correia",
+                                            "@_tipo": "pessoa"
+                                        },
+                                        {
+                                            "#text": "Francisca de Barros",
+                                            "@_tipo": "pessoa"
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        {
+                            "número": "23",
+                            "vista": "Sul",
+                            "enfiteuta": "As filhas do Dr. António Carneiro Tinoco",
+                            "desc": {
+                                "para": [
+                                    {
+                                        "#text": ", alfaiate, viúvo, paga 1200 reis ao n.º24.",
+                                        "entidade": {
+                                            "#text": "Domingos de Barros",
+                                            "@_tipo": "pessoa"
+                                        }
+                                    },
+                                    "Confronta, do poente, com propriedade do prazo principal."
+                                ]
+                            }
+                        },
+                        {
+                            "número": "24",
+                            "vista": "Sul",
+                            "enfiteuta": "As filhas do Dr. António Carneiro Tinoco",
+                            "foro": "100 reis, 6 alqueires de trigo, 6 de pão meado e 2 galinhas",
+                            "desc": {
+                                "para": [
+                                    {
+                                        "#text": "E cabeça de Prazo «Casal de Entre os Matos», da.",
+                                        "lugar": "freguesia de S. Vitor"
+                                    },
+                                    {
+                                        "#text": "O emprazamento mais antigo que se conehce data dee foi feito a favor de, ouvires, da cidade de.\n                        Seguem-se os emprazamentos dos anos dee. \n                        Pertence a este prazo os n.º1 a 23 da.",
+                                        "data": [
+                                            "1483",
+                                            "1550",
+                                            "1579"
+                                        ],
+                                        "entidade": {
+                                            "#text": "Martim Álvares",
+                                            "@_tipo": "pessoa"
+                                        },
+                                        "lugar": [
+                                            "Braga",
+                                            "rua Nova da Seara"
+                                        ]
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

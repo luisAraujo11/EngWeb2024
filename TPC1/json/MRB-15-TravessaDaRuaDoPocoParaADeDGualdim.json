@@ -1,0 +1,160 @@
+{
+    "rua": {
+        "@_noNamespaceSchemaLocation": "file:/C:/Users/Cristiana%20Carvalho/Desktop/Publica%C3%A7%C3%A3o%20eletr%C3%B3nica/PROJETO%20FINAL/MRM-rua.xsd",
+        "meta": {
+            "número": "15",
+            "nome": "Travessa da Rua do Poço para a de D.Gualdim"
+        },
+        "corpo": {
+            "para": [
+                {
+                    "#text": "Fragmento da actual, entre as.",
+                    "lugar": [
+                        "rua D. Afonso Henriques",
+                        "ruas D. Gonçalo Pereira e D. Gualdim Pais"
+                    ]
+                },
+                {
+                    "#text": "Se na sua pequeníssima extensão poucas casas há (1 do lado Norte e 4 do lado Sul, todas prazos do) não deixa de ter mesmo assim dois edifícios interessantes: a dos prazos 5 e 6, boa casa de pedra com uma notável porta varanda dos finais de seiscentos; e a dos números 1 e 2 por ser uma casa muito grande com o piso superior sobradado, à maneira antiga.",
+                    "entidade": {
+                        "#text": "Cabido",
+                        "@_tipo": "instituição"
+                    }
+                },
+                "Curiosos são ainda os prazos n.ºs 3 e 4 onde se vêem 2 habitações com «porta ladeada de uma janela» que eram frequentes, sobretudo, nas ruas existentes no exterior das muralhas.",
+                "Alargadas nos finais do séc. XIX, não se conservam hoje nenhuma das casas desta rua existentes no Mappa."
+            ],
+            "figura": [
+                {
+                    "@_id": "MRB-15-norte",
+                    "imagem": {
+                        "@_path": "../imagem/MRB-15-TravessaDaRuaDoPocoParaADeDGualdim-Norte.jpg"
+                    },
+                    "legenda": "Travessa da Rua do Poço para a de D.Gualdim - vista norte."
+                },
+                {
+                    "@_id": "MRB-15-sul",
+                    "imagem": {
+                        "@_path": "../imagem/MRB-15-TravessaDaRuaDoPocoParaADeDGualdim-Sul.jpg"
+                    },
+                    "legenda": "Travessa da Rua do Poço para a de D.Gualdim - vista sul."
+                }
+            ],
+            "lista-casas": {
+                "casa": [
+                    {
+                        "número": "1",
+                        "desc": {
+                            "para": {
+                                "#text": "Pertencem ao n.º 21 da, para onde têm a frontaria e serventia principais. Foram unidas no ano de.",
+                                "lugar": "Rua do Poço",
+                                "data": "1609"
+                            }
+                        }
+                    },
+                    {
+                        "número": "2",
+                        "desc": {
+                            "para": {
+                                "#text": "Pertencem ao n.º 21 da, para onde têm a frontaria e serventia principais. Foram unidas no ano de.",
+                                "lugar": "Rua do Poço",
+                                "data": "1609"
+                            }
+                        }
+                    },
+                    {
+                        "número": "3",
+                        "enfiteuta": "Os herdeiros de Francisco Almeida Cabral e de sua mulher, D. Josefa Luísa de Araújo",
+                        "foro": "180 reis e 2 galinhas",
+                        "desc": {
+                            "para": {
+                                "#text": "As casa n.º 2 e 3 estiveram unidas, num só prazo, ao n° 4, entre os anos de.",
+                                "data": "1533 e 1597"
+                            }
+                        }
+                    },
+                    {
+                        "número": "4",
+                        "enfiteuta": "Os herdeiros de Francisco Almeida Cabral e de sua mulher, D.Josefa Luísa de Araújo",
+                        "foro": "200 reis e 2 galinhas",
+                        "desc": {
+                            "para": {
+                                "#text": "As casa n.º 2 e 3 estiveram unidas, num só prazo, ao n° 4, entre os anos de.",
+                                "data": "1533 e 1597"
+                            }
+                        }
+                    },
+                    {
+                        "número": "5",
+                        "enfiteuta": "Miguel Luís Dias, escrivão dos casamentos da cidade de Braga, e sua mulher Adriana Maria Ribeiro",
+                        "foro": "330 reis e 2 galinhas",
+                        "desc": {
+                            "para": [
+                                {
+                                    "#text": "O n.º 5 situa-se defronte da porta do.",
+                                    "lugar": "açougue"
+                                },
+                                {
+                                    "#text": "Ao n° 6, pertence uma casa terceira da rua que vai destaa para. Possui frontaria para a",
+                                    "lugar": [
+                                        "travess",
+                                        "Santiago",
+                                        "Rua de D. Gualdim."
+                                    ]
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "número": "6",
+                        "enfiteuta": "Miguel Luís Dias, escrivão dos casamentos da cidade de Braga, e sua mulher Adriana Maria Ribeiro",
+                        "foro": "450 reis e 2 galinhas",
+                        "desc": {
+                            "para": [
+                                {
+                                    "#text": "O n.º 5 situa-se defronte da porta do.",
+                                    "lugar": "açougue"
+                                },
+                                {
+                                    "#text": "Ao n° 6, pertence uma casa terceira da rua que vai destaa para. Possui frontaria para a",
+                                    "lugar": [
+                                        "travess",
+                                        "Santiago",
+                                        "Rua de D. Gualdim."
+                                    ]
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "número": "7",
+                        "desc": {
+                            "para": {
+                                "#text": "Correspondem ao n° 7 da, para onde têm a frontaria e serventia principais.",
+                                "lugar": "Rua de D. Gualdim"
+                            }
+                        }
+                    },
+                    {
+                        "número": "8",
+                        "desc": {
+                            "para": {
+                                "#text": "Correspondem ao n° 7 da, para onde têm a frontaria e serventia principais.",
+                                "lugar": "Rua de D. Gualdim"
+                            }
+                        }
+                    },
+                    {
+                        "número": "9",
+                        "desc": {
+                            "para": {
+                                "#text": "Corresponde ao n° 22 da, para onde tem a frontaria principal.",
+                                "lugar": "Rua do Poço"
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

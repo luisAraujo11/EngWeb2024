@@ -1,0 +1,268 @@
+{
+    "rua": {
+        "@_noNamespaceSchemaLocation": "file:/C:/Users/maria/OneDrive/%C3%81rea%20de%20Trabalho/UMINHO/4%C2%BA%20ANO/1%C2%BA%20SEMESTRE/Publica%C3%A7%C3%B5es%20Eletr%C3%B3nicas/PROJETO%20FINAL/MRB-rua.xsd",
+        "meta": {
+            "número": "47",
+            "nome": "Rua de S. Barnabé"
+        },
+        "corpo": {
+            "para": {
+                "#text": "Pertencente ao complexo que tinha o centro na, ligava as ruas de Santo André e da Oliveira.\n            Artéria um pouco marginal a este conjunto, tem o seu prazo mais antigo em.\n            Dividida em lotes, como todo o conjunto denominado de Quinteiro ou Gavião, ou, actualmente de, tinha apenas ocupados com casas 18 dos 31 terrenos preparados para edificações. O restante espaço disponível, aqui assinalado com os n?s 8-20 e 23-24, eram as entradas ou muros de limite dos quintais da.\n            As 20 casas desenhadas no Mappa são todas térreas, muito simples, do tipo de porta com janela lateral, mas com as «molduras» de pedra visíveis. Todas estas construções são prazos do.\n            Mantém o nome de.",
+                "lugar": [
+                    "praça do Gavião",
+                    "campo Novo",
+                    "rua dos Chãos de Cima",
+                    "S. Barnabé"
+                ],
+                "data": "1743",
+                "entidade": {
+                    "#text": "Cabido",
+                    "@_tipo": "instituição"
+                }
+            },
+            "figura": [
+                {
+                    "@_id": "MRB-47-nascente",
+                    "imagem": {
+                        "@_path": "../imagem/MRB-47-RuaDeS.Barnabe-a(nascente).jpg"
+                    },
+                    "legenda": "Praça do Gavião - Nascente."
+                },
+                {
+                    "@_id": "MRB-47-poente",
+                    "imagem": {
+                        "@_path": "../imagem/MRB-47-RuaDeS.Barnabe-a(poente).jpg"
+                    },
+                    "legenda": "Praça do Gavião - Nascente."
+                }
+            ],
+            "lista-casas": {
+                "casa": [
+                    {
+                        "número": "1",
+                        "desc": {
+                            "para": {
+                                "#text": "Pertence à casa n.° 14 da, para onde tem a frontaria e serventia principais.",
+                                "lugar": "Rua de Sto. André"
+                            }
+                        }
+                    },
+                    {
+                        "número": "2,3 e 4",
+                        "enfiteuta": "D. Agostinha Maria de Barros, enfiteuta principal do prazo do casal dos Chãos ou Quinteiro.",
+                        "desc": {
+                            "para": {
+                                "#text": "paga 3240 reis ao enfiteuta do prazo do casal dos Chãos ou Quinteiro.\n                        Encontram-se unidas desde.",
+                                "entidade": {
+                                    "#text": "Isabel Maria de Jesus",
+                                    "@_tipo": "pessoa"
+                                },
+                                "data": "1743"
+                            }
+                        }
+                    },
+                    {
+                        "número": "5",
+                        "enfiteuta": "D. Agostinha Maria de Barros, enfiteuta principal do prazo do casal dos Chãos ou Quinteiro.",
+                        "desc": {
+                            "para": {
+                                "#text": "paga 1325 reis ao enfiteuta do prazo do casal dos Chãos ou Quinteiro. Foi construída antes de.",
+                                "entidade": {
+                                    "#text": "Antónia Francisca",
+                                    "@_tipo": "pessoa"
+                                },
+                                "data": "1745"
+                            }
+                        }
+                    },
+                    {
+                        "número": "6 e 7",
+                        "desc": {
+                            "para": {
+                                "#text": "Pertence ao n.° 86 da.",
+                                "lugar": "Rua dos Chãos de Cima"
+                            }
+                        }
+                    },
+                    {
+                        "número": "8",
+                        "desc": {
+                            "para": {
+                                "#text": "Porta de serventia do quintal do n.° 85 da.",
+                                "lugar": "Rua dos Chãos de Cima"
+                            }
+                        }
+                    },
+                    {
+                        "número": "9",
+                        "desc": {
+                            "para": "Porta de serventia do quintal do n.° 84 da Rua dos Chãos de Cima."
+                        }
+                    },
+                    {
+                        "número": "10",
+                        "desc": {
+                            "para": {
+                                "#text": "Porta de serventia do quintal do n.° 81 da.",
+                                "lugar": "Rua dos Chãos de Cima"
+                            }
+                        }
+                    },
+                    {
+                        "número": "11",
+                        "desc": {
+                            "para": {
+                                "#text": "Porta de serventia do quintal do n.° 80 da.",
+                                "lugar": "Rua dos Chãos de Cima"
+                            }
+                        }
+                    },
+                    {
+                        "número": "12",
+                        "desc": {
+                            "para": {
+                                "#text": "Porta de serventia dos quintais dos n.° 77 e 78 da.",
+                                "lugar": "Rua dos Chãos de Cima"
+                            }
+                        }
+                    },
+                    {
+                        "número": "13",
+                        "desc": {
+                            "para": {
+                                "#text": "Porta de serventia dos quintais dos n.° 75 e 76 da.",
+                                "lugar": "rua dos Chãos de Cima"
+                            }
+                        }
+                    },
+                    {
+                        "número": "14",
+                        "desc": {
+                            "para": {
+                                "#text": "Porta de serventia do quintal do n.° 74 da.",
+                                "lugar": "Rua dos Chãos de Cima"
+                            }
+                        }
+                    },
+                    {
+                        "número": "15",
+                        "desc": {
+                            "para": {
+                                "#text": "Quintal da casa n.° 72 da.",
+                                "lugar": "Rua dos Chãos de Cima"
+                            }
+                        }
+                    },
+                    {
+                        "número": "16",
+                        "desc": {
+                            "para": {
+                                "#text": "Quintal da casa n.° 71 da.",
+                                "lugar": "Rua dos Chãos de Cima"
+                            }
+                        }
+                    },
+                    {
+                        "número": "17",
+                        "desc": {
+                            "para": {
+                                "#text": "Quintal da casa n.° 70 da.",
+                                "lugar": "Rua dos Chãos de Cima"
+                            }
+                        }
+                    },
+                    {
+                        "número": "18",
+                        "desc": {
+                            "para": {
+                                "#text": "Quintal da casa n.° 69 da.",
+                                "lugar": "Rua dos Chãos de Cima"
+                            }
+                        }
+                    },
+                    {
+                        "número": "19",
+                        "desc": {
+                            "para": {
+                                "#text": "Quintal da casa n.° 68 da.",
+                                "lugar": "Rua dos Chãos de Cima"
+                            }
+                        }
+                    },
+                    {
+                        "número": "20",
+                        "desc": {
+                            "para": {
+                                "#text": "Quintal da casa n.° 67 da.",
+                                "lugar": "Rua dos Chãos de Cima"
+                            }
+                        }
+                    },
+                    {
+                        "número": "21",
+                        "desc": {
+                            "para": {
+                                "#text": "Pertence ao n.° 66 da.",
+                                "lugar": "Rua dos Chãos de Cima"
+                            }
+                        }
+                    },
+                    {
+                        "número": "22",
+                        "desc": {
+                            "para": {
+                                "#text": "Pertence ao n.° 64 da.",
+                                "lugar": "Rua dos Chãos de Cima"
+                            }
+                        }
+                    },
+                    {
+                        "número": "23",
+                        "desc": {
+                            "para": {
+                                "#text": "Porta do quintal da casa n.° 63 da.",
+                                "lugar": "Rua dos Chãos de Cima"
+                            }
+                        }
+                    },
+                    {
+                        "número": "24",
+                        "desc": {
+                            "para": {
+                                "#text": "Porta do quintal da casa n.° 62 da.\n                        Confronta, do nascente, com a viela que vai para a dita rua.",
+                                "lugar": "Rua dos Chãos de Cima"
+                            }
+                        }
+                    },
+                    {
+                        "número": "25 a 37",
+                        "enfiteuta": "D. Agostinha Maria de Barros, enfiteuta principal do prazo do casal dos Chãos ou Quinteiro.",
+                        "desc": {
+                            "para": {
+                                "#text": "«Chãos de casa» pertencentes ao prazo do casal dos Chãos ou Quinteiro.\n                        O chão n.° 25 confronta, do norte, com o caminho que vai para.",
+                                "lugar": "S. Vicente"
+                            }
+                        }
+                    },
+                    {
+                        "número": "38 a 49",
+                        "enfiteuta": "D. Agostinha Maria de Barros, enfiteuta principal do prazo do casal dos Chãos ou Quinteiro.",
+                        "desc": {
+                            "para": "Pagam foro ao enfiteuta do prazo do casal dos Chãos ou Quinteiro."
+                        }
+                    },
+                    {
+                        "número": "50",
+                        "enfiteuta": "D. Agostinha Maria de Barros, enfiteuta principal do prazo do casal dos Chãos ou Quinteiro.",
+                        "desc": {
+                            "para": {
+                                "#text": "Pertence à casa n.° 15 da, para onde tem a frontaria e serventia principais.",
+                                "lugar": "Rua de Sto. André"
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

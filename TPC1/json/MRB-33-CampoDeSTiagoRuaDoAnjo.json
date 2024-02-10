@@ -1,0 +1,634 @@
+{
+    "rua": {
+        "@_noNamespaceSchemaLocation": "file:/C:/Users/tiago/OneDrive/Documents/workspace_xml/trabalhofinal/MRB-rua.xsd",
+        "meta": {
+            "número": "33",
+            "nome": "Campo de S. Tiago"
+        },
+        "corpo": {
+            "para": [
+                {
+                    "#text": "Grande largo mandado abrir por, em frente à porta da muralha que tem o mesmo nome.",
+                    "entidade": {
+                        "#text": "D. Diogo de Sousa",
+                        "@_tipo": "pessoa"
+                    }
+                },
+                {
+                    "#text": "Ponto de chegada da estrada do, que subia a, este campo passou a ter uma maior importância a partir da construção das novas instalações do(na década de) sobre a muralha, no local onde agora se encontra o. Este edifício, contudo, tinha apenas duas fiadas corridas de janelas abertas para ele.",
+                    "lugar": [
+                        "Porto",
+                        "rua dos Pelames",
+                        "Colégio de S. Paulo",
+                        "Seminário de Santiago"
+                    ],
+                    "data": "1560-1570"
+                },
+                {
+                    "#text": "Rapidamente todo este espaço foi preenchido. Coma zona envolvente ao Colégio (,,e) foi limpa das prostitutas e dos ociosos que aí habitavam, para neles poderem viver, em melhor ambiente, os estudantes que chegaram a atingir um número máximo de 2000 alunos.",
+                    "entidade": {
+                        "#text": "D. Frei Bartolomeu dos Mártires",
+                        "@_tipo": "pessoa"
+                    },
+                    "lugar": [
+                        "ruas dos Pelames",
+                        "rua S. Paulo",
+                        "largo de S. Paulo",
+                        "campo de S. Tiago"
+                    ]
+                },
+                {
+                    "#text": "Emamandou construir uma fonte «cêrca da torre e porta de S. Tiago e em frente da», que foi removida em, por determinação do, fazendo-se então o actual chafariz.",
+                    "data": [
+                        "1623",
+                        "1745"
+                    ],
+                    "entidade": [
+                        {
+                            "#text": "Câmara",
+                            "@_tipo": "instituição"
+                        },
+                        {
+                            "#text": "Arcebispo D. José de Bragança",
+                            "@_tipo": "pessoa"
+                        }
+                    ],
+                    "lugar": "rua dos Pellames"
+                },
+                {
+                    "#text": "Em, com a expulsão dos, a quem fora confiado o ensino neste colégio, odeverá ter perdido grande parte da sua vida.",
+                    "data": "1759",
+                    "entidade": {
+                        "#text": "Jesuítas",
+                        "@_tipo": "instituição"
+                    },
+                    "lugar": "campo de S. Tiago"
+                },
+                {
+                    "#text": "Emno lado Sul deste largo havia onze casas, todas prazos do, que se podiam dividir em três grupos: um, mais pobre, (casas dos prazos 5 a 11) de desenho de fachada simples, com janelas do tipo bracarense, parcialmente cobertas por gelosias; outro (casas dos prazos 2 a 4) mais cuidado, com portas com rebordo saliente e frisos, também de pedra, sobre as janelas; e o terceiro, formado pela belíssima, mandada fazer empelo, e onde actualmente está instalado o.",
+                    "data": [
+                        "1750",
+                        "1703"
+                    ],
+                    "entidade": [
+                        {
+                            "#text": "Cabido",
+                            "@_tipo": "instituição"
+                        },
+                        {
+                            "#text": "Cónego Meira Carrilho",
+                            "@_tipo": "pessoa"
+                        },
+                        {
+                            "#text": "Governo Civil",
+                            "@_tipo": "instituição"
+                        }
+                    ],
+                    "lugar": "casa dos Falcões Cota"
+                },
+                {
+                    "#text": "Rua extramuros, ao longo da parte Sul da muralha, servia de ligação entre os campos de S. Tiago e dos Remédios, ambos abertos por.",
+                    "entidade": {
+                        "#text": "D. Diogo de Sousa",
+                        "@_tipo": "pessoa"
+                    }
+                },
+                {
+                    "#text": "Esta rua cujas «...casas ccom seus quintais que do ano depara diante se começaram a edificar...» seria também uma consequência, embora indirecta, da obra daquele grande arcebispo.",
+                    "data": "1540"
+                },
+                {
+                    "#text": "Tendo do lado Norte casas que encostavam à muralha e que talvez fossem prazos da, estava, já em, totalmente edificada na parte Sul conforme se vê no mapa de Braunio.",
+                    "entidade": {
+                        "#text": "Câmara",
+                        "@_tipo": "instituição"
+                    },
+                    "data": "1594"
+                },
+                {
+                    "#text": "Lentamente se terá mudado o estatuto social dos seus moradores. É que embora haja hoje em dia muitos edifícios do séc. XVII a XIX de grande qualidade, a ponto de a tornar uma das ruas mais interessantes da cidade actual, em, ao lado de apenas 3 casas grandes havia uma série de outras pequenas, do tipo com porta ladeada de janela no piso térreo, e que já vimos ser característica das ruas secundárias e mais distantes do centro.",
+                    "data": "1750"
+                },
+                {
+                    "#text": "No seu extremo nascente, com fachada virada ao, estava a, cujo alçado lateral Norte faceava inteiramente esta rua.",
+                    "lugar": [
+                        "campo dos Remédios",
+                        "igreja de Santa Cruz"
+                    ]
+                },
+                {
+                    "#text": "Das 16 casas aqui apresentadas só uma, a que ficava imediatamente atrás daquela igreja, não era prazo do.",
+                    "entidade": {
+                        "#text": "Cabido",
+                        "@_tipo": "instituição"
+                    }
+                }
+            ],
+            "lista-casas": [
+                {
+                    "casa": [
+                        {
+                            "número": "1",
+                            "enfiteuta": "Estevão Falcão Costa",
+                            "foro": "350 reis e 3 galinhas",
+                            "desc": {
+                                "para": [
+                                    {
+                                        "#text": "Esta casa é cabeça do prazo, denominado, «», que foi feito ema, viúva, e a seu filho, depois, a, da.",
+                                        "lugar": [
+                                            "Lugar do Pombal",
+                                            "freguesia de Sta. Maria de Mujão"
+                                        ],
+                                        "data": "1508",
+                                        "entidade": [
+                                            {
+                                                "#text": "Maria de Teive",
+                                                "@_tipo": "pessoa"
+                                            },
+                                            {
+                                                "#text": "Fernando Pertenceu",
+                                                "@_tipo": "pessoa"
+                                            },
+                                            {
+                                                "#text": "Tristão Pereira de Abreu",
+                                                "@_tipo": "pessoa"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "#text": "Posteriormente foi emprazado ao, a quem sucedeu seu sobrinho neto,. À face deste prazo foram feitas escrituras de suemprazamento das casas nº 7 a 13, da cangosta das cruzes.",
+                                        "entidade": [
+                                            {
+                                                "#text": "Cónego Francisco de Meira Carilho",
+                                                "@_tipo": "pessoa"
+                                            },
+                                            {
+                                                "#text": "Estevão Falcão Cotta",
+                                                "@_tipo": "pessoa"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "número": "2",
+                            "enfiteuta": "Francisco Pinheiro Lobo",
+                            "foro": "500 reis, 8 alqueires de pão meado, 2 galinhas e 2 capões",
+                            "desc": {
+                                "para": {
+                                    "#text": "Esta casa é cabeça de prazo do, que foi emprazada ema, e a sua mulher,. Pertenceu a, casado com, de quem foi herdeiro,. À face deste prazo foram feitas diversas escrituras de subemprazamento das casas nº 3 a 11 do; dos nº 1 a 20, da, e dos nº 1 a 8 da.",
+                                    "lugar": [
+                                        "Campo de Avelar, Figueira e Laranjeira",
+                                        "Campo de Santigo",
+                                        "Rua dos Pelames",
+                                        "Rua do Alcaide"
+                                    ],
+                                    "data": "1524",
+                                    "entidade": [
+                                        {
+                                            "#text": "Rodrigo de Moura, Escudeiro de Lamego",
+                                            "@_tipo": "pessoa"
+                                        },
+                                        {
+                                            "#text": "Maria Sotem",
+                                            "@_tipo": "pessoa"
+                                        },
+                                        {
+                                            "#text": "Diogo Lopes de Lemos Leão, cidadão de Braga",
+                                            "@_tipo": "pessoa"
+                                        },
+                                        {
+                                            "#text": "D. Antónia Pereira",
+                                            "@_tipo": "pessoa"
+                                        },
+                                        {
+                                            "#text": "Francisco Pinheiro Lobo",
+                                            "@_tipo": "pessoa"
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        {
+                            "número": "3 e 4",
+                            "enfiteuta": "Francisco Pinheiro Lobo",
+                            "desc": {
+                                "para": {
+                                    "#text": "Os herdeiros de, casado compagam 300 reis por cada morada, ou seja, 600 reis ao nº 2. Estas casas foram construídas em.",
+                                    "entidade": [
+                                        {
+                                            "#text": "Sebastião Afonso, lavrados",
+                                            "@_tipo": "pessoa"
+                                        },
+                                        {
+                                            "#text": "Branca Fernandes",
+                                            "@_tipo": "pessoa"
+                                        }
+                                    ],
+                                    "data": "1550"
+                                }
+                            }
+                        },
+                        {
+                            "número": "5",
+                            "enfiteuta": "Francisco Pinheiro Lobo",
+                            "desc": {
+                                "para": {
+                                    "#text": "Os herdeiros de, filho deda, pagam 320 reis ao nº 2. Foi edificada em.",
+                                    "entidade": [
+                                        {
+                                            "#text": "Miguel Dias",
+                                            "@_tipo": "pessoa"
+                                        },
+                                        {
+                                            "#text": "Salvador Dias",
+                                            "@_tipo": "pessoa"
+                                        }
+                                    ],
+                                    "lugar": "freguesia de Cervães",
+                                    "data": "1550"
+                                }
+                            }
+                        },
+                        {
+                            "número": "6",
+                            "enfiteuta": "Francisco Pinheiro Lobo",
+                            "desc": {
+                                "para": {
+                                    "#text": "Os herdeiros de, filho deda, pagam 320 reis ao nº 2. Foi edificada em.",
+                                    "entidade": [
+                                        {
+                                            "#text": "Miguel Dias",
+                                            "@_tipo": "pessoa"
+                                        },
+                                        {
+                                            "#text": "Salvador Dias",
+                                            "@_tipo": "pessoa"
+                                        }
+                                    ],
+                                    "lugar": "freguesia de Cervães",
+                                    "data": "1550"
+                                }
+                            }
+                        },
+                        {
+                            "número": "7",
+                            "enfiteuta": "Francisco Pinheiro Lobo",
+                            "desc": {
+                                "para": {
+                                    "#text": "Os herdeiros de, casado compagam 300 reis e 1 galinha ao nº 2. Foi edificada em.",
+                                    "entidade": [
+                                        {
+                                            "#text": "João do Rio, alfaiate",
+                                            "@_tipo": "pessoa"
+                                        },
+                                        {
+                                            "#text": "Maria Pires",
+                                            "@_tipo": "pessoa"
+                                        }
+                                    ],
+                                    "data": "1550"
+                                }
+                            }
+                        },
+                        {
+                            "número": "8",
+                            "enfiteuta": "Francisco Pinheiro Lobo",
+                            "desc": {
+                                "para": {
+                                    "#text": "Os herdeiros de, pagam 300 reis e 1 galinha ao nº 2. Foi edificada em.",
+                                    "entidade": {
+                                        "#text": "Domingo Pires, carpinteiro",
+                                        "@_tipo": "pessoa"
+                                    },
+                                    "data": "1550"
+                                }
+                            }
+                        },
+                        {
+                            "número": "9",
+                            "enfiteuta": "Francisco Pinheiro Lobo",
+                            "desc": {
+                                "para": {
+                                    "#text": "Os herdeiros de, casado com, pagam 300 reis e 1 galinha ao nº 2. Foi edificada em.",
+                                    "entidade": [
+                                        {
+                                            "#text": "João Pires, carpinteiro",
+                                            "@_tipo": "pessoa"
+                                        },
+                                        {
+                                            "#text": "Joana Pires",
+                                            "@_tipo": "pessoa"
+                                        }
+                                    ],
+                                    "data": "1550"
+                                }
+                            }
+                        },
+                        {
+                            "número": "10",
+                            "enfiteuta": "Francisco Pinheiro Lobo",
+                            "desc": {
+                                "para": {
+                                    "#text": "Os herdeiros de, casado com, pagam 200 reis e 1 galinha ao nº 2. Foi edificada em.",
+                                    "entidade": [
+                                        {
+                                            "#text": "Francisco Fernandes, carpinteiro",
+                                            "@_tipo": "pessoa"
+                                        },
+                                        {
+                                            "#text": "Isabel Fernandes",
+                                            "@_tipo": "pessoa"
+                                        }
+                                    ],
+                                    "data": "1636"
+                                }
+                            }
+                        },
+                        {
+                            "número": "11",
+                            "enfiteuta": "Francisco Pinheiro Lobo",
+                            "desc": {
+                                "para": {
+                                    "#text": "Os herdeiros de, viúva de, pagam 160 reis ao nº 2. Confronta, do poente, com ae, do sul, com o nº 2 da mesma rua. Foi edificada em.",
+                                    "entidade": [
+                                        {
+                                            "#text": "Maria de Olvieira",
+                                            "@_tipo": "pessoa"
+                                        },
+                                        {
+                                            "#text": "Domingos de Matos",
+                                            "@_tipo": "pessoa"
+                                        }
+                                    ],
+                                    "lugar": "Rua dos Pelames",
+                                    "data": "1550"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "casa": [
+                        {
+                            "número": "1",
+                            "enfiteuta": "Estevão Falcão Costa",
+                            "desc": {
+                                "para": {
+                                    "#text": ", paga 70 reis, de foro, ao enfiteuta principal do prazo do campo ou lugar de Castelo Rodrigo. Foi construída depois de.",
+                                    "entidade": {
+                                        "#text": "António de Araújo Ferreira, alfaiate",
+                                        "@_tipo": "pessoa"
+                                    },
+                                    "data": "1582"
+                                }
+                            }
+                        },
+                        {
+                            "número": "2",
+                            "enfiteuta": "Estevão Falcão Costa",
+                            "desc": {
+                                "para": {
+                                    "#text": "Os herdeiros de, casado com, pagam 80 reis, de foro, ao enfiteuta principal do prazo do campo ou lugar de Castelo Rodrigo. Foi construída depois de.",
+                                    "entidade": [
+                                        {
+                                            "#text": "Jerónimo Portilho",
+                                            "@_tipo": "pessoa"
+                                        },
+                                        {
+                                            "#text": "Filipa Gonçalves",
+                                            "@_tipo": "pessoa"
+                                        }
+                                    ],
+                                    "data": "1584"
+                                }
+                            }
+                        },
+                        {
+                            "número": "3, 4 e 5",
+                            "enfiteuta": "Estevão Falcão Costa",
+                            "desc": {
+                                "para": {
+                                    "#text": "Paga foro ao enfiteuta principal do prazo do campo ou lugar de Castelo Rodrigo. Estes nº, encontram-se unidos, numa só morada. O nº 4 foi construído eme o nº 5 em.",
+                                    "data": [
+                                        "1633",
+                                        "1655"
+                                    ]
+                                }
+                            }
+                        },
+                        {
+                            "número": "6",
+                            "enfiteuta": "Estevão Falcão Costa",
+                            "desc": {
+                                "para": {
+                                    "#text": "Os herdeiros de, casado com, pagam 125 reis ao enfiteuta principal do prazo do campo ou lugar de Castelo Rodrigo. Foi construída depois de.",
+                                    "entidade": [
+                                        {
+                                            "#text": "Francisco Gonçalves, violeiro",
+                                            "@_tipo": "pessoa"
+                                        },
+                                        {
+                                            "#text": "Ana de Azevedo",
+                                            "@_tipo": "pessoa"
+                                        }
+                                    ],
+                                    "data": "1603"
+                                }
+                            }
+                        },
+                        {
+                            "número": "7",
+                            "enfiteuta": "Estevão Falcão Costa",
+                            "desc": {
+                                "para": "Paga 125 reis ao enfiteuta principal do prazo do campo ou lugar de Castelo Rodrigo."
+                            }
+                        },
+                        {
+                            "número": "8",
+                            "enfiteuta": "Estevão Falcão Costa",
+                            "desc": {
+                                "para": {
+                                    "#text": "Os herdeiros de, casado com, pagam 300 reis ao enfiteuta principal do prazo do campo ou lugar de Castelo Rodrigo. Foi construída depois de.",
+                                    "entidade": [
+                                        {
+                                            "#text": "Salvador Francisco, moleiro",
+                                            "@_tipo": "pessoa"
+                                        },
+                                        {
+                                            "#text": "Maria da Silva",
+                                            "@_tipo": "pessoa"
+                                        }
+                                    ],
+                                    "data": "1631"
+                                }
+                            }
+                        },
+                        {
+                            "número": "9",
+                            "enfiteuta": "Estevão Falcão Costa",
+                            "desc": {
+                                "para": {
+                                    "#text": "Os herdeiros dopagam 305 reis ao enfiteuta principal do prazo do campo ou lugar de Castelo Rodrigo. Foi construída depois de.",
+                                    "entidade": {
+                                        "#text": "Padre Manuel Machado",
+                                        "@_tipo": "pessoa"
+                                    },
+                                    "data": "1668"
+                                }
+                            }
+                        },
+                        {
+                            "número": "10",
+                            "enfiteuta": "Estevão Falcão Costa",
+                            "desc": {
+                                "para": {
+                                    "#text": "Paga 150 reis ao enfiteuta principal do prazo do campo ou lugar de Castelo Rodrigo. Foi construída depois de, juntamente com o nº 11, e pagavam 300 reis de foro.",
+                                    "data": "1558"
+                                }
+                            }
+                        },
+                        {
+                            "número": "11",
+                            "enfiteuta": "Estevão Falcão Costa",
+                            "desc": {
+                                "para": "Paga 150 reis ao enfiteuta principal do prazo do campo ou lugar de Castelo Rodrigo. Esteve unida à casa nº 10."
+                            }
+                        },
+                        {
+                            "número": "12",
+                            "enfiteuta": "Estevão Falcão Costa",
+                            "desc": {
+                                "para": {
+                                    "#text": "Paga 100 reis ao enfiteuta principal do prazo do campo ou lugar de Castelo Rodrigo. Foi construída depois de, juntamente com o nº 13, e pagavam de foro 300 reis.",
+                                    "data": "1641"
+                                }
+                            }
+                        },
+                        {
+                            "número": "13",
+                            "enfiteuta": "Estevão Falcão Costa",
+                            "desc": {
+                                "para": [
+                                    "Paga 100 reis ao enfiteuta principal do prazo do campo ou lugar de Castelo Rodrigo.",
+                                    {
+                                        "#text": "Esteve unida ao nº 12, constituindo uma só morada, juntamente com o nº 5 da.",
+                                        "lugar": "cangosta das Cruzes"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "número": "14",
+                            "enfiteuta": "Estevão Falcão Costa",
+                            "desc": {
+                                "para": {
+                                    "#text": "Paga 400 reis ao enfiteuta principal do prazo do campo ou lugar de Castelo Rodrigo. Pertence ao prazo o nº 4 da.",
+                                    "lugar": "cangosta das Cruzes"
+                                }
+                            }
+                        },
+                        {
+                            "número": "15",
+                            "enfiteuta": "Estevão Falcão Costa",
+                            "desc": {
+                                "para": {
+                                    "#text": "Paga 300 reis e 1 galinha ao enfiteuta principal do prazo do campo ou lugar de Castelo Rodrigo. Foi construída depois de. Pertence ao prazo o nº 3 da.",
+                                    "data": "1576",
+                                    "lugar": "cangosta das Cruzes"
+                                }
+                            }
+                        },
+                        {
+                            "número": "16",
+                            "enfiteuta": "Estevão Falcão Costa",
+                            "desc": {
+                                "para": {
+                                    "#text": "Os herdeiros dopagam 300 reis e 1 galinha ao enfiteuta principal do prazo do campo ou lugar de Castelo Rodrigo. Foi construída depois de.",
+                                    "entidade": {
+                                        "#text": "cónego Manuel Antunes",
+                                        "@_tipo": "pessoa"
+                                    },
+                                    "data": "1630"
+                                }
+                            }
+                        },
+                        {
+                            "número": "17 e 18",
+                            "enfiteuta": "Estevão Falcão Costa",
+                            "desc": {
+                                "para": {
+                                    "#text": "Os herdeiros depagam 1110 reis por estas casas, (unidas em), ao enfiteuta principal do prazo do campo ou lugar de Castelo Rodrigo.",
+                                    "entidade": {
+                                        "#text": "Inácio de Azevedo Barbosa",
+                                        "@_tipo": "pessoa"
+                                    },
+                                    "data": "1643"
+                                }
+                            }
+                        },
+                        {
+                            "número": "19",
+                            "enfiteuta": "Estevão Falcão Costa",
+                            "desc": {
+                                "para": "Paga 200 reis ao enfiteuta principal do prazo do campo ou lugar de Castelo Rodrigo."
+                            }
+                        },
+                        {
+                            "número": "20",
+                            "enfiteuta": "Estevão Falcão Costa",
+                            "desc": {
+                                "para": {
+                                    "#text": "Os herdeiros de, pagam 330 reis ao enfiteuta principal do prazo do campo ou lugar de Castelo Rodrigo. O emprazamento foi feito em. Confronta, do sul, com o.",
+                                    "entidade": {
+                                        "#text": "Bento Aranha de Brito, abade de S. Cosme",
+                                        "@_tipo": "pessoa"
+                                    },
+                                    "data": "1663",
+                                    "lugar": "Campo de Santiago"
+                                }
+                            }
+                        },
+                        {
+                            "número": "21 a 27",
+                            "desc": {
+                                "para": [
+                                    {
+                                        "#text": "Pertenceram ao prazo do campo ou lugar de Castelo Rodrigo. Foram demolidas antes de, «ficando o enfiteuta principal obrigado a sub-rogar ao cabido outra em seu lugar».",
+                                        "data": "1715"
+                                    },
+                                    {
+                                        "#text": "O cabido recebeu, assim, do, enfiteuta principal, em troca dos nº 25, 26 e 27, a casa nº7 da, bem como 30.000 reis que andavam a juro, «para satisfação de algum prejuízo, que pudesse haver nesta subrogação».",
+                                        "entidade": {
+                                            "#text": "Cónego Francisco de Meira Carrilho",
+                                            "@_tipo": "pessoa"
+                                        },
+                                        "lugar": "Rua dos Chãos de Baixo"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "figura": [
+                {
+                    "@_id": "MR-33-a",
+                    "imagem": {
+                        "@_path": "../imagem/MRB-33-CampoDeSTiagoRuaDoAnjo-primeira.jpg"
+                    },
+                    "legenda": "Campo de São Tiago - Sul"
+                },
+                {
+                    "@_id": "MR-33-b",
+                    "imagem": {
+                        "@_path": "../imagem/MRB-33-CampoDeSTiagoRuaDoAnjo-segunda.jpg"
+                    },
+                    "legenda": "Rua do Anjo - Sul."
+                }
+            ],
+            "nome": "Rua do Anjo"
+        }
+    }
+}

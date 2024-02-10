@@ -1,0 +1,1619 @@
+{
+    "rua": {
+        "@_noNamespaceSchemaLocation": "file:/E:/Desktop/UM/4%C2%BA%20ano%20(She%27s%20close)/1%C2%BA%20semestre/Publica%C3%A7%C3%A3o%20Eletr%C3%B3nica/Projeto%20final/MRB-rua.xsd",
+        "meta": {
+            "número": "38",
+            "nome": "Rua da Ponte de Guimarães"
+        },
+        "corpo": {
+            "para": [
+                {
+                    "#text": "Longa rua que juntamente com as ruas dase deligava acom a.",
+                    "lugar": [
+                        "Ágoas",
+                        "S. Lázaro",
+                        "Arcada",
+                        "ponte de Guimarães"
+                    ]
+                },
+                "Aberta talvez na Idade Média não nos aparece no Mappa com a importância \n            que deveria ter como via de entrada na cidade de uma estrada antiga e importante,\n            e que no seu limite tinha uma velha ponte.",
+                {
+                    "#text": "Emaestava repleta de casas de 2 pisos (e muitas delas \n            são de dois pisos bastante baixos) com porta ladeada de janela no rés-do-chão\n            e duas janelas bracarenses no primeiro andar. Uma única há com um segundo \n            andar (embora haja outra de dois pisos com mais um recuado), mas há várias \n            que são térreas e, inclusivé, há zonas apenas, muradas que davam acesso directo \n            a campos. De notar ainda a pequeníssima quantidade de gelosias e de varandas.",
+                    "data": "1750",
+                    "lugar": "rua da Ponte"
+                },
+                {
+                    "#text": "Ao mesmo tempo, e da mesma maneira que a, as casas aqui \n            são, não só um pouco mais largas que as da rua Direita que poderá parecer \n            tipologicamente semelhante, mas também tem «molduras» de pedras em muitas \n            portas e algumas das janelas.",
+                    "lugar": "rua de S. Lázaro"
+                },
+                {
+                    "#text": "No extremo Norte da rua, do lado Poente, ficava a, que \n            a partir de, data da criação da freguesia do mesmo nome, passou a paroquial. \n            Das 60 casas do lado Nascente e 72 do Poente eram prazos do Cabido 48\n            e 40, respectivamente.",
+                    "lugar": "capela de S. Lázaro",
+                    "data": "1747"
+                },
+                {
+                    "#text": "Esta rua corresponde hoje aoentre ae o.",
+                    "lugar": [
+                        "troço da avenida da Liberdade",
+                        "rua 25 \n                de Abril",
+                        "largo das Latinhas ou do Senhor dos Aflitos"
+                    ]
+                }
+            ],
+            "lista-casas": {
+                "casa": [
+                    {
+                        "número": "1 e 2",
+                        "enfiteuta": "Lopo de Barros e Almeida",
+                        "desc": {
+                            "para": {
+                                "#text": ", sombreireiro, casado com, paga 2280 reis, ao n° 1 da.\n                    A casa nº 1 confronta, do norte, com a casa \n                    nº 23 da ditae, de poente, com ae.",
+                                "entidade": [
+                                    {
+                                        "#text": "Domingos Gomes",
+                                        "@_tipo": "pessoa"
+                                    },
+                                    {
+                                        "#text": "Ursula Fernandes",
+                                        "@_tipo": "pessoa"
+                                    }
+                                ],
+                                "lugar": [
+                                    "Rua de S. Lázaro",
+                                    "Rua de S. Lázaro",
+                                    "Rua da Ponte de Guimarães",
+                                    "Terreiro de S. Lázaro"
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "número": "3",
+                        "enfiteuta": "Lopo de Barros e Almeida",
+                        "desc": {
+                            "para": {
+                                "#text": "Opaga, de pensão ou foro, \n                    3030 reis ao n° 1 da. Esta casa \n                    situa-se nae.",
+                                "entidade": {
+                                    "#text": "Padre Geraldo Duarte",
+                                    "@_tipo": "pessoa"
+                                },
+                                "lugar": [
+                                    "Rua de S. Lázaro",
+                                    "Rua da Ponte de Guimarães",
+                                    "Terreiro \n                        de S. Lázaro"
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "número": "4 e 5",
+                        "enfiteuta": "Lopo de Barros e Almeida",
+                        "desc": {
+                            "para": {
+                                "#text": ", paga 1040 reis ao nº 1 \n                    da. Estas casas encontram-se \n                    unidas desde o ano de.",
+                                "entidade": {
+                                    "#text": "João Gomes de Sousa",
+                                    "@_tipo": "pessoa"
+                                },
+                                "lugar": "Rua de S. Lázaro",
+                                "data": "1580"
+                            }
+                        }
+                    },
+                    {
+                        "número": "6",
+                        "enfiteuta": "Lopo de Barros e Almeida",
+                        "desc": {
+                            "para": {
+                                "#text": ", viúva de, paga 347 reis, ao n° 1 da.",
+                                "entidade": [
+                                    {
+                                        "#text": "Helena de Araújo",
+                                        "@_tipo": "pessoa"
+                                    },
+                                    {
+                                        "#text": "Martinho de \n                    Araújo",
+                                        "@_tipo": "pessoa"
+                                    }
+                                ],
+                                "lugar": "Rua de \n                        S. Lázaro"
+                            }
+                        }
+                    },
+                    {
+                        "número": "7",
+                        "enfiteuta": "Lopo de Barros e Almeida",
+                        "desc": {
+                            "para": {
+                                "#text": "Opaga 347 \n                    reis, ao nº 1 da.",
+                                "entidade": {
+                                    "#text": "Padre João Marques de Araújo",
+                                    "@_tipo": "pessoa"
+                                },
+                                "lugar": "Rua de S. Lázaro"
+                            }
+                        }
+                    },
+                    {
+                        "número": "8",
+                        "enfiteuta": "Lopo de Barros e Almeida",
+                        "desc": {
+                            "para": {
+                                "#text": ", casado com, paga 365 reis, ao nº 1 da.\n                    Esteve unida ao n° 7 até ao ano de.",
+                                "entidade": [
+                                    {
+                                        "#text": "Filipe Jácome de Azevedo",
+                                        "@_tipo": "pessoa"
+                                    },
+                                    {
+                                        "#text": "Rosa \n                    Ribeiro",
+                                        "@_tipo": "pessoa"
+                                    }
+                                ],
+                                "lugar": "Rua de S. \n                        Lázaro",
+                                "data": "1720"
+                            }
+                        }
+                    },
+                    {
+                        "número": "9",
+                        "enfiteuta": "Lopo de Barros e Almeida",
+                        "desc": {
+                            "para": {
+                                "#text": ", filha de, paga 575 \n                    reis, ao nº 1 da.",
+                                "entidade": [
+                                    {
+                                        "#text": "Helena",
+                                        "@_tipo": "pessoa"
+                                    },
+                                    {
+                                        "#text": "Agostinho Pinto",
+                                        "@_tipo": "pessoa"
+                                    }
+                                ],
+                                "lugar": "Rua de S. Lázaro"
+                            }
+                        }
+                    },
+                    {
+                        "número": "10",
+                        "enfiteuta": "Lopo de Barros e Almeida",
+                        "desc": {
+                            "para": {
+                                "#text": ", viúva de, sangrador, paga 570 reis, ao n° 1 da.",
+                                "entidade": [
+                                    {
+                                        "#text": "Senhorinha da Rocha",
+                                        "@_tipo": "pessoa"
+                                    },
+                                    {
+                                        "#text": "Manuel\n                    Carvalho",
+                                        "@_tipo": "pessoa"
+                                    }
+                                ],
+                                "lugar": "Rua de S. Lázaro"
+                            }
+                        }
+                    },
+                    {
+                        "número": "11 e 12",
+                        "enfiteuta": "Lopo de Barros e Almeida",
+                        "desc": {
+                            "para": {
+                                "#text": ", viúva de, sombreireiro, paga ao nº 1 da, 205 reis e. 845 reis, por cada             \n                        uma destas casas.",
+                                "entidade": [
+                                    {
+                                        "#text": "Sebastiana de Arames",
+                                        "@_tipo": "pessoa"
+                                    },
+                                    {
+                                        "#text": "Pedro\n                    Gonçalves",
+                                        "@_tipo": "pessoa"
+                                    }
+                                ],
+                                "lugar": "Rua \n                        de S. Lázaro"
+                            }
+                        }
+                    },
+                    {
+                        "número": "13",
+                        "enfiteuta": "Lopo de Barros e Almeida",
+                        "desc": {
+                            "para": {
+                                "#text": ", tintureiro, casado com, paga 255 reis, ao nº 1 da.",
+                                "entidade": [
+                                    {
+                                        "#text": "Veríssimo Ferreira",
+                                        "@_tipo": "pessoa"
+                                    },
+                                    {
+                                        "#text": "Mariana Ferreira",
+                                        "@_tipo": "pessoa"
+                                    }
+                                ],
+                                "lugar": "Rua de S. Lázaro"
+                            }
+                        }
+                    },
+                    {
+                        "número": "14",
+                        "enfiteuta": "Lopo de Barros e Almeida",
+                        "desc": {
+                            "para": {
+                                "#text": ", casado com, paga 295 reis, ao nº 1 da.",
+                                "entidade": [
+                                    {
+                                        "#text": "Manuel Francisco de Araújo",
+                                        "@_tipo": "pessoa"
+                                    },
+                                    {
+                                        "#text": "Maria \n                    de Sousa",
+                                        "@_tipo": "pessoa"
+                                    }
+                                ],
+                                "lugar": "Rua de\n                        S. Lázaro"
+                            }
+                        }
+                    },
+                    {
+                        "número": "15",
+                        "enfiteuta": "Lopo de Barros e Almeida",
+                        "desc": {
+                            "para": {
+                                "#text": ", armeiro, paga \n                    825 reis, ao n° 1 da.",
+                                "entidade": {
+                                    "#text": "António Ferreira de Azevedo",
+                                    "@_tipo": "pessoa"
+                                },
+                                "lugar": "Rua de S. Lázaro"
+                            }
+                        }
+                    },
+                    {
+                        "número": "16 e 17",
+                        "enfiteuta": "Lopo de Barros e Almeida",
+                        "desc": {
+                            "para": [
+                                {
+                                    "#text": ", viúva, paga 825 reis, ao \n                    n° 1 da.",
+                                    "entidade": {
+                                        "#text": "Domingas de Azevedo",
+                                        "@_tipo": "pessoa"
+                                    },
+                                    "lugar": "Rua de S. Lázaro"
+                                },
+                                {
+                                    "#text": "Encontram-se unidas desde.",
+                                    "data": "1680"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "número": "18 e 19",
+                        "enfiteuta": "Lopo de Barros e Almeida",
+                        "desc": {
+                            "para": [
+                                {
+                                    "#text": ", sombreireiro, casado com, paga 1040 reis ao nº 1 da.",
+                                    "entidade": [
+                                        {
+                                            "#text": "Francisco Correia",
+                                            "@_tipo": "pessoa"
+                                        },
+                                        {
+                                            "#text": "Maria Ferreira",
+                                            "@_tipo": "pessoa"
+                                        }
+                                    ],
+                                    "lugar": "Rua \n                        de S. Lázaro"
+                                },
+                                {
+                                    "#text": "Encontram-se unidas desde.",
+                                    "data": "1658"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "número": "20",
+                        "enfiteuta": "Pedro da Cunha Sottomayor, Alcaide Mor de Braga",
+                        "desc": {
+                            "para": {
+                                "#text": "Os, clérigo, pagam \n                    600 reis, ao n° 17 da.\n                    Foi construída antes de. Confronta, do \n                    norte, com casa foreira a.",
+                                "entidade": [
+                                    {
+                                        "#text": "herdeiros de Pedro Jorge",
+                                        "@_tipo": "pessoa"
+                                    },
+                                    {
+                                        "#text": "Manuel José de Brito",
+                                        "@_tipo": "pessoa"
+                                    }
+                                ],
+                                "lugar": "Rua Paio Manta",
+                                "data": "1586"
+                            }
+                        }
+                    },
+                    {
+                        "número": "21 e 22",
+                        "enfiteuta": "Pedro da Cunha Sottomayor, Alcaide Mor de Braga",
+                        "desc": {
+                            "para": {
+                                "#text": "Os, \n                    Dezembargador de, pagam 600 reis ao \n                    nº 17 dae. Encontram- \n                    -se unidas, numa só morada, desde.",
+                                "entidade": {
+                                    "#text": "herdeiros do Dr. Gonçalo da Silva",
+                                    "@_tipo": "pessoa"
+                                },
+                                "lugar": [
+                                    "Braga",
+                                    "Rua Paio Manta",
+                                    "Lages"
+                                ],
+                                "data": "1586"
+                            }
+                        }
+                    },
+                    {
+                        "número": "23",
+                        "enfiteuta": "Pedro da Cunha Sottomayor, Alcaide Mor de Braga",
+                        "desc": {
+                            "para": [
+                                {
+                                    "#text": "Os, alfaiate, casado \n                    com, pagam 175 reis ao nº 17 dae.",
+                                    "entidade": [
+                                        {
+                                            "#text": "herdeiros de Salvador João",
+                                            "@_tipo": "pessoa"
+                                        },
+                                        {
+                                            "#text": "Isabel Dias",
+                                            "@_tipo": "pessoa"
+                                        }
+                                    ],
+                                    "lugar": [
+                                        "Rua Paio Manta",
+                                        "Lages"
+                                    ]
+                                },
+                                {
+                                    "#text": "Encontra-se separada do nº 24 desde.",
+                                    "data": "1638"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "número": "24",
+                        "enfiteuta": "Pedro da Cunha Sottomayor, Alcaide Mor de Braga",
+                        "desc": {
+                            "para": {
+                                "#text": "Os, alfaite, pagam 600 \n                    reis ao nº 17 dae.",
+                                "entidade": {
+                                    "#text": "herdeiros de Rodrigo Anes",
+                                    "@_tipo": "pessoa"
+                                },
+                                "lugar": [
+                                    "Rua Paio Manta",
+                                    "Lages"
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "número": "25 e 26",
+                        "enfiteuta": "Pedro da Cunha Sottomayor, Alcaide Mor de Braga",
+                        "desc": {
+                            "para": {
+                                "#text": "Os, picheleiro. \n                    casado com, pagam 500 reis ao \n                    nº 17 dae. A casa                   \n                    nº 26 encontra-se unida à nº 25 desde.",
+                                "entidade": [
+                                    {
+                                        "#text": "herdeiros de Domingos Pires",
+                                        "@_tipo": "pessoa"
+                                    },
+                                    {
+                                        "#text": "Isabel Vaz",
+                                        "@_tipo": "pessoa"
+                                    }
+                                ],
+                                "lugar": [
+                                    "Rua Paio Manta",
+                                    "Lages"
+                                ],
+                                "data": "1586/"
+                            }
+                        }
+                    },
+                    {
+                        "número": "27",
+                        "enfiteuta": "Pedro da Cunha Sottomayor, Alcaide Mor de Braga",
+                        "desc": {
+                            "para": {
+                                "#text": ", tratante, casado com, paga 360 reis ao nº 17 dae. Esteve unida ao nº 25 entre os \n                    anos dea.",
+                                "entidade": [
+                                    {
+                                        "#text": "Domingos João",
+                                        "@_tipo": "pessoa"
+                                    },
+                                    {
+                                        "#text": "Francisca \n                    Antónia",
+                                        "@_tipo": "pessoa"
+                                    }
+                                ],
+                                "lugar": [
+                                    "Rua Paio \n                        Manta",
+                                    "Lages"
+                                ],
+                                "data": [
+                                    "1586",
+                                    "1631"
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "número": "28 e 29",
+                        "enfiteuta": "Pedro da Cunha Sottomayor, Alcaide Mor de Braga",
+                        "desc": {
+                            "para": {
+                                "#text": "Os, sapateiro, \n                    casado com, pagam 1400 reis ao \n                    n° 17 dae. Encontram-se unidas desde. A casa nº 29 confronta, do \n                    sul, com o quintal e este com o n° 30.",
+                                "entidade": [
+                                    {
+                                        "#text": "herdeiros de Manuel Marçal",
+                                        "@_tipo": "pessoa"
+                                    },
+                                    {
+                                        "#text": "Branca Vaz",
+                                        "@_tipo": "pessoa"
+                                    }
+                                ],
+                                "lugar": [
+                                    "Rua Paio Manta",
+                                    "Lages"
+                                ],
+                                "data": "1586"
+                            }
+                        }
+                    },
+                    {
+                        "número": "30, 31, 32, 33 e 34",
+                        "enfiteuta": "Pedro da Cunha Sottomayor, Alcaide Mor de Braga",
+                        "desc": {
+                            "para": [
+                                {
+                                    "#text": "Os,\n                    sombreireiro, casado com, pagam \n                    1615 reis ao n° 17 dae.",
+                                    "entidade": [
+                                        {
+                                            "#text": "herdeiros de Domingos Simões",
+                                            "@_tipo": "pessoa"
+                                        },
+                                        {
+                                            "#text": "Simoa Vieira",
+                                            "@_tipo": "pessoa"
+                                        }
+                                    ],
+                                    "lugar": [
+                                        "Rua Paio Manta",
+                                        "Lages"
+                                    ]
+                                },
+                                {
+                                    "#text": "Encontram-se unidas, numa só escritura de \n                        prazo, desde. A casa n° 34 confronta, do \n                        sul, com quintal da casa n° 35.",
+                                    "data": "1586"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "número": "35, 36, 37 e 38",
+                        "enfiteuta": "João de Magalhães de Araújo Costa, enfiteuta principal do prazo da metade do Casal dos Galos, que foi de Maria André.",
+                        "desc": {
+                            "para": [
+                                {
+                                    "#text": "Os, casado com, pagam 1 alqueire e meio de trigo \n                    ao enfiteuta principal do prazo da metade do, que foi de, irmã \n                    de.",
+                                    "entidade": [
+                                        {
+                                            "#text": "herdeiros de João de Azevedo",
+                                            "@_tipo": "pessoa"
+                                        },
+                                        {
+                                            "#text": "Inês André",
+                                            "@_tipo": "pessoa"
+                                        },
+                                        {
+                                            "#text": "Maria André",
+                                            "@_tipo": "pessoa"
+                                        },
+                                        {
+                                            "#text": "Inês André",
+                                            "@_tipo": "pessoa"
+                                        }
+                                    ],
+                                    "lugar": "Casal dos Galos"
+                                },
+                                "Ao nº 35 pertence, ainda, todo o quintal que se \n                        situa à face da rua."
+                            ]
+                        }
+                    },
+                    {
+                        "número": "39",
+                        "enfiteuta": "João de Magalhães de Araújo Costa, enfiteuta principal do prazo da metade do Casal dos Galos, que foi de Mateus Rodrigues.",
+                        "desc": {
+                            "para": {
+                                "#text": "Os, casado \n                    com, pagam 500 reis ao \n                    enfiteuta principal do prazo da metade doque foi de, \n                    serralheiro da,. casado com.",
+                                "entidade": [
+                                    {
+                                        "#text": "herdeiros de Domingos Gonçalves",
+                                        "@_tipo": "pessoa"
+                                    },
+                                    {
+                                        "#text": "Catarina Domingues",
+                                        "@_tipo": "pessoa"
+                                    },
+                                    {
+                                        "#text": "Mateus Rodrigues",
+                                        "@_tipo": "pessoa"
+                                    },
+                                    {
+                                        "#text": "Margarida Francisca",
+                                        "@_tipo": "pessoa"
+                                    }
+                                ],
+                                "lugar": [
+                                    "Casal \n                        dos Galos",
+                                    "Ponte de Guimarães"
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "número": "40",
+                        "enfiteuta": "João de Magalhães de Araújo Costa, enfiteuta principal do prazo da metade do Casal dos Galos, que foi de Mateus Rodrigues.",
+                        "desc": {
+                            "para": [
+                                {
+                                    "#text": "Os, alfaiate, \n                    casado com, pagam 500 reis.",
+                                    "entidade": [
+                                        {
+                                            "#text": "herdeiros de Belchior Fernandes",
+                                            "@_tipo": "pessoa"
+                                        },
+                                        {
+                                            "#text": "Catarina Simões",
+                                            "@_tipo": "pessoa"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "#text": "Foi subemprazada em, à face do prazo da \n                    metade do. (sito na), que foi de.",
+                                    "data": "1589",
+                                    "lugar": [
+                                        "Casal dos Galos",
+                                        "freguesia \n                        de S. José de S. Lázaro"
+                                    ],
+                                    "entidade": {
+                                        "#text": "Mateus \n                    Rodrigues",
+                                        "@_tipo": "pessoa"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "número": "41",
+                        "enfiteuta": "João de Magalhães de Araújo Costa, enfiteuta principal do prazo da metade do Casal dos Galos, que foi de Mateus Rodrigues.",
+                        "desc": {
+                            "para": {
+                                "#text": "Os, cutileiro, \n                    casado com, pagam 500 reis. Foi \n                    subemprazada em, à face do prazo da \n                    metade do Casal dos Galos que foi de Mateus \n                    Rodrigues.",
+                                "entidade": [
+                                    {
+                                        "#text": "herdeiros de Geraldo Gonçalves",
+                                        "@_tipo": "pessoa"
+                                    },
+                                    {
+                                        "#text": "Catarina Luís",
+                                        "@_tipo": "pessoa"
+                                    }
+                                ],
+                                "data": "1589"
+                            }
+                        }
+                    },
+                    {
+                        "número": "42",
+                        "enfiteuta": "João de Magalhães de Araújo Costa, enfiteuta principal do prazo da metade do Casal dos Galos, que foi de Mateus Rodrigues.",
+                        "desc": {
+                            "para": {
+                                "#text": "Os, cónego de, pagam 500 reis. Foi subemprazada em. \n                    à face do prazo da metade doque \n                    foi de.",
+                                "entidade": [
+                                    {
+                                        "#text": "herdeiros de Jerónimo Pinheiro",
+                                        "@_tipo": "pessoa"
+                                    },
+                                    {
+                                        "#text": "Mateus Rodrigues",
+                                        "@_tipo": "pessoa"
+                                    }
+                                ],
+                                "lugar": [
+                                    "Braga",
+                                    "Casal dos Galos"
+                                ],
+                                "data": "1589"
+                            }
+                        }
+                    },
+                    {
+                        "número": "43",
+                        "enfiteuta": "João de Magalhães de Araújo Costa, enfiteuta principal do prazo da metade do Casal dos Galos, que foi de Mateus Rodrigues.",
+                        "desc": {
+                            "para": {
+                                "#text": "Os, cónego de. pagam 500 reis. Foi subemprazada em, \n                    à face do prazo da metade do, que \n                    foi de.",
+                                "entidade": [
+                                    {
+                                        "#text": "herdeiros de Jerónimo Pinheiro",
+                                        "@_tipo": "pessoa"
+                                    },
+                                    {
+                                        "#text": "Mateus Rodrigues",
+                                        "@_tipo": "pessoa"
+                                    }
+                                ],
+                                "lugar": [
+                                    "Braga",
+                                    "Casal dos Galos"
+                                ],
+                                "data": "1589"
+                            }
+                        }
+                    },
+                    {
+                        "número": "44",
+                        "enfiteuta": "João de Magalhães de Araújo Costa, enfiteuta principal do prazo da metade do Casal dos Galos, que foi de Mateus Rodrigues.",
+                        "desc": {
+                            "para": {
+                                "#text": "Os, casado com, pagam 500 reis. Foi subemprazada em, à face do prazo da metade doque foi de.",
+                                "entidade": [
+                                    {
+                                        "#text": "herdeiros de André Martins",
+                                        "@_tipo": "pessoa"
+                                    },
+                                    {
+                                        "#text": "Maria \n                    de Araújo",
+                                        "@_tipo": "pessoa"
+                                    },
+                                    {
+                                        "#text": "Mateus Rodrigues",
+                                        "@_tipo": "pessoa"
+                                    }
+                                ],
+                                "data": "1592",
+                                "lugar": "Casal dos Galos"
+                            }
+                        }
+                    },
+                    {
+                        "número": "45",
+                        "enfiteuta": "João de Magalhães de Araújo Costa, enfiteuta principal do prazo da metade do Casal dos Galos, que foi de Mateus Rodrigues.",
+                        "desc": {
+                            "para": {
+                                "#text": "Os, casado com, pagam 500 reis. Foi \n                    subemprazada em, à face do prazo da metade \n                    doque foi de.",
+                                "entidade": [
+                                    {
+                                        "#text": "herdeiros de Francisco Rodrigues",
+                                        "@_tipo": "pessoa"
+                                    },
+                                    {
+                                        "#text": "Catarina Francisca",
+                                        "@_tipo": "pessoa"
+                                    },
+                                    {
+                                        "#text": "Mateus Rodrigues",
+                                        "@_tipo": "pessoa"
+                                    }
+                                ],
+                                "data": "1600",
+                                "lugar": "Casal dos Galos"
+                            }
+                        }
+                    },
+                    {
+                        "número": "46",
+                        "enfiteuta": "João de Magalhães de Araújo Costa, enfiteuta principal do prazo da metade do Casal dos Galos, que foi de Mateus Rodrigues.",
+                        "desc": {
+                            "para": {
+                                "#text": "Os, alfaiate. casado \n                    com, pagam 220 reis. Foi \n                    subemprazada em, à face do prazo da metade \n                    do, que foi de.",
+                                "entidade": [
+                                    {
+                                        "#text": "herdeiros de João Francisco",
+                                        "@_tipo": "pessoa"
+                                    },
+                                    {
+                                        "#text": "Catarina Francisca",
+                                        "@_tipo": "pessoa"
+                                    },
+                                    {
+                                        "#text": "Mateus \n                    Rodrigues",
+                                        "@_tipo": "pessoa"
+                                    }
+                                ],
+                                "data": "1616",
+                                "lugar": "Casal dos Galos"
+                            }
+                        }
+                    },
+                    {
+                        "número": "47",
+                        "enfiteuta": "João de Magalhães de Araújo Costa, enfiteuta principal do prazo da metade do Casal dos Galos, que foi de Mateus Rodrigues.",
+                        "desc": {
+                            "para": {
+                                "#text": "Os, cutileiro, casado \n                    com, pagam 230 reis. Foi subemprazada \n                    em, à face do prazo da metade doque foi de.",
+                                "entidade": [
+                                    {
+                                        "#text": "herdeiros de António Nunes",
+                                        "@_tipo": "pessoa"
+                                    },
+                                    {
+                                        "#text": "Ana Brás",
+                                        "@_tipo": "pessoa"
+                                    },
+                                    {
+                                        "#text": "Mateus Rodrigues",
+                                        "@_tipo": "pessoa"
+                                    }
+                                ],
+                                "data": "1616",
+                                "lugar": "Casal dos \n                        Galos"
+                            }
+                        }
+                    },
+                    {
+                        "número": "48",
+                        "enfiteuta": "João de Magalhães de Araújo Costa, enfiteuta principal do prazo da metade do Casal dos Galos, que foi de Mateus Rodrigues.",
+                        "desc": {
+                            "para": {
+                                "#text": "Os, cutileiro, casado com, pagam 100 reis. Foi \n                    subemprazada em, à face do prazo da \n                    metade doque foi de.",
+                                "entidade": [
+                                    {
+                                        "#text": "herdeiros de António Dias",
+                                        "@_tipo": "pessoa"
+                                    },
+                                    {
+                                        "#text": "Mécia Rodrigues",
+                                        "@_tipo": "pessoa"
+                                    },
+                                    {
+                                        "#text": "Mateus \n                    Rodrigues",
+                                        "@_tipo": "pessoa"
+                                    }
+                                ],
+                                "data": "1617",
+                                "lugar": "Casal dos Galos"
+                            }
+                        }
+                    },
+                    {
+                        "número": "49",
+                        "enfiteuta": "João de Magalhães de Araújo Costa, enfiteuta principal do prazo da metade do Casal dos Galos, que foi de Mateus Rodrigues.",
+                        "desc": {
+                            "para": {
+                                "#text": "Os, cutileiro. casado com, pagam 100 reis. Foi \n                    subemprazada em, à face do prazo da metade \n                    doque foi de.",
+                                "entidade": [
+                                    {
+                                        "#text": "herdeiros de António Dias",
+                                        "@_tipo": "pessoa"
+                                    },
+                                    {
+                                        "#text": "Mécia Rodrigues",
+                                        "@_tipo": "pessoa"
+                                    },
+                                    {
+                                        "#text": "Mateus Rodrigues",
+                                        "@_tipo": "pessoa"
+                                    }
+                                ],
+                                "data": "1617",
+                                "lugar": "Casal dos Galos"
+                            }
+                        }
+                    },
+                    {
+                        "número": "50",
+                        "enfiteuta": "João de Magalhães de Araújo Costa, enfiteuta principal do prazo da metade do Casal dos Galos, que foi de Mateus Rodrigues.",
+                        "desc": {
+                            "para": {
+                                "#text": "Os, casado com, pagam 80 reis.\n                    Foi subemprazada em, à face do prazo da \n                    metade doque foi de. Confronta, do sul, com o caminho \n                    que vai da.",
+                                "entidade": [
+                                    {
+                                        "#text": "herdeiros de Gonçalo Francisco",
+                                        "@_tipo": "pessoa"
+                                    },
+                                    {
+                                        "#text": "Filipa Fernandes",
+                                        "@_tipo": "pessoa"
+                                    },
+                                    {
+                                        "#text": "Mateus                    \n                    Rodrigues",
+                                        "@_tipo": "pessoa"
+                                    }
+                                ],
+                                "data": "1628",
+                                "lugar": [
+                                    "Casal dos Galos",
+                                    "Rua da Ponte de Guimarães"
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "número": "51",
+                        "enfiteuta": "Pedro da Cunha Sottomayor, Alcaide Mor de Braga",
+                        "desc": {
+                            "para": {
+                                "#text": "Os, ferreiro, casado \n                    com, pagam 500 reis ao nº 17 \n                    dae, pelo \n                    subemprazamento feito em. Situa-se no \n                    canto da, para a \n                    \n                    parte do rio. Confronta, do sul, com o caminho \n                    que vai da mesma rua para ase para os.",
+                                "entidade": [
+                                    {
+                                        "#text": "herdeiros de António Dias",
+                                        "@_tipo": "pessoa"
+                                    },
+                                    {
+                                        "#text": "Isabel Fernandes",
+                                        "@_tipo": "pessoa"
+                                    }
+                                ],
+                                "lugar": [
+                                    "Rua Paio Manta",
+                                    "Lages",
+                                    "Rua da Ponte de Guimarães",
+                                    "Lages",
+                                    "Pelames"
+                                ],
+                                "data": "1616"
+                            }
+                        }
+                    },
+                    {
+                        "número": "52",
+                        "enfiteuta": "Pedro da Cunha Sottomayor, Alcaide Mor de Braga",
+                        "desc": {
+                            "para": {
+                                "#text": "Os subenfiteutas pagam 150 reis pelo quintal ao \n                    n° 17 dae.\n                    A casa é foreira a um vínculo. Confronta, de \n                    \n                    norte, com casa do mesmo vínculo.",
+                                "lugar": [
+                                    "Rua Paio Manta",
+                                    "Lages"
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "número": "53",
+                        "enfiteuta": "Pedro da Cunha Sottomayor, Alcaide Mor de Braga",
+                        "desc": {
+                            "para": {
+                                "#text": "Os, viúva, pagam, 260 \n                    reis ao nº 17 dae, pelo \n                    subemprazamento feito em. Confronta, do sul. \n                    \n                    com cada foreira a um vínculo.",
+                                "entidade": {
+                                    "#text": "herdeiros de Branca Lopes",
+                                    "@_tipo": "pessoa"
+                                },
+                                "lugar": [
+                                    "Rua Paio Manta",
+                                    "Lages"
+                                ],
+                                "data": "1586"
+                            }
+                        }
+                    },
+                    {
+                        "número": "54",
+                        "enfiteuta": "Pedro da Cunha Sottomayor, Alcaide Mor de Braga",
+                        "desc": {
+                            "para": {
+                                "#text": "Os, viúva, pagam \n                    260 reis ao n' 17 dae.",
+                                "entidade": {
+                                    "#text": "herdeiros de Branca Lopes",
+                                    "@_tipo": "pessoa"
+                                },
+                                "lugar": [
+                                    "Rua Paio Manta",
+                                    "Lages"
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "número": "55",
+                        "enfiteuta": "Pedro da Cunha Sottomayor, Alcaide Mor de Braga",
+                        "desc": {
+                            "para": [
+                                {
+                                    "#text": "Os, pedreiro. \n                    casado com, pagam 310 \n                    reis ao nº 17 dae.",
+                                    "entidade": [
+                                        {
+                                            "#text": "herdeiros de Francisco Fernandes",
+                                            "@_tipo": "pessoa"
+                                        },
+                                        {
+                                            "#text": "Francisca Gonçalves",
+                                            "@_tipo": "pessoa"
+                                        }
+                                    ],
+                                    "lugar": [
+                                        "Rua Paio Manta",
+                                        "Lages"
+                                    ]
+                                },
+                                {
+                                    "#text": "Entre os anos dee, esteve unida ao \n                    nº 56.",
+                                    "data": [
+                                        "1586",
+                                        "1654"
+                                    ]
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "número": "56",
+                        "enfiteuta": "Pedro da Cunha Sottomayor, Alcaide Mor de Braga",
+                        "desc": {
+                            "para": {
+                                "#text": "Os, \n                    sombreireiro, casado com, \n                    pagam 320 reis ao n° 17 dae.",
+                                "entidade": [
+                                    {
+                                        "#text": "herdeiros de Sebastião Gonçalves",
+                                        "@_tipo": "pessoa"
+                                    },
+                                    {
+                                        "#text": "Inês de Freitas",
+                                        "@_tipo": "pessoa"
+                                    }
+                                ],
+                                "lugar": [
+                                    "Rua Paio Manta",
+                                    "Lages"
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "número": "57",
+                        "enfiteuta": "Pedro da Cunha Sottomayor, Alcaide Mor de Braga",
+                        "desc": {
+                            "para": {
+                                "#text": "Os, sombreireiro, \n                    casado com, pagam 310 reis ao nº \n                    \n                    17 dae.",
+                                "entidade": [
+                                    {
+                                        "#text": "herdeiros de Luís Ribeiro",
+                                        "@_tipo": "pessoa"
+                                    },
+                                    {
+                                        "#text": "Isabel Vieira",
+                                        "@_tipo": "pessoa"
+                                    }
+                                ],
+                                "lugar": [
+                                    "Rua Paio Manta",
+                                    "Lages"
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "número": "58",
+                        "enfiteuta": "Pedro da Cunha Sottomayor, Alcaide Mor de Braga",
+                        "desc": {
+                            "para": {
+                                "#text": "Os, sombreireiro. \n                    casado com, pagam 310 reis ao \n                    nº 17 dae. Esteve \n                    \n                    unida ao nº 57 nos subemprazamentos dee.",
+                                "entidade": [
+                                    {
+                                        "#text": "herdeiros de Luís Ribeiro",
+                                        "@_tipo": "pessoa"
+                                    },
+                                    {
+                                        "#text": "Isabel Vieira",
+                                        "@_tipo": "pessoa"
+                                    }
+                                ],
+                                "lugar": [
+                                    "Rua Paio Manta",
+                                    "Lages"
+                                ],
+                                "data": [
+                                    "1647",
+                                    "1684"
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "número": "59 e 60",
+                        "enfiteuta": "Pedro da Cunha Sottomayor, Alcaide Mor de Braga",
+                        "desc": {
+                            "para": {
+                                "#text": "Pagam 450 reis ao n° 17 dae.",
+                                "lugar": [
+                                    "Rua Paio Manta",
+                                    "Lages"
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "número": "61",
+                        "enfiteuta": "Pedro da Cunha Sottomayor, Alcaide Mor de Braga",
+                        "desc": {
+                            "para": {
+                                "#text": "Pagam 250 reis ao n° 17 dae.",
+                                "lugar": [
+                                    "Rua Paio Manta",
+                                    "Lages"
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "número": "62 e 63",
+                        "enfiteuta": "Pedro da Cunha Sottomayor, Alcaide Mor de Braga",
+                        "desc": {
+                            "para": {
+                                "#text": "Pagam 350 reis ao n° 17 dae.",
+                                "lugar": [
+                                    "Rua Paio Manta",
+                                    "Lages"
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "número": "64 e 65",
+                        "enfiteuta": "Pedro da Cunha Sottomayor, Alcaide Mor de Braga",
+                        "desc": {
+                            "para": {
+                                "#text": "Pagam 450 reis ao n° 17 dae.",
+                                "lugar": [
+                                    "Rua Paio Manta",
+                                    "Lages"
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "número": "66",
+                        "enfiteuta": "Pedro da Cunha Sottomayor, Alcaide Mor de Braga",
+                        "desc": {
+                            "para": {
+                                "#text": "Os, cardador. \n                    casado com, pagam 310 reis ao \n                    nº 17 dae, pelo \n                    subemprazamento feito em.",
+                                "entidade": [
+                                    {
+                                        "#text": "herdeiros de António Simões",
+                                        "@_tipo": "pessoa"
+                                    },
+                                    {
+                                        "#text": "Maria Pereira",
+                                        "@_tipo": "pessoa"
+                                    }
+                                ],
+                                "lugar": [
+                                    "Rua Paio Manta",
+                                    "Lages"
+                                ],
+                                "data": "1637"
+                            }
+                        }
+                    },
+                    {
+                        "número": "67",
+                        "enfiteuta": "Pedro da Cunha Sottomayor, Alcaide Mor de Braga",
+                        "desc": {
+                            "para": [
+                                {
+                                    "#text": "Os, sombreireiro, \n                    casado com, pagam 310 reis \n                    ao nº 17 dae.",
+                                    "entidade": [
+                                        {
+                                            "#text": "herdeiros de Francisco Luís",
+                                            "@_tipo": "pessoa"
+                                        },
+                                        {
+                                            "#text": "Ângela Geraldes",
+                                            "@_tipo": "pessoa"
+                                        }
+                                    ],
+                                    "lugar": [
+                                        "Rua Paio Manta",
+                                        "Lages"
+                                    ]
+                                },
+                                {
+                                    "#text": "Esteve unida ao nº 66 entre os anos dee.",
+                                    "data": [
+                                        "1586",
+                                        "1637"
+                                    ]
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "número": "68",
+                        "enfiteuta": "Pedro da Cunha Sottomayor, Alcaide Mor de Braga",
+                        "desc": {
+                            "para": {
+                                "#text": "Os, sombreireiro, \n                    casado com, pagam 480 reis \n                    \n                    ao nº 17 dae.",
+                                "entidade": [
+                                    {
+                                        "#text": "herdeiros de Nicolau Dias",
+                                        "@_tipo": "pessoa"
+                                    },
+                                    {
+                                        "#text": "Catarina Geraldes",
+                                        "@_tipo": "pessoa"
+                                    }
+                                ],
+                                "lugar": [
+                                    "Rua Paio Manta",
+                                    "Lages"
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "número": "69",
+                        "enfiteuta": "Pedro da Cunha Sottomayor, Alcaide Mor de Braga",
+                        "desc": {
+                            "para": {
+                                "#text": "Paga 300 reis ao nº 17 dae. Esteve unida ao n° 68, entre os anos dee.",
+                                "lugar": [
+                                    "Rua Paio Manta",
+                                    "Lages"
+                                ],
+                                "data": [
+                                    "1586",
+                                    "1615"
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "número": "70",
+                        "enfiteuta": "Pedro da Cunha Sottomayor, Alcaide Mor de Braga",
+                        "desc": {
+                            "para": {
+                                "#text": "Os, viúva de, tecelão, pagam 300 reis ao\n                    nº 17 dae, conforme o \n                    \n                    subemprezamento de.",
+                                "entidade": [
+                                    {
+                                        "#text": "herdeiros de Maria Gonçalves",
+                                        "@_tipo": "pessoa"
+                                    },
+                                    {
+                                        "#text": "Simão Álvares",
+                                        "@_tipo": "pessoa"
+                                    }
+                                ],
+                                "lugar": [
+                                    "Rua Paio Manta",
+                                    "Lages"
+                                ],
+                                "data": "1615"
+                            }
+                        }
+                    },
+                    {
+                        "número": "71",
+                        "enfiteuta": "Pedro da Cunha Sottomayor, Alcaide Mor de Braga",
+                        "desc": {
+                            "para": {
+                                "#text": "Os, serralheiro. \n                    casado com, pagam 280 reis, ao \n                    nº 17 dae, conforme a                    \n                    subemprazamento de.",
+                                "entidade": [
+                                    {
+                                        "#text": "herdeiros de Geraldo Gonçalves",
+                                        "@_tipo": "pessoa"
+                                    },
+                                    {
+                                        "#text": "Catarina Luís",
+                                        "@_tipo": "pessoa"
+                                    }
+                                ],
+                                "lugar": [
+                                    "Rua Paio Manta",
+                                    "Lages"
+                                ],
+                                "data": "1612"
+                            }
+                        }
+                    },
+                    {
+                        "número": "72, 73 e 74",
+                        "enfiteuta": "Pedro da Cunha Sottomayor, Alcaide Mor de Braga",
+                        "desc": {
+                            "para": {
+                                "#text": "Os, rei da Mourisca, \n                    casado com, pagam 600 reis ao \n                    n° 17 dae, pelo \n                    subemprazamento feito em.",
+                                "entidade": [
+                                    {
+                                        "#text": "herdeiros de Aires Dias",
+                                        "@_tipo": "pessoa"
+                                    },
+                                    {
+                                        "#text": "Ana Gonçalves",
+                                        "@_tipo": "pessoa"
+                                    }
+                                ],
+                                "lugar": [
+                                    "Rua Paio Manta",
+                                    "Lages"
+                                ],
+                                "data": "1583"
+                            }
+                        }
+                    },
+                    {
+                        "número": "75",
+                        "enfiteuta": "Lopo de Barros Almeida",
+                        "desc": {
+                            "para": {
+                                "#text": "Os, ferreiro, casado \n                    com, pagam 500 reis ao n° 1 \n                    da, pelo subemprazamento \n                    feito em. Confronta, do sul, com casa do \n                    vínculo de.",
+                                "entidade": [
+                                    {
+                                        "#text": "herdeiros de André Gomes",
+                                        "@_tipo": "pessoa"
+                                    },
+                                    {
+                                        "#text": "Francisca Gomes",
+                                        "@_tipo": "pessoa"
+                                    },
+                                    {
+                                        "#text": "Tadeu Luís de Guimarães",
+                                        "@_tipo": "pessoa"
+                                    }
+                                ],
+                                "lugar": "Rua de S. Lázaro",
+                                "data": "1720"
+                            }
+                        }
+                    },
+                    {
+                        "número": "76",
+                        "enfiteuta": "Lopo de Barros Almeida",
+                        "desc": {
+                            "para": {
+                                "#text": "Os, sapateiro, \n                    casado com, pagam 240 reis \n                    ao nº 1 da, pelo                    \n                    subemprazamento feito em.",
+                                "entidade": [
+                                    {
+                                        "#text": "herdeiros de Gaspar Álvares",
+                                        "@_tipo": "pessoa"
+                                    },
+                                    {
+                                        "#text": "Ana de Moure",
+                                        "@_tipo": "pessoa"
+                                    }
+                                ],
+                                "lugar": "Rua de S. lázaro",
+                                "data": "1629"
+                            }
+                        }
+                    },
+                    {
+                        "número": "77, 78 e 79",
+                        "enfiteuta": "Lopo de Barros Almeida",
+                        "desc": {
+                            "para": [
+                                {
+                                    "#text": "Os, \n                    espingardeiro, pagam 1400 reis ao nº 1 da, conforme subemprazamento feito \n                    em.",
+                                    "entidade": {
+                                        "#text": "herdeiros de António Ferreira de Azevedo",
+                                        "@_tipo": "pessoa"
+                                    },
+                                    "lugar": "Rua \n                        de S. Lázaro",
+                                    "data": "1726"
+                                },
+                                {
+                                    "#text": "Estas casas encontram-se unidas desde.",
+                                    "data": "1675"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "número": "80",
+                        "enfiteuta": "Lopo de Barros Almeida",
+                        "desc": {
+                            "para": {
+                                "#text": ", filha de. \n                    paga 570 reis ao nº 1 da.",
+                                "entidade": [
+                                    {
+                                        "#text": "Águeda de Araújo",
+                                        "@_tipo": "pessoa"
+                                    },
+                                    {
+                                        "#text": "Manuel de Araújo",
+                                        "@_tipo": "pessoa"
+                                    }
+                                ],
+                                "lugar": "Rua de\n                        S. Lázaro"
+                            }
+                        }
+                    },
+                    {
+                        "número": "81",
+                        "enfiteuta": "Lopo de Barros Almeida",
+                        "desc": {
+                            "para": {
+                                "#text": ", sombreireiro, casado com, paga 565 reis ao n° 1 da.",
+                                "entidade": [
+                                    {
+                                        "#text": "Jerónimo de Freitas",
+                                        "@_tipo": "pessoa"
+                                    },
+                                    {
+                                        "#text": "Teresa Ribeiro",
+                                        "@_tipo": "pessoa"
+                                    }
+                                ],
+                                "lugar": "Rua \n                        de S. Lázaro"
+                            }
+                        }
+                    },
+                    {
+                        "número": "82",
+                        "enfiteuta": "Lopo de Barros Almeida",
+                        "desc": {
+                            "para": {
+                                "#text": ", casado com, paga 545 reis ao nº \n                    1 da.",
+                                "entidade": [
+                                    {
+                                        "#text": "Domingos de Sousa Borlento",
+                                        "@_tipo": "pessoa"
+                                    },
+                                    {
+                                        "#text": "Jerónima do Espírito Santo",
+                                        "@_tipo": "pessoa"
+                                    }
+                                ],
+                                "lugar": "Rua de S. Lázaro"
+                            }
+                        }
+                    },
+                    {
+                        "número": "83",
+                        "enfiteuta": "Lopo de Barros Almeida",
+                        "desc": {
+                            "para": {
+                                "#text": ", latoeiro, casado com, paga 430 reis ao n° 1 da.",
+                                "entidade": [
+                                    {
+                                        "#text": "Manuel Gomes",
+                                        "@_tipo": "pessoa"
+                                    },
+                                    {
+                                        "#text": "Mariana \n                    Pereira",
+                                        "@_tipo": "pessoa"
+                                    }
+                                ],
+                                "lugar": "Rua de\n                        S. Lázaro"
+                            }
+                        }
+                    },
+                    {
+                        "número": "84",
+                        "enfiteuta": "Lopo de Barros Almeida",
+                        "desc": {
+                            "para": {
+                                "#text": ", sineiro, casado com, paga 835 reis ao nº 1 da.",
+                                "entidade": [
+                                    {
+                                        "#text": "António Ferreira Gomes",
+                                        "@_tipo": "pessoa"
+                                    },
+                                    {
+                                        "#text": "Amónia de Barros",
+                                        "@_tipo": "pessoa"
+                                    }
+                                ],
+                                "lugar": "Rua de S. Lázaro"
+                            }
+                        }
+                    },
+                    {
+                        "número": "85",
+                        "enfiteuta": "Lopo de Barros Almeida",
+                        "desc": {
+                            "para": {
+                                "#text": ", sombreireiro, casado com, paga 440 reis ao nº 1 da.",
+                                "entidade": [
+                                    {
+                                        "#text": "José Martins",
+                                        "@_tipo": "pessoa"
+                                    },
+                                    {
+                                        "#text": "Isabel \n                    Duarte",
+                                        "@_tipo": "pessoa"
+                                    }
+                                ],
+                                "lugar": "Rua de\n                        S. Lázaro"
+                            }
+                        }
+                    },
+                    {
+                        "número": "86",
+                        "enfiteuta": "Lopo de Barros Almeida",
+                        "desc": {
+                            "para": {
+                                "#text": ", casada com, sineiro, paga 1070 reis ao \n                    n° 1 da.",
+                                "entidade": [
+                                    {
+                                        "#text": "Maria de Oliveira",
+                                        "@_tipo": "pessoa"
+                                    },
+                                    {
+                                        "#text": "Agostinho \n                    Ferreira da Rocha",
+                                        "@_tipo": "pessoa"
+                                    }
+                                ],
+                                "lugar": "Rua de S. Lázaro"
+                            }
+                        }
+                    },
+                    {
+                        "número": "87 e 88",
+                        "enfiteuta": "Lopo de Barros Almeida",
+                        "desc": {
+                            "para": [
+                                {
+                                    "#text": ", casado com, paga 1025 reis ao nº 1 da.",
+                                    "entidade": [
+                                        {
+                                            "#text": "Custódio Francisco",
+                                            "@_tipo": "pessoa"
+                                        },
+                                        {
+                                            "#text": "Maria da Rosa \n                    de Barros",
+                                            "@_tipo": "pessoa"
+                                        }
+                                    ],
+                                    "lugar": "Rua de \n                        S. Lázaro"
+                                },
+                                {
+                                    "#text": "A casa nº 88 confronta, do norte, com oe encontra-se unida ao \n                    n° 87, desde o ano de.",
+                                    "lugar": "Terreiro de S. Lázaro",
+                                    "data": "1584"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "número": "89",
+                        "enfiteuta": "Pedro Gomes de Basto, c.c. Maria de Magalhães",
+                        "desc": {
+                            "para": [
+                                {
+                                    "#text": ", viúva de, por sucessão de \n                    seus pais,, cidadão de, e de sua mulher,, \n                    paga 10 reis e 3 galinhas, ao n° 42 da, por uma leira com serventia \n                    de portal para o.\n                    O portal confronta, do sul, com casa da.",
+                                    "entidade": [
+                                        {
+                                            "#text": "D. Francisca Xavier Carneiro Tinoco",
+                                            "@_tipo": "pessoa"
+                                        },
+                                        {
+                                            "#text": "Gregório José da Silva Gayo",
+                                            "@_tipo": "pessoa"
+                                        },
+                                        {
+                                            "#text": "Manuel Álvares Tinoco",
+                                            "@_tipo": "pessoa"
+                                        },
+                                        {
+                                            "#text": "Catarina Carneiro",
+                                            "@_tipo": "pessoa"
+                                        }
+                                    ],
+                                    "lugar": [
+                                        "Braga",
+                                        "Rua de S. Lázaro",
+                                        "Terreiro de S. Lázaro",
+                                        "capela \n                        de S. Lázaro"
+                                    ]
+                                },
+                                {
+                                    "#text": "Esta leira pertenceu ao prazo n° 11 da, e à face dele \n                    foram feitas escrituras subalternas dos nº 90, \n                    91 e 92.",
+                                    "lugar": "Rua de \n                        Trás de S. Marcos (Granjinhos)"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "número": "90",
+                        "enfiteuta": "Pedro Gomes de Basto, c.c. Maria de Magalhães",
+                        "desc": {
+                            "para": {
+                                "#text": ", casado com, \n                    paga 1700 reis ao subenfiteuta do n° 89 e 1                    \n                    galinha ao n° 42 da.",
+                                "entidade": [
+                                    {
+                                        "#text": "Francisco Gomes",
+                                        "@_tipo": "pessoa"
+                                    },
+                                    {
+                                        "#text": "Jacinta Ferreira",
+                                        "@_tipo": "pessoa"
+                                    }
+                                ],
+                                "lugar": "Rua de S. Lázaro"
+                            }
+                        }
+                    },
+                    {
+                        "número": "91",
+                        "enfiteuta": "Pedro Gomes de Basto, c.c. Maria de Magalhães",
+                        "desc": {
+                            "para": {
+                                "#text": ", carpinteiro, casado com, paga 1603 reis ao\n                    n° 89 e 1 galinha ao nº 42 da.",
+                                "entidade": [
+                                    {
+                                        "#text": "Custódio Ferreira",
+                                        "@_tipo": "pessoa"
+                                    },
+                                    {
+                                        "#text": "Catarina de Araújo",
+                                        "@_tipo": "pessoa"
+                                    }
+                                ],
+                                "lugar": "Rua de                         \n                        S. Lázaro"
+                            }
+                        }
+                    },
+                    {
+                        "número": "92",
+                        "enfiteuta": "Pedro Gomes de Basto, c.c. Maria de Magalhães, D. Francisca Xavier Carneiro Tinoco",
+                        "desc": {
+                            "para": {
+                                "#text": ", ferreiro, casado com, paga 1603 reis ao nº 89 e 1 galinha. \n                    em nome do mesmo subenfiteuta, ao n° 42 da.\n                    Este número corresponde a um «chão de casa» e \n                    confronta, do norte, com casa foreira à.",
+                                "entidade": [
+                                    {
+                                        "#text": "António Francisco",
+                                        "@_tipo": "pessoa"
+                                    },
+                                    {
+                                        "#text": "Maria \n                    de Freitas",
+                                        "@_tipo": "pessoa"
+                                    }
+                                ],
+                                "lugar": [
+                                    "Rua de S. Lázaro",
+                                    "Capela \n                        de D. Gonçalo Pereira"
+                                ]
+                            }
+                        }
+                    }
+                ]
+            },
+            "figura": [
+                {
+                    "@_id": "MRB38-nascente-a",
+                    "imagem": {
+                        "@_path": "../imagem/MRB-38-RuaDaPonteDeGuimaraes-Nascente-a.jpg"
+                    },
+                    "legenda": "Rua da Ponte de Guimarães - Nascente-a."
+                },
+                {
+                    "@_id": "MRB38-nascente-b",
+                    "imagem": {
+                        "@_path": "../imagem/MRB-38-RuaDaPonteDeGuimaraes-Nascente-b.jpg"
+                    },
+                    "legenda": "Rua da Ponte de Guimarães - Nascente-b."
+                },
+                {
+                    "@_id": "MRB38-poente-a",
+                    "imagem": {
+                        "@_path": "../imagem/MRB-38-RuaDaPonteDeGuimaraes-Poente-a.jpg"
+                    },
+                    "legenda": "Rua da Ponte de Guimarães - Poente-a."
+                },
+                {
+                    "@_id": "MRB38-poente-b",
+                    "imagem": {
+                        "@_path": "../imagem/MRB-38-RuaDaPonteDeGuimaraes-Poente-b.jpg"
+                    },
+                    "legenda": "Rua da Ponte de Guimarães - Poente-b."
+                }
+            ]
+        }
+    }
+}

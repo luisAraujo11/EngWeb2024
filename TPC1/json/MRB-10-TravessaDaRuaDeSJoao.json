@@ -1,0 +1,244 @@
+{
+    "rua": {
+        "@_noNamespaceSchemaLocation": "file:/Users/Francisca/Desktop/4Ano/Publica%C3%A7%C3%A3o_Eletr%C3%B3nica/Projeto%20Final/MRB-rua.xsd",
+        "meta": {
+            "número": "10",
+            "nome": "Travessa da Rua de S. João para a do Forno"
+        },
+        "corpo": {
+            "para": [
+                "Rua em forma de cotovelo, tendo uma espécie de\n            protuberância no ângulo, mais parecendo duas vias\n            que se encontrava num ponto que se alargava, formando\n            aí um «Rexio».",
+                {
+                    "#text": "Seria um pouco estranho de compreender o seu traçado,\n            se não soubessemos que no ponto onde se encontrava os\n            seus troços Sul e Oeste terá passado, possivelmente,\n            a muralha da cidade romana. Só assim se pode aceitar\n            que esta artéria não tivesse sequência até à, ou à.",
+                    "lugar": [
+                        "Igreja\n            de S. João de Souto",
+                        "Porta de S. João"
+                    ]
+                },
+                "Sem unidade no tipo de casas que a formavam, tinha\n            prédios de dois pisos, alternando com outros de três\n            ou até um; edifícios com longa fachada, a par com outros\n            de pequena e média dimensão.",
+                {
+                    "#text": "Todas as casas são de arquitectura tradicional, talvez\n            na sua maioria em pedra, com seis raras varandas e apenas\n            três gelosias, e uma forte percentagem (60%) de janelas\n            típicas de. De notar a casa grande situada no canto\n            Sudoeste doque tem um grande terreno\n            de cultivo virado à rua, estando o prédio implantado\n            atrás, na linha de barreira que fecha a Sul o «Rexio».",
+                    "lugar": [
+                        "Braga",
+                        "«Rexio de S. João»"
+                    ]
+                },
+                {
+                    "#text": "Das 10 casas existentes do lado Norte e outras tantas\n            do lado Sul são prazos do5 e 6 respectivamente.",
+                    "entidade": {
+                        "#text": "Cabido",
+                        "@_tipo": "instituição"
+                    }
+                },
+                {
+                    "#text": "Se bem que todo o bairro a Sul da, pelo entrecruzar\n            de ruas, seja conhecido comoé muito\n            estranho e nada aceitável o nome desta rua que ora tratamos.\n            Na Idade Média a parte Este desta artéria, que no Mappa tem\n            o nome de, era conhecida comoe a parte Sul, sem designação especial\n            no Mappa, tinha o nome de, talvez uma pessoa\n            dominante que aí vivesse. No séc. XVI, atomou o nome deque manteve até, data\n            em que passou a denominar-se de. Emrecebeu o nome de.",
+                    "lugar": [
+                        "Sé",
+                        "Bairro das Travessas",
+                        "«Travessa para a rua de S. João»",
+                        "rua da Carrapata",
+                        "rua de Paio Manta",
+                        "rua Coelho"
+                    ],
+                    "entidade": [
+                        {
+                            "#text": "Paio Manta",
+                            "@_tipo": "pessoa"
+                        },
+                        {
+                            "#text": "El-Rei",
+                            "@_tipo": "pessoa"
+                        },
+                        {
+                            "#text": "D. Afonso Henriques",
+                            "@_tipo": "pessoa"
+                        }
+                    ],
+                    "data": [
+                        "19/12/1892",
+                        "24 de Fevereiro de\n                1944"
+                    ]
+                },
+                {
+                    "#text": "Desdeque esta rua está muito alterada, embora se\n            mantenha a sua função: Afoi alargada,\n            odesapareceu e aintegrou o novo, então\n            formado juntamente com parte dae outros\n            terrenos. Grosso modo, podemos dizer que esta travessa se\n            integra hoje nae.",
+                    "data": "1892",
+                    "lugar": [
+                        "rua de «Coelho»",
+                        "«Rexio de S. João»",
+                        "«Travessa para o Rexio\n            de S. João»",
+                        "largo de S. João de Souto",
+                        "rua de S. João",
+                        "rua D. Afonso Henriques",
+                        "Largo de\n                S. João de Souto"
+                    ]
+                }
+            ],
+            "figura": [
+                {
+                    "@_id": "MRB-10-norte",
+                    "imagem": {
+                        "@_path": "../imagem/MRB-10-TravessaDaRuaDeSJoaoParaADoForno-Norte.jpg"
+                    },
+                    "legenda": "Travessa da Rua de S. João para a do Forno - vista norte."
+                },
+                {
+                    "@_id": "MRB-10-sul",
+                    "imagem": {
+                        "@_path": "../imagem/MRB-10-TravessaDaRuaDeSJoaoParaADoForno-Sul.jpg"
+                    },
+                    "legenda": "Travessa da Rua de S. João para a do Forno - vista sul."
+                }
+            ],
+            "lista-casas": {
+                "casa": [
+                    {
+                        "número": "1",
+                        "enfiteuta": "",
+                        "foro": "",
+                        "desc": {
+                            "para": {
+                                "#text": "Corresponde ao n.º 7 da,\n                    para onde tem a frontaria e serventia principais.",
+                                "lugar": "Rua de S. João"
+                            }
+                        }
+                    },
+                    {
+                        "número": "2",
+                        "enfiteuta": "",
+                        "foro": "",
+                        "desc": {
+                            "para": {
+                                "#text": "No ano de, por escambo realizado entre oe a, esta casa foi trocada com o,\n                    situado na.\n                    Confronta com quintal dos padres da.",
+                                "data": "1607",
+                                "entidade": [
+                                    {
+                                        "#text": "Cabido",
+                                        "@_tipo": "instituição"
+                                    },
+                                    {
+                                        "#text": "Companhia de Jesus",
+                                        "@_tipo": "instituição"
+                                    },
+                                    {
+                                        "#text": "Companhia de Jesus",
+                                        "@_tipo": "instituição"
+                                    }
+                                ],
+                                "lugar": [
+                                    "casal de Real",
+                                    "freguesia de S. Jerónimo de Real"
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "número": "3",
+                        "enfiteuta": "Teresa de Araújo, mulher de Manuel de Sousa, vidraceiro",
+                        "foro": "240 reis e 1 capão",
+                        "desc": {
+                            "para": {
+                                "#text": "Emprazamento feito em. Confronta, do nascente, com casa for. ao chantrado.",
+                                "data": "1724"
+                            }
+                        }
+                    },
+                    {
+                        "número": "4",
+                        "enfiteuta": "Manuel de Faria",
+                        "foro": "400 reis e 1 capão",
+                        "desc": {
+                            "para": {
+                                "#text": "Foi construída em pertenças da casa n.º 3, depois do ano de.",
+                                "data": "1534"
+                            }
+                        }
+                    },
+                    {
+                        "número": "5",
+                        "enfiteuta": "Carlos de Magalhães de Azevedo, Cónego",
+                        "foro": "475 reis e 2 capões",
+                        "desc": {
+                            "para": {
+                                "#text": "A casa n.º 6 confronta, de nascente, com casa for. à cororaria.\n                    Pertence, também, ao enfiteuta destas duas casas o n.º 12 da.",
+                                "lugar": "rua do Forno"
+                            }
+                        }
+                    },
+                    {
+                        "número": "6",
+                        "enfiteuta": "Carlos de Magalhães de Azevedo, Cónego",
+                        "foro": "250 reis e galinhas",
+                        "desc": {
+                            "para": {
+                                "#text": "A casa n.º 6 confronta, de nascente, com casa for. à cororaria.\n                    Pertence, também, ao enfiteuta destas duas casas o n.º 12 da.",
+                                "lugar": "rua do Forno"
+                            }
+                        }
+                    },
+                    {
+                        "número": "7",
+                        "enfiteuta": "Félix José Machado",
+                        "foro": "420 e 4 galinhas",
+                        "desc": {
+                            "para": {
+                                "#text": "Encontram-se unidos a este prazo os n.º 10 e 11 da,\n                    desde o ano de",
+                                "lugar": "Rua do Forno",
+                                "data": "1596"
+                            }
+                        }
+                    },
+                    {
+                        "número": "8 e 9",
+                        "desc": {
+                            "para": {
+                                "#text": "Pertencem ao n.º 9 da, para onde têm a frontaria e serventia principais.\n                    A casa n.º 9 confronta, do nascente, com casa foreira cororaria e ficou unida ao n.º 8 no ano\n                    de.",
+                                "lugar": "Rua do Forno",
+                                "data": "1674"
+                            }
+                        }
+                    },
+                    {
+                        "número": "10",
+                        "foro": "115 reis e 8 pretos (de censo)",
+                        "desc": {
+                            "para": {
+                                "#text": "Parte desta casa pertence àe parte ao chantrado.\n                    Confronta, do poente, com casa foreira à cororaria e com o n.º 9.",
+                                "entidade": {
+                                    "#text": "Esmola",
+                                    "@_tipo": "instituição"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "número": "11",
+                        "enfiteuta": "Padre Luís de Faria",
+                        "foro": "100 reis e 1 galinha"
+                    },
+                    {
+                        "número": "12",
+                        "enfiteuta": "Lic. Manuel de Faria da Cunha",
+                        "foro": "70 reis e 1 galinha",
+                        "desc": {
+                            "para": {
+                                "#text": "Foi construída em pertenças do n.º 11 no ano de.",
+                                "data": "1694"
+                            }
+                        }
+                    },
+                    {
+                        "número": "13",
+                        "enfiteuta": "Manuel Francisco, alfaiate",
+                        "foro": "410 e 4 galinhas",
+                        "desc": {
+                            "para": {
+                                "#text": "Confronta, do nascente, com casa foreira ao.",
+                                "lugar": "Hospital de S. Marcos"
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

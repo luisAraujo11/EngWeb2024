@@ -1,0 +1,659 @@
+{
+    "rua": {
+        "@_noNamespaceSchemaLocation": "file:/C:/Users/maria/OneDrive/%C3%81rea%20de%20Trabalho/UMINHO/4%C2%BA%20ANO/1%C2%BA%20SEMESTRE/Publica%C3%A7%C3%B5es%20Eletr%C3%B3nicas/PROJETO%20FINAL/XML%20E%20IMAGENS/MRB-rua.xsd",
+        "meta": {
+            "número": "46",
+            "nome": "Rua de Santo André"
+        },
+        "corpo": {
+            "para": [
+                {
+                    "#text": "Aberta em, em conexão com o conjunto que tem centro na. Ligava ocom a.",
+                    "data": "1725",
+                    "lugar": [
+                        "praça do Gavião",
+                        "largo dos Penedos",
+                        "praça do Gavião"
+                    ]
+                },
+                "Zona de expansão da cidade setecentista, obedecia a um sistema de loteamento semelhante ao actual.",
+                {
+                    "#text": "Rapidamente se encheu de casas de desenho tradicional que, embora obedecendo a um plano prévio de construção, permitia pequenas variantes de composição nas fachadas. Só os prazos (lotes) 26, 27 e 28 estavam «chãos» em.",
+                    "data": "1750"
+                },
+                "As casas são de dois pisos, tendo quase todas, no andar nobre, janelas do tipo bracarense. Seis edificações há que são térreas, embora dentro do mesmo esquema construtivo.",
+                {
+                    "#text": "As 25 casas do lado Norte e 21 do Sul eram todas prazos do.",
+                    "entidade": {
+                        "#text": "Cabido",
+                        "@_tipo": "pessoa"
+                    }
+                },
+                {
+                    "#text": "Mantém a designação de.",
+                    "lugar": "rua de Santo André"
+                }
+            ],
+            "figura": [
+                {
+                    "@_id": "MRB-46-norte",
+                    "imagem": {
+                        "@_path": "../imagem/MRB-46-RuaDeSantoAndre-a(norte).jpg"
+                    },
+                    "legenda": "Praça do Gavião - Nascente."
+                },
+                {
+                    "@_id": "MRB-46-sul",
+                    "imagem": {
+                        "@_path": "../imagem/MRB-46-RuaDeSantoAndre-a(sul).jpg"
+                    },
+                    "legenda": "Praça do Gavião - Nascente."
+                }
+            ],
+            "lista-casas": {
+                "casa": [
+                    {
+                        "número": "1",
+                        "desc": {
+                            "para": {
+                                "#text": "Pertence à casa n.° 111, da,para onde tem frontaria e serventia principais.",
+                                "lugar": "Rua dos Chãos de Cima"
+                            }
+                        }
+                    },
+                    {
+                        "número": "2",
+                        "desc": {
+                            "para": {
+                                "#text": ", casado com. paga 2000 reis ao enfiteuta do prazo do casal dos Chãos ou Quinteiro. Confronta, do poente. com o quintal da casa n.° III da.",
+                                "entidade": [
+                                    {
+                                        "#text": "Manuel Pereira",
+                                        "@_tipo": "pessoa"
+                                    },
+                                    {
+                                        "#text": "Quitéria da Silva",
+                                        "@_tipo": "pessoa"
+                                    }
+                                ],
+                                "lugar": "Rua dos Chãos de Cima"
+                            }
+                        }
+                    },
+                    {
+                        "número": "3",
+                        "desc": {
+                            "para": "Paga foro ao enfiteuta do prazo do casal dos Chãos ou Quinteiro."
+                        }
+                    },
+                    {
+                        "número": "4",
+                        "desc": {
+                            "para": "Paga foro ao enfiteuta do prazo do casal dos Chãos ou Quinteiro."
+                        }
+                    },
+                    {
+                        "número": "5",
+                        "desc": {
+                            "para": "Paga foro ao enfiteuta do prazo do casal dos Chãos ou Quinteiro."
+                        }
+                    },
+                    {
+                        "número": "6 e 7",
+                        "desc": {
+                            "para": "Paga foro ao enfiteuta do prazo do casal dos Chãos ou Quinteiro."
+                        }
+                    },
+                    {
+                        "número": "8",
+                        "desc": {
+                            "para": {
+                                "#text": ", alfaiate, casado com, paga 1500 reis, ao enfiteuta do prazo do casal dos Chãos ou Quinteiro.",
+                                "entidade": [
+                                    {
+                                        "#text": "João Gomes da Silva",
+                                        "@_tipo": "pessoa"
+                                    },
+                                    {
+                                        "#text": "Teresa Maria",
+                                        "@_tipo": "pessoa"
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "número": "9",
+                        "desc": {
+                            "para": {
+                                "#text": ", marceiro, casado com, paga 2000 reis ao enfiteuta do prazo do casal dos Chãos ou Quinteiro.",
+                                "entidade": [
+                                    {
+                                        "#text": "Francisco de Sousa",
+                                        "@_tipo": "pessoa"
+                                    },
+                                    {
+                                        "#text": "Francisca Soares",
+                                        "@_tipo": "pessoa"
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "número": "10",
+                        "desc": {
+                            "para": {
+                                "#text": ", sapateiro casado com, paga 2000 reis ao enfiteuta do prazo do casal dos Chãos ou Quinteiro",
+                                "entidade": [
+                                    {
+                                        "#text": "José de Carvalho",
+                                        "@_tipo": "pessoa"
+                                    },
+                                    {
+                                        "#text": "Maria Soares",
+                                        "@_tipo": "pessoa"
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "número": "11",
+                        "desc": {
+                            "para": {
+                                "#text": ", clérigo in Minoribus, paga 2000 reis ao enfiteuta do prazo do casal dos Chãos ou Quinteiro.",
+                                "entidade": {
+                                    "#text": "Bento Pereira Machado",
+                                    "@_tipo": "pessoa"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "número": "12",
+                        "desc": {
+                            "para": {
+                                "#text": ", ferreiro, paga 2000 reis ao enfiteuta do prazo do casal dos Chãos ou Quinteiro",
+                                "entidade": {
+                                    "#text": "Manuel Fernandes",
+                                    "@_tipo": "pessoa"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "número": "13",
+                        "desc": {
+                            "para": {
+                                "#text": ", mestre de meninos, casado com, paga 2000 reis ao enfiteuta do prazo do casal dos Chãos ou Quinteiro.",
+                                "entidade": [
+                                    {
+                                        "#text": "Santos da Mota",
+                                        "@_tipo": "pessoa"
+                                    },
+                                    {
+                                        "#text": "Ana de Magalhães",
+                                        "@_tipo": "pessoa"
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "número": "14",
+                        "desc": {
+                            "para": {
+                                "#text": ", emxambrador, casado com, paga 2000 reis ao enfiteuta do prazo do casal dos chãos ou Quinteiro.\n                        Confronta, do nascente, com a.",
+                                "entidade": [
+                                    {
+                                        "#text": "João da Cunha",
+                                        "@_tipo": "pessoa"
+                                    },
+                                    {
+                                        "#text": "Maria Teresa da Silva",
+                                        "@_tipo": "pessoa"
+                                    }
+                                ],
+                                "lugar": "Rua de S. Barnabé"
+                            }
+                        }
+                    },
+                    {
+                        "número": "15",
+                        "desc": {
+                            "para": {
+                                "#text": ", inquiridor, paga 2000 reis ao enfiteuta do prazo do casal dos Chãos ou Quinteiro.\n                        Confronta, do poente, com a.",
+                                "entidade": {
+                                    "#text": "Barnabé de Araújo Pereira",
+                                    "@_tipo": "pessoa"
+                                },
+                                "lugar": "Rua de S. Barnabé"
+                            }
+                        }
+                    },
+                    {
+                        "número": "16",
+                        "desc": {
+                            "para": {
+                                "#text": ", casado com, paga 2000 reis ao enfiteuta do prazo do casal dos Chãos ou Quinteiro.",
+                                "entidade": [
+                                    {
+                                        "#text": "Domingos Fernandes",
+                                        "@_tipo": "pessoa"
+                                    },
+                                    {
+                                        "#text": "Faustina Maria da Graça",
+                                        "@_tipo": "pessoa"
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "número": "17",
+                        "desc": {
+                            "para": {
+                                "#text": ", entalhador, casado com, paga 2000 reis ao enfiteuta do prazo do casal dos Chãos ou Quinteiro.",
+                                "entidade": [
+                                    {
+                                        "#text": "Jerónimo Fernandes",
+                                        "@_tipo": "pessoa"
+                                    },
+                                    {
+                                        "#text": "Teresa Vieira",
+                                        "@_tipo": "pessoa"
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "número": "18 e 19",
+                        "desc": {
+                            "para": {
+                                "#text": ", viúva, paga 2400 reis ao enfiteuta do prazo do casal dos Chãos ou Quinteiro.",
+                                "entidade": {
+                                    "#text": "Custódia Gomes",
+                                    "@_tipo": "pessoa"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "número": "20",
+                        "desc": {
+                            "para": {
+                                "#text": "Opaga 2000 reis ao enfiteuta do prazo do casal dos Chãos ou Quinteiro.",
+                                "entidade": {
+                                    "#text": "Padre José Teixeira de Melo",
+                                    "@_tipo": "pessoa"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "número": "21",
+                        "desc": {
+                            "para": {
+                                "#text": ", casado com. paga 2000 reis ao enfiteuta do prazo do casal dos Chãos ou Quinteiro.",
+                                "entidade": [
+                                    {
+                                        "#text": "Isidoro da Costa",
+                                        "@_tipo": "pessoa"
+                                    },
+                                    {
+                                        "#text": "Ana Maria de Sousa",
+                                        "@_tipo": "pessoa"
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "número": "22",
+                        "desc": {
+                            "para": {
+                                "#text": ", casado com, paga 2000 reis ao enfiteuta do prazo do casal dos Chãos ou Quinteiro.",
+                                "entidade": [
+                                    {
+                                        "#text": "Manuel Esteves de Almeida",
+                                        "@_tipo": "pessoa"
+                                    },
+                                    {
+                                        "#text": "Maria de Paiva",
+                                        "@_tipo": "pessoa"
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "número": "23 e 24",
+                        "desc": {
+                            "para": {
+                                "#text": ", da freguesia de, paga 2900 reis ao enfiteuta do prazo do casal, dos Chãos ou Quinteiro.\n                        Estas casas foram unidas em.",
+                                "entidade": {
+                                    "#text": "Crispiano Ferreira",
+                                    "@_tipo": "pessoa"
+                                },
+                                "lugar": "Sta. Maria de Palmeira",
+                                "data": "1745"
+                            }
+                        }
+                    },
+                    {
+                        "número": "25",
+                        "desc": {
+                            "para": {
+                                "#text": ", notário Apostólico, paga 1400 reis ao enfiteuta do prazo do casal dos Chãos ou Quinteiro. Confronta, do poente, com o n.° 9 da.",
+                                "entidade": {
+                                    "#text": "Agostinho Barbosa",
+                                    "@_tipo": "pessoa"
+                                },
+                                "lugar": "praça do Gavião"
+                            }
+                        }
+                    },
+                    {
+                        "número": "26,27 e 28",
+                        "desc": {
+                            "para": {
+                                "#text": "Chãos de casas, pertenças do prazo do casal dos Chãos ou Quinteiro. O chão n.° 26 confronta, do nascente, com o chão n.° 8 da.",
+                                "lugar": "praça do Gavião"
+                            }
+                        }
+                    },
+                    {
+                        "número": "29",
+                        "desc": {
+                            "para": "Paga 2000 reis ao enfiteuta do prazo do casal dos Chãos ou Quinteiro."
+                        }
+                    },
+                    {
+                        "número": "30",
+                        "desc": {
+                            "para": "Paga 3000 reis ao enfiteuta do prazo do casal dos Chãos ou Quinteiro."
+                        }
+                    },
+                    {
+                        "número": "31",
+                        "desc": {
+                            "para": {
+                                "#text": ", ferreiro, casado com, paga 3000 reis ao enfiteuta do prazo do casal dos Chãos ou Quinteiro.\n                        Foi construída antes de.",
+                                "entidade": [
+                                    {
+                                        "#text": "Paulo de Araújo",
+                                        "@_tipo": "pessoa"
+                                    },
+                                    {
+                                        "#text": "Helena Francisca",
+                                        "@_tipo": "pessoa"
+                                    }
+                                ],
+                                "data": "1726"
+                            }
+                        }
+                    },
+                    {
+                        "número": "32",
+                        "desc": {
+                            "para": {
+                                "#text": ", dourador, casado com, paga 2000 reis ao enfiteuta do prazo do casal dos Chãos ou Quinteiro.\n                        Foi construída antes de.",
+                                "entidade": [
+                                    {
+                                        "#text": "Paulo da Costa",
+                                        "@_tipo": "pessoa"
+                                    },
+                                    {
+                                        "#text": "Ângela Francisca da Silva",
+                                        "@_tipo": "pessoa"
+                                    }
+                                ],
+                                "data": "1726"
+                            }
+                        }
+                    },
+                    {
+                        "número": "33",
+                        "enfiteuta": "D. Agostinha Maria de Barros Gavião, enfiteuta principal do prazo do casal dos Chãos ou Quinteiro.",
+                        "desc": {
+                            "para": {
+                                "#text": ", alfaiate, casado com, paga 2000 reis ao enfiteuta do prazo do casal dos Chãos ou Quinteiro. Foi construída antes de.",
+                                "entidade": [
+                                    {
+                                        "#text": "Francisco Pereira",
+                                        "@_tipo": "pessoa"
+                                    },
+                                    {
+                                        "#text": "Agostinha Francisca",
+                                        "@_tipo": "pessoa"
+                                    }
+                                ],
+                                "data": "1726"
+                            }
+                        }
+                    },
+                    {
+                        "número": "34",
+                        "enfiteuta": "D. Agostinha Maria de Barros Gavião, enfiteuta principal do prazo do casal dos Chãos ou Quinteiro.",
+                        "desc": {
+                            "para": {
+                                "#text": "Opaga 2700 reis ao enfiteuta do prazo do casal dos Chãos ou Quinteiro. Foi construída antes de.",
+                                "entidade": {
+                                    "#text": "Padre Domingos Ferreira",
+                                    "@_tipo": "pessoa"
+                                },
+                                "data": "1727"
+                            }
+                        }
+                    },
+                    {
+                        "número": "35",
+                        "desc": {
+                            "para": {
+                                "#text": ", alfaiate, paga 3000 reis ao enfiteuta do prazo do casal dos Chãos ou Quinteiro. Foi construída antes de.",
+                                "entidade": {
+                                    "#text": "António Francisco",
+                                    "@_tipo": "pessoa"
+                                },
+                                "data": "1732"
+                            }
+                        }
+                    },
+                    {
+                        "número": "36",
+                        "desc": {
+                            "para": {
+                                "#text": "Oe seu irmão, o, pagam 5000 reis ao enfiteuta do prazo do casal dos Chãos ou Quinteiro. Foi construída antes de.",
+                                "entidade": [
+                                    {
+                                        "#text": "Padre Bento Francisco Pereira",
+                                        "@_tipo": "pessoa"
+                                    },
+                                    {
+                                        "#text": "Padre Jerónimo Francisco Pereira",
+                                        "@_tipo": "pessoa"
+                                    }
+                                ],
+                                "data": "1732"
+                            }
+                        }
+                    },
+                    {
+                        "número": "37",
+                        "desc": {
+                            "para": "Paga foro ao enfiteuta do prazo do casal dos Chãos ou Quinteiro."
+                        }
+                    },
+                    {
+                        "número": "38 e 39",
+                        "desc": {
+                            "para": {
+                                "#text": ", tratante, casado com, paga 3200 reis, por cada uma destas casas, ao enfiteuta do prazo do casal dos Chãos ou Quinteiro. Foram construídas antes de.",
+                                "entidade": [
+                                    {
+                                        "#text": "José de Barros",
+                                        "@_tipo": "pessoa"
+                                    },
+                                    {
+                                        "#text": "Catarina de Araújo",
+                                        "@_tipo": "pessoa"
+                                    }
+                                ],
+                                "data": "1737"
+                            }
+                        }
+                    },
+                    {
+                        "número": "40",
+                        "desc": {
+                            "para": {
+                                "#text": ", sapateiro, casado com, paga 3000 reis ao enfiteuta do prazo do casal dos Chãos ou Quinteiro. Foi construída antes de.",
+                                "entidade": [
+                                    {
+                                        "#text": "João Pereira da Silva",
+                                        "@_tipo": "pessoa"
+                                    },
+                                    {
+                                        "#text": "Custódia Francisca",
+                                        "@_tipo": "pessoa"
+                                    }
+                                ],
+                                "data": "1730"
+                            }
+                        }
+                    },
+                    {
+                        "número": "41 e 42",
+                        "desc": {
+                            "para": {
+                                "#text": ", cego, casado com, paga 4500 reis ao enfiteuta do prazo do casal dos Chãos ou Quinteiro. Foram unidas em.",
+                                "entidade": [
+                                    {
+                                        "#text": "Manuel Álvares",
+                                        "@_tipo": "pessoa"
+                                    },
+                                    {
+                                        "#text": "Luísa Teixeira",
+                                        "@_tipo": "pessoa"
+                                    }
+                                ],
+                                "data": "1730"
+                            }
+                        }
+                    },
+                    {
+                        "número": "43",
+                        "desc": {
+                            "para": {
+                                "#text": "O, vigário de, paga 3286 reis ao enfiteuta do prazo do casal dos Chãos ou Quinteiro. Foi construída antes de.",
+                                "entidade": [
+                                    {
+                                        "#text": "Padre André Soares de Araújo",
+                                        "@_tipo": "pessoa"
+                                    },
+                                    {
+                                        "#text": "Sta. Maria de Ferreiros",
+                                        "@_tipo": "instituição"
+                                    }
+                                ],
+                                "data": "1726"
+                            }
+                        }
+                    },
+                    {
+                        "número": "44",
+                        "desc": {
+                            "para": {
+                                "#text": ", escultor, casado com, paga 4760 reis ao enfiteuta do prazo do casal dos Chãos ou Quinteiro. Foi construída antes de.",
+                                "entidade": [
+                                    {
+                                        "#text": "Marcelino de Araújo",
+                                        "@_tipo": "pessoa"
+                                    },
+                                    {
+                                        "#text": "Bernardina Rosa",
+                                        "@_tipo": "pessoa"
+                                    }
+                                ],
+                                "data": "1733"
+                            }
+                        }
+                    },
+                    {
+                        "número": "45",
+                        "desc": {
+                            "para": {
+                                "#text": ", casado com, paga 2000 reis ao enfiteuta do prazo do casal dos Chãos ou Quinteiro. Foi construída antes de.",
+                                "entidade": [
+                                    {
+                                        "#text": "Fabião Dias",
+                                        "@_tipo": "pessoa"
+                                    },
+                                    {
+                                        "#text": "Francisca Dias",
+                                        "@_tipo": "pessoa"
+                                    }
+                                ],
+                                "data": "1732"
+                            }
+                        }
+                    },
+                    {
+                        "número": "46",
+                        "desc": {
+                            "para": {
+                                "#text": ", casado com, paga 2000 reis ao enfiteuta do prazo do casal dos Chãos ou Quinteiro. Foi construída antes de.",
+                                "entidade": [
+                                    {
+                                        "#text": "Bento Ferreira",
+                                        "@_tipo": "pessoa"
+                                    },
+                                    {
+                                        "#text": "Eugénia Francisca",
+                                        "@_tipo": "pessoa"
+                                    }
+                                ],
+                                "data": "1734"
+                            }
+                        }
+                    },
+                    {
+                        "número": "47",
+                        "desc": {
+                            "para": {
+                                "#text": ", solteira, paga 2000 reis ao enfiteuta do prazo do casal dos Chãos ou Quinteiro. Foi construída antes de.",
+                                "entidade": {
+                                    "#text": "Francisca Vieira",
+                                    "@_tipo": "pessoa"
+                                },
+                                "data": "1734"
+                            }
+                        }
+                    },
+                    {
+                        "número": "48 e 49",
+                        "desc": {
+                            "para": {
+                                "#text": ", casado com, paga 2000 reis ao enfiteuta do prazo do casal dos Chãos ou Quinteiro. Ficaram unidas em. A casa n.° 49 confronta, do poente, com o quintal da casa n.° 27 da.",
+                                "entidade": [
+                                    {
+                                        "#text": "Pedro Machado",
+                                        "@_tipo": "pessoa"
+                                    },
+                                    {
+                                        "#text": "Maria Ferreira",
+                                        "@_tipo": "pessoa"
+                                    }
+                                ],
+                                "data": "1738",
+                                "lugar": "Rua dos Chãos de Baixo"
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

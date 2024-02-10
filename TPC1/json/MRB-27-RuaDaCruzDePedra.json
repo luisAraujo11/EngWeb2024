@@ -1,0 +1,670 @@
+{
+    "rua": {
+        "@_noNamespaceSchemaLocation": "file:/C:/Users/Weeb_diogo/Desktop/publica%C3%A7%C3%A3o%20eletronica/aula8/MRB-rua.xsd",
+        "meta": {
+            "número": "27",
+            "nome": "Rua Da Cruz De Pedra"
+        },
+        "corpo": {
+            "figura": [
+                {
+                    "@_id": "MRB-27-poente",
+                    "imagem": {
+                        "@_path": "../imagem/MRB-27-RuaDaCruzDePedra-Poente.png"
+                    },
+                    "legenda": "Rua Da Cruz De Pedra - poente"
+                },
+                {
+                    "@_id": "MRB-27-nascente",
+                    "imagem": {
+                        "@_path": "../imagem/MRB-27-RuaDaCruzDePedra-Nascente.png"
+                    },
+                    "legenda": "Rua Da Cruz De Pedra - nascente"
+                }
+            ],
+            "para": [
+                {
+                    "#text": "Longa rua, extra-muros, que ligava aàs do",
+                    "lugar": [
+                        "rua de S. Miguel o Anjo",
+                        "Beco e Direita"
+                    ]
+                },
+                {
+                    "#text": "Acompanhando o traçado da muralha romana esta artéria, cuja existência remonta à Idade Média,\n            ligava então a porta deàque se situava algures ao lado Oeste\n            da, no enfiamento do.",
+                    "lugar": [
+                        "Nossa Senhora da Ajuda",
+                        "Igreja de Maximinos",
+                        "rua do Caires",
+                        "largo do Beco"
+                    ]
+                },
+                {
+                    "#text": "Totalmente destruída em, porperdem-se depois\n            as notícias sobre a sua história.",
+                    "data": "1384",
+                    "entidade": {
+                        "#text": "D. Jõao de Castela",
+                        "@_entidade": "pessoa"
+                    }
+                },
+                {
+                    "#text": "Emesta artéria estava ainda numa zona rural, o que aliás é confirmado por documentos\n            coevos, que lhe chamam do Arrabalde da Cruz de Pedra. Essa ruralidade é aliás bem patente no Mappa; não só existe um\n            grande espaço, de cerca de 40 metros de extensão, sensivelmente a meio da rua, lado Poente, que está\n            com campos, como, sobretudo, pelo tipo de edifícios que apresnta.",
+                    "data": "1750"
+                },
+                "Aqui as casas estão ordenadas em vários pequenos conjuntos (no máximo com 7 habitações), casas, quase todas muito\n            semelhantes, variando apenas no pé direito do segundo e último piso. Estas casas, de dois vãos e dois pisos, em pedra,\n            tinham no rés-do-chão uma porta ladeada de uma janela e, no 1.º andar uma ou duas janelas bracarenses\n            (ex. prazo n.º60). De uma construção extremamente simples, este tipo de edifícios é o mais\n            característico da cidade extra-muros, abundando sobretudo nas ruas mais periféricas. Por vezes, em casas maiores,\n            era-lhe acrescentado mais uma vão; outras, raras, tinham mais um piso.",
+                {
+                    "#text": "Das 52 casas do lado Nascente e 54 do Poente, eram prazos do38 e 20, respetivamente.",
+                    "entidade": {
+                        "#text": "Cabido",
+                        "@_entidade": "instituição"
+                    }
+                },
+                {
+                    "#text": "Actualmente conserva ainda a mesma designação que lhe deverá ter sido dada pela cruz que\n            existia no extremo Nordeste da rua, na idade Média e que emse situava no extremo oposto.",
+                    "data": "1750"
+                }
+            ],
+            "lista-casas": {
+                "casa": [
+                    {
+                        "número": "1",
+                        "enfiteuta": "D. António de Noronha de Mesquita Soares",
+                        "desc": {
+                            "para": {
+                                "#text": "A casa e parte do quintal são foreiras ao. Pela outra parte do quintal e rossio\n                        paga-se 1006 reis ao n.º 1 do. São subenfiteutas os herdeiros de, víuva.",
+                                "entidade": [
+                                    {
+                                        "#text": "Hospital de S. Marcos",
+                                        "@_entidade": "instituição"
+                                    },
+                                    {
+                                        "#text": "Maria Ferreira",
+                                        "@_entidade": "pessoa"
+                                    }
+                                ],
+                                "lugar": "Campo de S. Sebastião"
+                            }
+                        }
+                    },
+                    {
+                        "número": "2",
+                        "enfiteuta": "D. António de Noronha de Mesquita Soares",
+                        "desc": {
+                            "para": {
+                                "#text": "Esta casa é foreira ao.\n                        O quintal paga, de foro, 1006 reis e meio ao n.º 1 do Campo de S. Sebastião. São subenfiteutas os herdeiros\n                        de, casado com.",
+                                "entidade": [
+                                    {
+                                        "#text": "Hospital de S. Marcos",
+                                        "@_entidade": "instituição"
+                                    },
+                                    {
+                                        "#text": "Bento de Araújo",
+                                        "@_entidade": "pessoa"
+                                    },
+                                    {
+                                        "#text": "Maria Francisca",
+                                        "@_entidade": "pessoa"
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "número": "3",
+                        "enfiteuta": "D. António de Noronha de Mesquita Soares",
+                        "desc": {
+                            "para": {
+                                "#text": "Paga, pelo quintal desta casa, 1613 reis ao n.º 1 do.\n                        São subenfiteutas os herdeiros de, padeiro, casado com",
+                                "lugar": "Campo de S. Sebastião",
+                                "entidade": [
+                                    {
+                                        "#text": "José Cunha",
+                                        "@_entidade": "pessoa"
+                                    },
+                                    {
+                                        "#text": "Ursula Ferreira",
+                                        "@_entidade": "pessoa"
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "número": "4",
+                        "enfiteuta": "D. António de Noronha de Mesquita Soares",
+                        "desc": {
+                            "para": {
+                                "#text": "Paga 1250 reis, pelo quintal desta casa, ao n.º 1 do. A casa é foreira\n                        ao Hospital de S. Marcos. São subenfiteutas os herdeiros de, morador em.",
+                                "lugar": [
+                                    "Campo de S. Sebastião",
+                                    "Lisboa"
+                                ],
+                                "entidade": {
+                                    "#text": "Manuel da Costa Braga",
+                                    "@_entidade": "pessoa"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "número": "5",
+                        "enfiteuta": "D. António de Noronha de Mesquita Soares",
+                        "desc": {
+                            "para": {
+                                "#text": "Pertence ao n.º 1 do, a quem se paga, de pensão ou foro, 3271 reis.\n                        São subenfiteutas os herdeiros de, casado com.",
+                                "lugar": "Campo de S. Sebastião",
+                                "entidade": [
+                                    {
+                                        "#text": "Domingos da Costa",
+                                        "@_entidade": "pessoa"
+                                    },
+                                    {
+                                        "#text": "Maria Correira",
+                                        "@_entidade": "pessoa"
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "número": "6",
+                        "enfiteuta": "D. António de Noronha de Mesquita Soares",
+                        "desc": {
+                            "para": {
+                                "#text": "Paga foro ao n.º 1 do. São subenfiteutas os herdeiros de,\n                        casado com.",
+                                "lugar": "Campo de S. Sebastião",
+                                "entidade": [
+                                    {
+                                        "#text": "Domingos Peixoto",
+                                        "@_entidade": "pessoa"
+                                    },
+                                    {
+                                        "#text": "Paula de Araújo",
+                                        "@_entidade": "pessoa"
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "número": "7",
+                        "enfiteuta": "D. António de Noronha de Mesquita Soares",
+                        "desc": {
+                            "para": {
+                                "#text": "Paga 893 reis ao n.º 1 do. São subenfiteutas os herdeiros de,\n                        casado com.",
+                                "lugar": "Campo de S. Sebastião",
+                                "entidade": [
+                                    {
+                                        "#text": "José de Teive",
+                                        "@_entidade": "pessoa"
+                                    },
+                                    {
+                                        "#text": "Maria Antónia",
+                                        "@_entidade": "pessoa"
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "número": "8",
+                        "enfiteuta": "D. António de Noronha de Mesquita Soares",
+                        "desc": {
+                            "para": {
+                                "#text": "É pertença do prazo do lugar ou casal de S. Sebastião, de que é cabeça a casa n.º 1 do.",
+                                "lugar": "Campo de S. Sebastião"
+                            }
+                        }
+                    },
+                    {
+                        "número": "9",
+                        "enfiteuta": "D. António de Noronha de Mesquita Soares",
+                        "desc": {
+                            "para": {
+                                "#text": "Paga, 1583 reis e meio ao n.º 1 do. São subenfiteutas sos herdeiros de, viúva de.",
+                                "lugar": "Campo de S. Sebastião",
+                                "entidade": [
+                                    {
+                                        "#text": "Maria de Carvalho",
+                                        "@_entidade": "pessoa"
+                                    },
+                                    {
+                                        "#text": "Manuel Carvalho",
+                                        "@_entidade": "pessoa"
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "número": "10",
+                        "enfiteuta": "D. António de Noronha de Mesquita Soares",
+                        "desc": {
+                            "para": {
+                                "#text": "Paga, 1522 reis ao n.º 1 do. São subenfiteutas, os herdeiros de, marchante\n                        , casado com.",
+                                "lugar": "Campo de S. Sebastião",
+                                "entidade": [
+                                    {
+                                        "#text": "João Gomes Ferreira",
+                                        "@_entidade": "pessoa"
+                                    },
+                                    {
+                                        "#text": "Custódia Carvalho",
+                                        "@_entidade": "pessoa"
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "número": "11",
+                        "enfiteuta": "D. António de Noronha de Mesquita Soares",
+                        "desc": {
+                            "para": {
+                                "#text": "Paga, 803 reis e um quarto ao n.º 1 do. São subenfiteutas os herdeiros de, torneiro\n                        , casado com.",
+                                "lugar": "Campo de S. Sebastião",
+                                "entidade": [
+                                    {
+                                        "#text": "Domingos FRancisco",
+                                        "@_entidade": "pessoa"
+                                    },
+                                    {
+                                        "#text": "Rosa Francisca",
+                                        "@_entidade": "pessoa"
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "número": "12",
+                        "enfiteuta": "D. António de Noronha de Mesquita Soares",
+                        "desc": {
+                            "para": {
+                                "#text": "Paga, 803 reis ao n.º 1 do. São subenfiteutas os herdeiros de, caso com.",
+                                "lugar": "Campo de S. Sebastião",
+                                "entidade": [
+                                    {
+                                        "#text": "João Barbosa",
+                                        "@_entidade": "pessoa"
+                                    },
+                                    {
+                                        "#text": "Benta Francisca",
+                                        "@_entidade": "pessoa"
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "número": "13",
+                        "enfiteuta": "D. António de Noronha de Mesquita Soares",
+                        "desc": {
+                            "para": {
+                                "#text": "Paga, 1521 reis e meio ao n.º 1 do. Foi construída depois do ano de. Confronta, do sul, com serventia do referido n.º 1, a qual, por sua vez, confronta com casa foreira à.\n                        São subenfiteutas os herdeiros de, casado com.",
+                                "lugar": [
+                                    "Campo de S. Sebastião",
+                                    "Companhia de Jesus"
+                                ],
+                                "data": "1669",
+                                "entidade": [
+                                    {
+                                        "#text": "Manuel Gomes Góis",
+                                        "@_entidade": "pessoa"
+                                    },
+                                    {
+                                        "#text": "Jerónima Luísa",
+                                        "@_entidade": "pessoa"
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "número": "14",
+                        "enfiteuta": "Os herdeiros de Bento Vaz Perreira, da freguesia de S. Martinho de Dume, casado com Maria Josefa de Macedo e Castro",
+                        "desc": {
+                            "para": {
+                                "#text": "Paga 50 reis, ao n.º 20. Confronta, do norte, com casa foreira à cororaria da.",
+                                "lugar": "Sé de Braga"
+                            }
+                        }
+                    },
+                    {
+                        "número": "15, 16, 17, 18 e 19",
+                        "enfiteuta": "Os herdeiros de Bento Vaz Perreira, da freguesia de S. Martinho de Dume, casado com Maria Josefa de Macedo e Castro",
+                        "desc": {
+                            "para": {
+                                "#text": "Pagam foro ao n.º 20, cabeça do prazo do lugar de, na freguesia de.",
+                                "lugar": [
+                                    "S. Cristóvão",
+                                    "S. Pedro de Maximinos"
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "número": "20",
+                        "enfiteuta": "Os herdeiros de Bento Vaz Perreira, da freguesia de S. Martinho de Dume, casado com Maria Josefa de Macedo e Castro",
+                        "foro": "600 reis e 2 galinhas",
+                        "desc": {
+                            "para": {
+                                "#text": "Esta casa é cabeça do prazo denominado «Casal de S. Cristóvão». Pertencem a este prazo os n.º 14 a 19, desta rua; os n.º 21 a 38; dae os\n                        n.º 1 a 22, da congosta de S. Sebatião. O quintal possui serventia pelo n.º 18 da dita cangosta.\n                        Este prazo pertencia a, no ano de.",
+                                "lugar": "Rua da Cruz da Pedra",
+                                "entidade": {
+                                    "#text": "João Afonso Chanceler",
+                                    "@_entidade": "pessoa"
+                                },
+                                "data": "1466"
+                            }
+                        }
+                    },
+                    {
+                        "número": "21, 22, 23 e 24",
+                        "enfiteuta": "Os herdeiros de Bento Vaz Perreira, da freguesia de S. Martinho de Dume, casado com Maria Josefa de Macedo e Castro",
+                        "desc": {
+                            "para": {
+                                "#text": "Pagam foro ao n.º 20, cabeça do prazo do lugar de, na freguesia de.",
+                                "lugar": [
+                                    "S. Cristóvão",
+                                    "S. Pedro de Maximinos"
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "número": "25",
+                        "enfiteuta": "Os herdeiros de Bento Vaz Perreira, da freguesia de S. Martinho de Dume, casado com Maria Josefa de Macedo e Castro",
+                        "desc": {
+                            "para": "Paga 320 reis, de foro, ao n.º20."
+                        }
+                    },
+                    {
+                        "número": "26",
+                        "enfiteuta": "Os herdeiros de Bento Vaz Perreira, da freguesia de S. Martinho de Dume, casado com Maria Josefa de Macedo e Castro",
+                        "desc": {
+                            "para": "Paga 50 reis, de foro, ao n.º20."
+                        }
+                    },
+                    {
+                        "número": "27",
+                        "enfiteuta": "Os herdeiros de Bento Vaz Perreira, da freguesia de S. Martinho de Dume, casado com Maria Josefa de Macedo e Castro",
+                        "desc": {
+                            "para": {
+                                "#text": "Pertence aos herdeiros de, casado com. Paga, de foro, 1300 reis ao n.º20. Foi subemprazada em.",
+                                "entidade": [
+                                    {
+                                        "#text": "António Ferreira",
+                                        "@_entidade": "pessoa"
+                                    },
+                                    {
+                                        "#text": "Domingos Ferreira",
+                                        "@_entidade": "pessoa"
+                                    }
+                                ],
+                                "data": "1733"
+                            }
+                        }
+                    },
+                    {
+                        "número": "28",
+                        "enfiteuta": "Os herdeiros de Bento Vaz Perreira, da freguesia de S. Martinho de Dume, casado com Maria Josefa de Macedo e Castro",
+                        "desc": {
+                            "para": {
+                                "#text": "Paga foro ao n.º 20. Possui uma porta de serventia para o n.º 7, da cangosta de. Está unida, numa só escritura de prazo, aos n.º 16 e 17 de cangosta de.",
+                                "lugar": [
+                                    "S. Sebastião",
+                                    "S. Sebastião"
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "número": "29",
+                        "enfiteuta": "Os herdeiros de Bento Vaz Perreira, da freguesia de S. Martinho de Dume, casado com Maria Josefa de Macedo e Castro",
+                        "desc": {
+                            "para": "Paga foro ao n.º 20."
+                        }
+                    },
+                    {
+                        "número": "30",
+                        "enfiteuta": "Os herdeiros de Bento Vaz Perreira, da freguesia de S. Martinho de Dume, casado com Maria Josefa de Macedo e Castro",
+                        "desc": {
+                            "para": {
+                                "#text": "Paga, de foro, 20 reis ao n.º 20. Foi suemprazada em. São subenfiteutas os herdeiros de, casado com.",
+                                "data": "1690",
+                                "entidade": [
+                                    {
+                                        "#text": "Manuel Calheiros",
+                                        "@_entidade": "pessoa"
+                                    },
+                                    {
+                                        "#text": "Maria Perreira",
+                                        "@_entidade": "pessoa"
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "número": "31",
+                        "enfiteuta": "Os herdeiros de Bento Vaz Perreira, da freguesia de S. Martinho de Dume, casado com Maria Josefa de Macedo e Castro",
+                        "desc": {
+                            "para": "Paga foro ao n.º 20."
+                        }
+                    },
+                    {
+                        "número": "32",
+                        "enfiteuta": "Os herdeiros de Bento Vaz Perreira, da freguesia de S. Martinho de Dume, casado com Maria Josefa de Macedo e Castro",
+                        "desc": {
+                            "para": {
+                                "#text": "Paga, de foro, 20 reis, ao n.º 20. Foi subemprazada no ano de. São subenfiteutas os herdeiros de, frasqueiro, casado com.",
+                                "data": "1706",
+                                "entidade": [
+                                    {
+                                        "#text": "João Vaz",
+                                        "@_entidade": "pessoa"
+                                    },
+                                    {
+                                        "#text": "Mariana de Campos",
+                                        "@_entidade": "pessoa"
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "número": "33",
+                        "enfiteuta": "Os herdeiros de Bento Vaz Perreira, da freguesia de S. Martinho de Dume, casado com Maria Josefa de Macedo e Castro",
+                        "desc": {
+                            "para": {
+                                "#text": "Paga, de foro, 700 reis ao n.º 20. Possui porta de serventia para o n.º 11 da cangosta de. É subenfiteuta, solteira.",
+                                "lugar": "S. Sebastião",
+                                "entidade": {
+                                    "#text": "Catarina Álvares",
+                                    "@_entidade": "pessoa"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "número": "34 e 35",
+                        "enfiteuta": "Os herdeiros de Bento Vaz Perreira, da freguesia de S. Martinho de Dume, casado com Maria Josefa de Macedo e Castro",
+                        "desc": {
+                            "para": {
+                                "#text": "Paga, de foro, 1000 reis ao n.º 20. É subenfiteuta, padeiro, e sua mulher,.",
+                                "entidade": [
+                                    {
+                                        "#text": "Valentim Pereira",
+                                        "@_entidade": "pessoa"
+                                    },
+                                    {
+                                        "#text": "Francisca Ferreira",
+                                        "@_entidade": "pessoa"
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "número": "36",
+                        "enfiteuta": "Os herdeiros de Bento Vaz Perreira, da freguesia de S. Martinho de Dume, casado com Maria Josefa de Macedo e Castro",
+                        "desc": {
+                            "para": {
+                                "#text": "Paga, de foro, 1000 reis ao n.º 20. O quintal desta possui saída para o n.º 9 da cangosta de. É subenfiteuta o.",
+                                "lugar": "S. Sebastião",
+                                "entidade": {
+                                    "#text": "Padre António Nogueira",
+                                    "@_entidade": "pessoa"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "número": "37 e 38",
+                        "enfiteuta": "Os herdeiros de Bento Vaz Perreira, da freguesia de S. Martinho de Dume, casado com Maria Josefa de Macedo e Castro",
+                        "desc": {
+                            "para": {
+                                "#text": "Pagam 760 reis, de foro, ao n.º 20. O n.º 38, em, correspondia a um «chão de casa» e confrontava, do sul, com a cangosta de. Fazem parte da escritura de prazo os n.º 1 e 2 da dita cangosta.",
+                                "data": "1595",
+                                "lugar": "S. Sebastião"
+                            }
+                        }
+                    },
+                    {
+                        "número": "39",
+                        "enfiteuta": "Padre Paulo da Cunha",
+                        "foro": "610 reis e 1 galinha",
+                        "desc": {
+                            "para": {
+                                "#text": "Confronta, do sul, com a casa foreira à. de. Foi doado ao, juntamente com os n.º 40 a 49, no ano de, com encargo de aniversário, pelo mestre escola,.",
+                                "entidade": [
+                                    {
+                                        "#text": "confraria do Nome de Deus",
+                                        "@_entidade": "instituição"
+                                    },
+                                    {
+                                        "#text": "cabido",
+                                        "@_entidade": "instituição"
+                                    },
+                                    {
+                                        "#text": "Baltazar Carneiro",
+                                        "@_entidade": "pessoa"
+                                    }
+                                ],
+                                "lugar": "S. Pedro de Maximinos",
+                                "data": "1562"
+                            }
+                        }
+                    },
+                    {
+                        "número": "40 a 46",
+                        "enfiteuta": "João Ferreira, marchante",
+                        "foro": "2800 reis e 2 galonhas",
+                        "desc": {
+                            "para": {
+                                "#text": "No ano deas casas n.º 40 a 45 foram unidas à n.º 46.",
+                                "data": "1653"
+                            }
+                        }
+                    },
+                    {
+                        "número": "47, 48 e 49",
+                        "enfiteuta": "João Ferreira, marchante",
+                        "foro": "800 reis",
+                        "desc": {
+                            "para": {
+                                "#text": "No ano deas casas n.º 47 e 48 foram unidas ao n.º 49. O n.º 49 confronta, do norte, com a casa foreira à.",
+                                "data": "1624",
+                                "entidade": {
+                                    "#text": "confrafia da Santíssima Sé",
+                                    "@_entidade": "instituição"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "número": "50",
+                        "enfiteuta": "Frei Sebastião Xavier de Novais Furtado de Mendonça, Cavaleiro da Ordem de Cristo, da cidade de Braga",
+                        "foro": "1500 reis e 2 galinhas",
+                        "desc": {
+                            "para": [
+                                "Esta casa é cabeça do prazo do «Casal da Vinha e Campo de S. Cristóvão».",
+                                {
+                                    "#text": "Confronta, do sul, com quintal da casa, foreira à, e, do norte, com a.",
+                                    "entidade": {
+                                        "#text": "confraria da Santíssima Sé",
+                                        "@_entidade": "instituição"
+                                    },
+                                    "lugar": "cangosta dos Corvos"
+                                },
+                                {
+                                    "#text": "Pertencem a este prazo as casas que vão desde o n.º57 a 62, com seus quintais, situadas na, que foram subemprazadas, no ano de. Este prazo foi de, criado do Arcebispo, em.",
+                                    "lugar": "Rua da Cruz de Pedra",
+                                    "data": [
+                                        "1650",
+                                        "1520"
+                                    ],
+                                    "entidade": [
+                                        {
+                                            "#text": "Francisco Belo",
+                                            "@_entidade": "pessoa"
+                                        },
+                                        {
+                                            "#text": "D. Diogo de Sousa",
+                                            "@_entidade": "pessoa"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "número": "51",
+                        "enfiteuta": "D. Maria Barreto de Meneses, viúva de Miguel Barreto de Meneses, da cidade de Braga",
+                        "foro": "480 reis e 2 galinhas",
+                        "desc": {
+                            "para": {
+                                "#text": "Esta casa é cabeça do prazo do «Casal ou Vinha das Cobras». Pertencem ao prazo os n.º 52 a 56 da.",
+                                "lugar": "Ruda da Cruz da Pedra"
+                            }
+                        }
+                    },
+                    {
+                        "número": "52, 53, 54, 55 e 56",
+                        "enfiteuta": "D. Maria Barreto de Meneses, viúva de Miguel Barreto de Meneses, da cidade de Braga",
+                        "desc": {
+                            "para": "Pagam foro ao n.º 51."
+                        }
+                    },
+                    {
+                        "número": "57, 58, 59 e 60",
+                        "enfiteuta": "Frei Sebastião Xavier de Novais Furtado de Mendonça, Cavaleiro da Ordem de Cristo",
+                        "desc": {
+                            "para": {
+                                "#text": ", ourives, casado com, paga 3000 reis ao n.º 50.",
+                                "entidade": [
+                                    {
+                                        "#text": "Lourenço Francisco da Costa",
+                                        "@_entidade": "pessoa"
+                                    },
+                                    {
+                                        "#text": "Mariana Rosa Ferreira",
+                                        "@_entidade": "pessoa"
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "número": "61 e 62",
+                        "enfiteuta": "Frei Sebastião Xavier de Novais Furtado de Mendonça, Cavaleiro da Ordem de Cristo, da cidade de Braga",
+                        "desc": {
+                            "para": "Pagam foro ao n.º50."
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}
