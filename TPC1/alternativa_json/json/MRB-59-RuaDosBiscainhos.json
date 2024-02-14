@@ -1,0 +1,80 @@
+{
+    "rua": {
+        "@_noNamespaceSchemaLocation": "MRB-rua.xsd",
+        "meta": {
+            "número": "59",
+            "nome": "Rua dos Biscaínhos"
+        },
+        "corpo": {
+            "para": [
+                {
+                    "#text": "Aberta nono tempo de, unia o.",
+                    "data": "séc. XVI",
+                    "entidade": {
+                        "#text": "D.Diogo de Sousa",
+                        "@_tipo": "pessoa"
+                    },
+                    "lugar": "campo da Vinha com o campo das Hortas"
+                },
+                {
+                    "#text": "Em finais do, tinha já muitos edifícios conforme nos mostra o mapa de Braunio.",
+                    "data": "séc.XVI"
+                },
+                "No Mappa, contudo, estão apenas desenhados três edifícios do lado Norte: dois de três pisos e o palácio dos Biscaínhos .",
+                "Se as casas são simples e de arquitetura tradicional, o palácio é o magnífico edifício que, felizmente, ainda hoje se mantém intacto.",
+                {
+                    "#text": "Curiosamente, no Mappa, não há indicações de que qualquer um destes edifícios foram foreiros ao. No volume 4 dos Índices dos Prazos do(p.441 e 442) há, porém, notícia de duas destas casas serem emprazadas.",
+                    "lugar": [
+                        "Cabido",
+                        "Cabido"
+                    ]
+                },
+                {
+                    "#text": "Mantém a designação de.",
+                    "lugar": "rua dos Biscaínhos"
+                }
+            ],
+            "figura": {
+                "@_id": "MRB-59-norte",
+                "imagem": {
+                    "@_path": "../imagem/MRB-59-RuaDosBiscainhos-norte.jpg"
+                },
+                "legenda": "Rua Dos Biscaínhos - norte."
+            },
+            "lista-casas": {
+                "casa": [
+                    {
+                        "número": "1",
+                        "enfiteuta": "Sebastião de Faria Gusmão, enfiteuta principal da Quinta da Cónega.",
+                        "desc": {
+                            "para": {
+                                "#text": "Os herdeiros do Lic.pagam 150 reis e 2 alqueires e meio de trigo ao enfiteuta do prazo da",
+                                "entidade": {
+                                    "#text": "Domingos Correia de Abreu",
+                                    "@_tipo": "pessoa"
+                                },
+                                "lugar": "Quinta da Cónega"
+                            }
+                        }
+                    },
+                    {
+                        "número": "2",
+                        "enfiteuta": "Sebastião de Faria Gusmão, enfiteuta principal da Quinta da Cónega.",
+                        "desc": {
+                            "para": [
+                                {
+                                    "#text": "Pertence ao nº1 da, para onde tem, também, frontaria.",
+                                    "lugar": "Rua da Cónega"
+                                },
+                                {
+                                    "#text": "A fachada situa-se no.",
+                                    "lugar": "Campo da Vinha"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

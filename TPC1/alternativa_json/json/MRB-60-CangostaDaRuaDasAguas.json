@@ -1,0 +1,61 @@
+{
+    "rua": {
+        "@_noNamespaceSchemaLocation": "MRB-rua.xsd",
+        "meta": {
+            "número": "60",
+            "nome": "Cangosta da Rua das Águas"
+        },
+        "corpo": {
+            "para": [
+                {
+                    "#text": "Pequena artéria que partindo dapassava pela quingosta dae de dirigia ao. No volume 2, dos Índices das Casas dos Prazos do, a páginas 273-278 é chamada Cangosta Que Vai Para Nossa Senhora a Branca.",
+                    "lugar": [
+                        "rua das Águas",
+                        "Palha",
+                        "Campo de Nossa Senhora a Branca",
+                        "Cabido"
+                    ]
+                },
+                {
+                    "#text": "No Mappa não há, porém, indicações de que estes edifícios sejam foreiros ao, o que cintraria os Índices.",
+                    "lugar": "Cabido"
+                },
+                "A 7 casas que vemos no Mappa são bastante simples, pobres até, de arquitetura tradicional. Seis são térreas e uma tem três pisos, sendo o último andar, contudo, mais baixo e de mais pequenas aberturas.",
+                {
+                    "#text": "Ema Câmara decidiu fazer um pequeno largono seu extremo Oeste e alargá-la.",
+                    "data": "1891",
+                    "lugar": "(o Rechicho)"
+                },
+                {
+                    "#text": "Atual",
+                    "lugar": "rua do Raio e largo João Penha (ou do Rechicho)."
+                }
+            ],
+            "figura": {
+                "@_id": "MRB-60-norte",
+                "imagem": {
+                    "@_path": "../imagem/MRB-60-CangostaDaRuaDasAguas-norte.jpg"
+                },
+                "legenda": "Cangosta da Rua das Águas - norte."
+            },
+            "lista-casas": {
+                "casa": {
+                    "número": "37 a 42",
+                    "enfiteuta": "*Vid.casa nº33 da Rua das Águas (rua 36)",
+                    "desc": {
+                        "para": [
+                            {
+                                "#text": "A numeração que lhe é atribuída pelos índices dá seguimento à da.",
+                                "lugar": "rua das Águas"
+                            },
+                            {
+                                "#text": "A casa nº37 confronta, de poente, com o nº36 da.",
+                                "lugar": "rua das Águas"
+                            }
+                        ]
+                    }
+                }
+            }
+        }
+    }
+}

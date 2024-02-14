@@ -1,0 +1,172 @@
+{
+    "rua": {
+        "@_noNamespaceSchemaLocation": "MRB-rua.xsd",
+        "meta": {
+            "número": "25",
+            "nome": "Campo de S. Sebastião e em Frente do Açougue"
+        },
+        "corpo": {
+            "figura": [
+                {
+                    "@_id": "MRB-25-poente-a",
+                    "imagem": {
+                        "@_path": "../imagem/MRB-25-CampoDeSSebastiaoEEmFrenteDoAcougue-Poente-A.png"
+                    },
+                    "legenda": "Campo de S. Sebastião - Poente."
+                },
+                {
+                    "@_id": "MRB-25-poente-b",
+                    "imagem": {
+                        "@_path": "../imagem/MRB-25-CampoDeSSebastiaoEEmFrenteDoAcougue-Poente-B.png"
+                    },
+                    "legenda": "Em Frente do Assougue - Poente."
+                }
+            ],
+            "para": [
+                {
+                    "#text": "As muralhas da cidade, do lado Oeste, eram rodeadas de dois grandes largos\n            abertos no tempo de: oe o. Ligando-os\n            e vencendo uma pequena rampa que talvez corresponda ao local de passagem da muralha romana,\n            havia a pequena rua denominada.",
+                    "entidade": {
+                        "#text": "D. Diogo de Sousa",
+                        "@_entidade": "pessoa"
+                    },
+                    "lugar": [
+                        "campo das Hortas",
+                        "campo de S. Sebastião",
+                        "Em Frente do Açougue"
+                    ]
+                },
+                {
+                    "#text": "Separando-as, estava a, continuação natural da. No ponto de encontro destas 4 vias situava-se a, construída em data desconhecida e quemandara «ladrilhar». Nose seguintes, eram nela que os novos Arcebispos se paramentavam,\n             antes de entrar na cidade.",
+                    "lugar": [
+                        "rua de S.Miguel o Anjo",
+                        "rua de Maximinos",
+                        "capela de S. Miguel o Anjo"
+                    ],
+                    "entidade": {
+                        "#text": "D. Diogo de Sousa",
+                        "@_entidade": "pessoa"
+                    },
+                    "data": "séc. XVII"
+                },
+                {
+                    "#text": "Em, esta zona era pouco habitada e já de arrabalde,com as casas construídas\n            sem qualquer conexão, havendo até algumas nocom aspecto de casa rural.",
+                    "data": "1750",
+                    "lugar": "campo de S. Sebastião"
+                },
+                "O Mappa mostra-nos só as construções do lado Poente, embora as houvesse ao lado contrário,\n            encostadas às muralhas.",
+                {
+                    "#text": "Os açougues viriam a ser demolidos em, embora já mal servissem há\n            muito tempo, desde que emse construiram um novo edifício para esse\n            fim, em terrnos imediatamente a Sul do prazo nº1, no.",
+                    "data": [
+                        "1839",
+                        "1787"
+                    ],
+                    "lugar": "campo de S. Sebastião"
+                },
+                {
+                    "#text": "Muitas transformações urbanísticas aqui aconteceram, mas todas nos, quando esta zona foi envolvida por novas ruas, tornado-a bem mais central.",
+                    "data": "séc. XIX e XX"
+                },
+                {
+                    "#text": "Hoje já não podemos ver a bela varanda de canto renascentista(?) do prazo nº5, nem quase\n            nenhuma das outras casas, nem sequer a, transferida para outro local\n            da cidade em.",
+                    "lugar": "capela de S. Miguel o Anjo",
+                    "data": "1882"
+                },
+                {
+                    "#text": "De todo este conjunto apenas a terceira casa a Norte do prazo nº11, subsiste, com a\n            sua bela varanda de madeira em muitíssimo mau estado; e a casa grande que faz gaveto \n            com a, então pertencente aos.\n            O, mandado fazer emporpara o,\n            foi transferido empara o centro do.",
+                    "lugar": [
+                        "rua de S. Miguel o Anjo",
+                        "cruzeiro",
+                        "campo das Hortas",
+                        "campo de S. Sebastião"
+                    ],
+                    "entidade": [
+                        {
+                            "#text": "Cónegos Regrantes de Santa Cruz de Coimbra",
+                            "@_entidade": "instituição"
+                        },
+                        {
+                            "#text": "D. Afonso Furtado de Medonça",
+                            "@_entidade": "pessoa"
+                        }
+                    ],
+                    "data": [
+                        "1621",
+                        "1915"
+                    ]
+                },
+                {
+                    "#text": "Das 7 casas de5 são doe das 17 dosão foreiras ao9.",
+                    "lugar": [
+                        "Em Frente do Açougue",
+                        "campo de S. Sebastião"
+                    ],
+                    "entidade": [
+                        {
+                            "#text": "Cabido",
+                            "@_entidade": "instituição"
+                        },
+                        {
+                            "#text": "Cabido",
+                            "@_entidade": "instituição"
+                        }
+                    ]
+                },
+                {
+                    "#text": "Actualmente,corresponde à; oé partilhado peloe.",
+                    "lugar": [
+                        "Em Frente do Açougue",
+                        "avenida de S. Miguel o Anjo",
+                        "campo de\n                S. Sebastião",
+                        "campo das Carvalheiras",
+                        "rua do Matadouro Velho"
+                    ]
+                }
+            ],
+            "lista-casas": {
+                "casa": [
+                    {
+                        "número": "1",
+                        "enfiteuta": "D. António de Noronha de Mesquita Soares",
+                        "foro": "400 reis e 2 galinhas",
+                        "desc": {
+                            "para": [
+                                {
+                                    "#text": "O enfiteuta é filho dee de sua mulher,",
+                                    "entidade": [
+                                        {
+                                            "#text": "Garcia de Noronha de Mesquita e Melo",
+                                            "@_entidade": "pessoa"
+                                        },
+                                        {
+                                            "#text": "D. Brites Josefa de Abreu Soares.",
+                                            "@_entidade": "pessoa"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "#text": "Esta casa é cabeça do prazo do lugar ou casal de S. Sebastião. Foram feitas diversas escrituras,\n                        à face deste prazo, dos n.º1 a 13 dae de uma parte do n.º9 da.",
+                                    "lugar": [
+                                        "Rua do Arrabalde da Cruz de Pedra",
+                                        "Rua de S. Miguel o Anjo"
+                                    ]
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "número": "2 a 11",
+                        "enfiteuta": "Jacinto de Magalhães",
+                        "foro": "350 reis e ... galinhas",
+                        "desc": {
+                            "para": {
+                                "#text": "emo n.º3 e as nove casas que constituiam este prazo foram unidas ao n.º2.\n                        A casa n.º2 confronta, do sul, com terreiro da casa n.º1 e, o n.º11, do norte, com casa foreira ao",
+                                "data": "1674",
+                                "lugar": "Hospital de S. Marcos"
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

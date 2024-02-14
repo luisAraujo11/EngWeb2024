@@ -1,0 +1,443 @@
+{
+    "rua": {
+        "@_noNamespaceSchemaLocation": "MRB-rua.xsd",
+        "meta": {
+            "número": "14",
+            "nome": "Rua de Sta. Maria ou do Poço"
+        },
+        "corpo": {
+            "para": [
+                {
+                    "#text": "Longa e importantíssima artéria que ligava acom oonde existia a principal porta da cidade virada a Sul,\n            a, depois chamada do.",
+                    "lugar": [
+                        "Catedral",
+                        "terreiro de S. Paulo ou de S. Tiago",
+                        "Porta de S. Tiago",
+                        "Colégio"
+                    ]
+                },
+                {
+                    "#text": "Rua de farta história foi um eixo fundamental da\n            cidade, só deixando de o ser a partir da data em que\n            o centro se mudou para o eixo.",
+                    "lugar": "rua do Souto-Arcada"
+                },
+                {
+                    "#text": "Na Idade Média era por aqui que se tinha acesso à\n            feira que se fazia algures, junto à porta da,\n            no. Nela também talvez tivesse\n            havido um mercado de forragens, pois foi conhecida,\n            no, com o nome de.",
+                    "lugar": [
+                        "muralha",
+                        "Terreiro de S. Tiago",
+                        "rua da Erva"
+                    ],
+                    "data": "séc. XIV"
+                },
+                {
+                    "#text": "No, instalou-se em casa logo pegada à actual, a, sendo arruada esta\n            artéria aos judeus, por decisão do; a rua\n            passou então a ser conhecida como.",
+                    "data": "séc. XV",
+                    "lugar": [
+                        "Igreja de Santiago",
+                        "Sinagoga",
+                        "rua da Judiaria"
+                    ],
+                    "entidade": {
+                        "#text": "Senado",
+                        "@_tipo": "instituição"
+                    }
+                },
+                {
+                    "#text": "Em, pelo menos, foi decidido mudar os judeus\n            para uma rua que não ficasse tão próxima da, pois\n            causava má impressão haver tantas moradas de «casas\n            de hereges» em local tão próximo da, ou.",
+                    "data": "1465",
+                    "lugar": [
+                        "Sé",
+                        "Catedral",
+                        "Igreja de Santa Maria de Braga"
+                    ]
+                },
+                {
+                    "#text": "Começou então a ser conhecida pore, também, por rua da.",
+                    "lugar": [
+                        "rua de Santa Maria",
+                        "Judiaria Velha"
+                    ]
+                },
+                {
+                    "#text": "Entretanto instalou-se no contíguoo, onde existiram os\n            Estudos Gerais.",
+                    "lugar": "terreiro de\n            S. Tiago",
+                    "entidade": {
+                        "#text": "Colégio de S. Paulo",
+                        "@_tipo": "instituição"
+                    }
+                },
+                {
+                    "#text": "No, tinha o nome de, que provinha de um poço municipal existente quase no\n            extremo Noroeste desta artéria que serviu desde a Idade Média até ao. A metade Sul, além da, foi também conhecida pelo nome de.",
+                    "data": [
+                        "séc. XVIII",
+                        "séc. XIX"
+                    ],
+                    "lugar": [
+                        "rua do Poço",
+                        "rua das Travessas",
+                        "rua de S. Tiago"
+                    ]
+                },
+                {
+                    "#text": "Alargada em fins do, manterá a sua importância como eixo. O comércio, esse,\n            é que não voltou.",
+                    "data": "séc. XIX"
+                },
+                "Hoje perdeu quase todas as casas que vemos no Mappa; e algumas eram bem interessantes como, por\n            exemplo, a casa do prazo n.° 16, com uma bela janela de canto, renascentista.",
+                {
+                    "#text": "Das 18 casas existentes no lado Nascente e 14 do lado Poente eram prazos do16 e 11 respectivamente.",
+                    "entidade": {
+                        "#text": "Cabido",
+                        "@_tipo": "instituição"
+                    }
+                },
+                {
+                    "#text": "Tendo recebido ainda outros nomes, foi emdesignada de, que mantém.",
+                    "data": "24 de Fevereiro de 1944",
+                    "lugar": "rua D. Gonçalo Pereira"
+                }
+            ],
+            "figura": [
+                {
+                    "@_id": "MRB-14-nascente",
+                    "imagem": {
+                        "@_path": "../imagem/MRB-14-RuaDeSMariaOuDoPoco-Nascente.jpg"
+                    },
+                    "legenda": "Rua de Sta. Maria ou do Poço - vista Nascente."
+                },
+                {
+                    "@_id": "MRB-14-poente",
+                    "imagem": {
+                        "@_path": "../imagem/MRB-14-RuaDeSMariaOuDoPoco-Poente.jpg"
+                    },
+                    "legenda": "Rua de Sta. Maria ou do Poço - vista Poente."
+                }
+            ],
+            "lista-casas": {
+                "casa": [
+                    {
+                        "número": "1",
+                        "desc": {
+                            "para": {
+                                "#text": "Corresponde ao n.º 17 da, para onde tem a frontaria\n                    e serventia principais.",
+                                "lugar": "Rua das Oussias"
+                            }
+                        }
+                    },
+                    {
+                        "número": "2",
+                        "enfiteuta": "Padre José Lopes",
+                        "foro": "420 reis e 2 galinhas"
+                    },
+                    {
+                        "número": "3",
+                        "enfiteuta": "Padre José Lopes",
+                        "foro": "250 reis e 2 galinhas"
+                    },
+                    {
+                        "número": "4",
+                        "enfiteuta": "António Ferreira, moleiro",
+                        "foro": "125 reis e galinha",
+                        "desc": {
+                            "para": {
+                                "#text": "Estas casas, juntamente com o n.º 5\n                    foram construídas depois de, em pertenças\n                    do n.º3.",
+                                "data": "1543"
+                            }
+                        }
+                    },
+                    {
+                        "número": "5 e 6",
+                        "desc": {
+                            "para": {
+                                "#text": "Aqui vivem os vigário da.\n                    Odoou o n.º 5 (depois de), e o n.º 6\n                    (depois de), aos vigários da, para sua\n                    residência. A casa n.º 5 foi construída em pertenças\n                    do n.º 4, a partir do referido ano de.",
+                                "lugar": [
+                                    "Sé",
+                                    "Sé"
+                                ],
+                                "entidade": {
+                                    "#text": "Cabido",
+                                    "@_tipo": "instituição"
+                                },
+                                "data": [
+                                    "1703",
+                                    "1631",
+                                    "1703"
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "número": "7",
+                        "enfiteuta": "Dr. Francisco Gomes do Couto",
+                        "foro": "180 reis e 4 galinhas",
+                        "desc": {
+                            "para": {
+                                "#text": "Foi construída depois de, em pertenças que\n                    foram do n.º 6.",
+                                "data": "1559"
+                            }
+                        }
+                    },
+                    {
+                        "número": "8 e 9",
+                        "enfiteuta": "Lic. Paulo de Sousa de Magalhães, de Barcelos",
+                        "foro": "1270 reis, 6 galinhas e 2 capões",
+                        "desc": {
+                            "para": "O n.º 8 foi unida, num só prazo, ao n.º 9."
+                        }
+                    },
+                    {
+                        "número": "10",
+                        "enfiteuta": "Francisco Pereira, alfaiate e sua mulher, Francisca de Campos",
+                        "foro": "250 reis e 2 capões",
+                        "desc": {
+                            "para": {
+                                "#text": "O emprazamento foi feito no ano de.",
+                                "data": "1727"
+                            }
+                        }
+                    },
+                    {
+                        "número": "11",
+                        "enfiteuta": "Manuel Francisco, tratante, e sua mulher, Teresa Antunes",
+                        "foro": "210 reis e 4 galinhas",
+                        "desc": {
+                            "para": "A designação de «Casa do Poço» advém-lhe do poço que possuia junto à rua."
+                        }
+                    },
+                    {
+                        "número": "12",
+                        "enfiteuta": "Padre Diogo da Rocha",
+                        "foro": "110 reis e 1 capão",
+                        "desc": {
+                            "para": {
+                                "#text": "Foi construída depois de, em pertenças do n.º 5,\n                    da.",
+                                "data": "1727",
+                                "lugar": "rua Pequena"
+                            }
+                        }
+                    },
+                    {
+                        "número": "13, 14 e 15",
+                        "desc": {
+                            "para": {
+                                "#text": "Correspondem ao n.º 7 da travessa que vai daoupara a, para onde têm a frontaria e\n                    serventia principais. O n.º 13 foi unido, num só prazo, ao n.º 14,\n                    depois do ano de. Posteriormente, no ano de, foram unidas\n                    ao n? 15. Em, foram feitas escrituras de sub-emprazamento das\n                    casas 13 e 14, à face do n.º 15.",
+                                "lugar": [
+                                    "Rua de Santa\n                    Maria",
+                                    "do Poço",
+                                    "do Forno"
+                                ],
+                                "data": [
+                                    "1561",
+                                    "1672",
+                                    "1681"
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "número": "16",
+                        "desc": {
+                            "para": {
+                                "#text": "Corresponde ao n.º 6 da travessa que vai daoupara a, para onde têm a frontaria e\n                    serventia principais.",
+                                "lugar": [
+                                    "Rua de Santa\n                    Maria",
+                                    "do Poço",
+                                    "do Forno"
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "número": "17",
+                        "enfiteuta": "D. Bernarda Inácia Pereira Pimentel, viúva de José de Coimbra e Andrade, da cidade de Braga",
+                        "foro": "80 reis e 1 galinha",
+                        "desc": {
+                            "para": {
+                                "#text": "O emprazamento é de. Foi construída em pertenças do\n                    n.º 16, depois do ano de. Confronta, do sul, com oou, do.",
+                                "data": [
+                                    "1744",
+                                    "1524"
+                                ],
+                                "entidade": [
+                                    {
+                                        "#text": "Hospital de \n                    Santiago",
+                                        "@_tipo": "instituição"
+                                    },
+                                    {
+                                        "#text": "das Velhas",
+                                        "@_tipo": "instituição"
+                                    }
+                                ],
+                                "lugar": "morgado de Real"
+                            }
+                        }
+                    },
+                    {
+                        "número": "18",
+                        "enfiteuta": "Os herdeiros de Manuel Machado, alfaiate",
+                        "foro": "170 reis e 1 galinha",
+                        "desc": {
+                            "para": {
+                                "#text": "Confronta, do sul, com casa foreira à comenda de.",
+                                "lugar": "Riofrio"
+                            }
+                        }
+                    },
+                    {
+                        "número": "19",
+                        "desc": {
+                            "para": {
+                                "#text": "A casa é foreira à obra da.\n                    São enfiteutas, os herdeiros de,\n                    que pagam de foro 120 reis.",
+                                "lugar": "Sé",
+                                "entidade": {
+                                    "#text": "Manuel Nogueira, sapateiro",
+                                    "@_tipo": "pessoa"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "número": "20",
+                        "enfiteuta": "Padre Custódio Correira, vigário de Santiago",
+                        "foro": "680 reis e 2 galinhas",
+                        "desc": {
+                            "para": {
+                                "#text": "O enfiteuta herdara este prazo de seu tio,\n                    o, vigário da.",
+                                "entidade": {
+                                    "#text": "Padre João Correia",
+                                    "@_tipo": "pessoa"
+                                },
+                                "lugar": "Igreja de Santiago da Cividade"
+                            }
+                        }
+                    },
+                    {
+                        "número": "21",
+                        "enfiteuta": "Os herdeiros de Francisco de Almeida Cabral,\n                    meirinho do Secular da cidade de Braga",
+                        "foro": "700 reis e 4 galinhas",
+                        "desc": {
+                            "para": {
+                                "#text": "A este prazo pertencem as casas n.ºs 1 e 2 da travessa que vai dapara a.\n                    Confronta, do norte, com a dita travessa. No ano deo n.º 2 da mesma travessa foi unido, num só prazo, ao n.º 21.",
+                                "lugar": [
+                                    "Rua do Poço",
+                                    "de D. Gualdim"
+                                ],
+                                "data": "1609"
+                            }
+                        }
+                    },
+                    {
+                        "número": "22",
+                        "enfiteuta": "Dr. Francisco Gomes do Couto",
+                        "foro": "340 reis e 2 galinhas",
+                        "desc": {
+                            "para": {
+                                "#text": "O n.º 23 foi construído em pertenças do n° 22, no ano de.",
+                                "data": "1543"
+                            }
+                        }
+                    },
+                    {
+                        "número": "23",
+                        "enfiteuta": "Dr. Francisco Gomes do Couto",
+                        "foro": "600 reis e 4 galinhas",
+                        "desc": {
+                            "para": {
+                                "#text": "O n.º 23 foi construído em pertenças do n° 22, no ano de.",
+                                "data": "1543"
+                            }
+                        }
+                    },
+                    {
+                        "número": "24",
+                        "enfiteuta": "Os herdeiros do Cónego Bento da Silva Teles",
+                        "foro": "720 reis e 2 galinhas"
+                    },
+                    {
+                        "número": "25",
+                        "enfiteuta": "Cónego Francisco da Silva Teles",
+                        "foro": "900 reis e 4 galinhas",
+                        "desc": {
+                            "para": {
+                                "#text": "O enfiteuta foi sobrinho e herdeiro do.",
+                                "entidade": {
+                                    "#text": "Cónego Bento da Silva Teles",
+                                    "@_tipo": "pessoa"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "número": "26",
+                        "enfiteuta": "Dr. Francisco Gomes do Couto",
+                        "foro": "90 reis e 1 galinha",
+                        "desc": {
+                            "para": {
+                                "#text": "Estiveram unidas, num só prazo, entre os anos dee.",
+                                "data": [
+                                    "1554",
+                                    "1670"
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "número": "27",
+                        "enfiteuta": "Dr. Francisco Gomes do Couto",
+                        "foro": "140 reis e 1 galinha",
+                        "desc": {
+                            "para": {
+                                "#text": "Estiveram unidas, num só prazo, entre os anos dee.",
+                                "data": [
+                                    "1554",
+                                    "1670"
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "número": "28",
+                        "enfiteuta": "António de Campos Peixoto",
+                        "foro": "290 reis e 2 galinhas"
+                    },
+                    {
+                        "número": "29 e 30",
+                        "enfiteuta": "Tomaz de Araújo e Brito, Abade",
+                        "foro": "600 reis e 6 galinhas",
+                        "desc": {
+                            "para": {
+                                "#text": "Estão unidas, num só prazo, desde o ano de.\n                    Emfoi-lhe incorporada um casa, dízima a Deus, que o\n                    Mestre Escola,, doara ao. A casa n.º 30\n                    confronta, do norte, com casa foreira à, a qual\n                    fica situada debaixo do coro da.",
+                                "data": [
+                                    "1574",
+                                    "1631"
+                                ],
+                                "entidade": [
+                                    {
+                                        "#text": "Cristóvão de Matos",
+                                        "@_tipo": "pessoa"
+                                    },
+                                    {
+                                        "#text": "Cabido",
+                                        "@_tipo": "instituição"
+                                    }
+                                ],
+                                "lugar": [
+                                    "capela de S. Bento",
+                                    "Sé"
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "número": "31",
+                        "desc": {
+                            "para": {
+                                "#text": "Corresponde ao n.º 1 da, para onde tem a frontaria e serventia principais.",
+                                "lugar": "Praça do Pão"
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

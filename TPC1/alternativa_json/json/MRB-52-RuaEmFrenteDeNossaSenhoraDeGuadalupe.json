@@ -1,0 +1,322 @@
+{
+    "rua": {
+        "@_noNamespaceSchemaLocation": "../MRB-rua (3).xsd",
+        "meta": {
+            "número": "52",
+            "nome": "Rua em Frente de Nossa Senhora de Guadalupe"
+        },
+        "corpo": {
+            "para": [
+                {
+                    "#text": "Troço da, situado em frente à capela do mesmo nome.",
+                    "lugar": "Cangosta de Guadalupe"
+                },
+                {
+                    "#text": "Parcialmente construído em, tinha, 25 anos mais tarde, ainda 3 «chãos». \n            Um significativo espaço era ocupado por um grande quintal e pela fachada lateral \n            de uma casa da, o que mostra bem a \n            subalternização total desta rua.",
+                    "data": "1725",
+                    "lugar": {
+                        "#text": "rua de Nossa Senhora de Guadalupe",
+                        "@_norm": "Rua de Nossa Senhora de Guadalupe"
+                    }
+                },
+                {
+                    "#text": "As 5 casas construídas eram extremamente simples e tinham as janelas vazadas. \n            Todos esses prédios estavam emprazados ao.",
+                    "entidade": {
+                        "#text": "Cabido",
+                        "@_tipo": "instituição"
+                    }
+                },
+                {
+                    "#text": "Chama-se actualmente.",
+                    "lugar": {
+                        "#text": "rua de Guadalupe",
+                        "@_norm": "Rua de Guadalupe"
+                    }
+                },
+                {
+                    "#text": "Pequena artéria, mais parecida com uma cangosta, ligava acom a.",
+                    "lugar": [
+                        {
+                            "#text": "igreja de S. Vicente",
+                            "@_norm": "Igreja de S. Vicente"
+                        },
+                        {
+                            "#text": "capela de Guadalupe",
+                            "@_norm": "Capela de Guadalupe"
+                        }
+                    ]
+                },
+                {
+                    "#text": ", na vertente Noroeste do então chamado, \n            tinha do lado Norte — o único representado no Mappa, onze habitações \n            de um piso e duas de dois. Essas casas eram muito simples, do tipo com porta \n            ladeada de janela. No extremo Este está uma casa de pedra, de dois pisos, bem \n            definida por fortes pilastras, que tem a ladeá-la um bonito, mas singelo, portão \n            de pedra.",
+                    "lugar": [
+                        "Rua de arrabalde",
+                        {
+                            "#text": "monte de Santa Margarida",
+                            "@_norm": "Monte de Santa Margarida"
+                        }
+                    ]
+                },
+                {
+                    "#text": ", a rua sofreu uma alteração de traçado - \n            que é o que actualmente se vê - devido à construção, neste local, do, \n            facto que motivou a amortização dos prazos 1 a 8.",
+                    "data": "Na década de 60 do séc. XVIII",
+                    "lugar": {
+                        "#text": "convento e capela das Teresinhas",
+                        "@_norm": "Convento e Capela das Teresinhas"
+                    }
+                },
+                {
+                    "#text": "Das 13 casas representadas no Mappa, 9 eram foreiras do.",
+                    "entidade": {
+                        "#text": "cabido",
+                        "@_tipo": "instituição"
+                    }
+                },
+                {
+                    "#text": "Desdepassou, oficialmente, a chamar-se.",
+                    "data": "5 de Junho de 1880",
+                    "lugar": {
+                        "#text": "rua de Camões",
+                        "@_norm": "Rua de Camões"
+                    }
+                }
+            ],
+            "nome": "Rua da Guerreira Margarida",
+            "figura": [
+                {
+                    "@_id": "MRB-52-a",
+                    "imagem": {
+                        "@_path": "../imagem/MRB-52-RuaEmFrenteDeNossaSDeGuadalupe-a.jpg"
+                    },
+                    "legenda": "Rua em frente da N. Sra. de Guadalupe - Vista poente."
+                },
+                {
+                    "@_id": "MRB-52-b",
+                    "imagem": {
+                        "@_path": "../imagem/MRB-52-RuaEmFrenteDeNossaSDeGuadalupe-b.jpg"
+                    },
+                    "legenda": "Rua da Regueira Margarida - Vista norte."
+                }
+            ],
+            "lista-casas": [
+                {
+                    "casa": [
+                        {
+                            "número": "1",
+                            "enfiteuta": "Vid. casa n.º9 da rua de N. Sr.ª de Guadalupe.",
+                            "desc": {
+                                "para": {
+                                    "#text": "Pertence à casa n.° 17 da, \n                        para onde tem frontaria e serventia principais.",
+                                    "lugar": {
+                                        "#text": "Rua de N. Sra. de Guadalupe",
+                                        "@_norm": "Rua de Nossa Senhora de Guadalupe"
+                                    }
+                                }
+                            },
+                            "vista": "Poente"
+                        },
+                        {
+                            "número": "2",
+                            "desc": {
+                                "para": "Quintal da casa n.° 1."
+                            },
+                            "vista": "Poente"
+                        },
+                        {
+                            "número": "3, 4 e 5",
+                            "enfiteuta": "Vid. casa n.º9 da rua de N. Sr.ª de Guadalupe.",
+                            "desc": {
+                                "para": {
+                                    "#text": ", jornaleiro, casado com, paga 2000 reis, pelo chão n.° 3 e \n                        pelos n.º 4 e 5, ao subenfiteuta da casa n.° 9 \n                        da.",
+                                    "entidade": [
+                                        {
+                                            "#text": "Silvestre de Oliveira",
+                                            "@_tipo": "pessoa"
+                                        },
+                                        {
+                                            "#text": "Inês Dantas",
+                                            "@_tipo": "pessoa"
+                                        }
+                                    ],
+                                    "lugar": {
+                                        "#text": "Rua de N. Sra. de Guadalupe",
+                                        "@_norm": "Rua de Nossa Senhora de Guadalupe"
+                                    }
+                                }
+                            },
+                            "vista": "Poente"
+                        },
+                        {
+                            "número": "6",
+                            "desc": {
+                                "para": {
+                                    "#text": "Portal de serventia do quintal que anda \n                        subemprazado juntamente com a casa n.° 9 da.",
+                                    "lugar": {
+                                        "#text": "Rua N. Sra. de Guadalupe",
+                                        "@_norm": "Rua de Nossa Senhora de Guadalupe"
+                                    }
+                                }
+                            },
+                            "vista": "Poente"
+                        },
+                        {
+                            "número": "7 a 9",
+                            "enfiteuta": "D. Agostinha Maria de Barros Gavião, enfiteuta principal do prazo do casal dos Chãos ou Quinteiro.",
+                            "desc": {
+                                "para": {
+                                    "#text": "Pertencem ao, a \n                        cujo enfiteuta se paga foro. Nos livros dos \n                        prazos donão se encontram escrituras se \n                        subemprazamento",
+                                    "entidade": [
+                                        {
+                                            "#text": "casal dos Chãos ou Quinteiro",
+                                            "@_tipo": "família"
+                                        },
+                                        {
+                                            "#text": "cabido",
+                                            "@_tipo": "instituição"
+                                        }
+                                    ]
+                                }
+                            },
+                            "vista": "Poente"
+                        },
+                        {
+                            "número": "10 e 11",
+                            "enfiteuta": "D. Agostinha Maria de Barros Gavião, enfiteuta principal do prazo do casal dos Chãos ou Quinteiro.",
+                            "desc": {
+                                "para": {
+                                    "#text": "Chãos de casa do prazo do.",
+                                    "entidade": {
+                                        "#text": "casal dos Chãos ou Quinteiro",
+                                        "@_tipo": "família"
+                                    }
+                                }
+                            },
+                            "vista": "Poente"
+                        }
+                    ]
+                },
+                {
+                    "casa": [
+                        {
+                            "número": "1, 2, 3 e 4",
+                            "enfiteuta": "Jácome Borges Pereira Pacheco, enfiteuta principal do prazo do casal de Infias ou Flores.",
+                            "desc": {
+                                "para": [
+                                    {
+                                        "#text": ", ferreiro, casado com, \n                        paga 400 reis ao enfiteuta do prazo do.",
+                                        "entidade": [
+                                            {
+                                                "#text": "Paulo Francisco",
+                                                "@_tipo": "pessoa"
+                                            },
+                                            {
+                                                "#text": "Jerónima da Silva",
+                                                "@_tipo": "pessoa"
+                                            },
+                                            {
+                                                "#text": "casal de Infias ou Flores",
+                                                "@_tipo": "família"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "#text": "Só parte do n.° 1 é foreiro ao.",
+                                        "entidade": {
+                                            "#text": "cabido",
+                                            "@_tipo": "instituição"
+                                        }
+                                    }
+                                ]
+                            },
+                            "vista": "Norte"
+                        },
+                        {
+                            "número": "5, 6 e 7",
+                            "enfiteuta": "Jácome Borges Pereira Pacheco, enfiteuta principal do prazo do casal de Infias ou Flores.",
+                            "desc": {
+                                "para": [
+                                    {
+                                        "#text": ", cutileiro, casado com, \n                        paga 400 reis ao enfiteuta do prazo do, conforme o \n                        subemprazamento de.",
+                                        "entidade": [
+                                            {
+                                                "#text": "João da Costa",
+                                                "@_tipo": "pessoa"
+                                            },
+                                            {
+                                                "#text": "Maria Ferreira",
+                                                "@_tipo": "pessoa"
+                                            },
+                                            {
+                                                "#text": "casal de Infias e Flores",
+                                                "@_tipo": "família"
+                                            }
+                                        ],
+                                        "data": "1720"
+                                    },
+                                    {
+                                        "#text": "No ano deforam feitas escrituras \n                        subalternas dos n.° 6 e 7. Só parte do n.° 7 é \n                        deste subenfiteuta.",
+                                        "data": "1729"
+                                    }
+                                ]
+                            },
+                            "vista": "Norte"
+                        },
+                        {
+                            "número": "7 e 8",
+                            "enfiteuta": "Vid. casa n.º 5.",
+                            "desc": {
+                                "para": {
+                                    "#text": ", casado com, \n                        paga 600 reis ao subenfiteuta da casa \n                        n.° 5. Só parte do n.° 7 é deste subenfiteuta.",
+                                    "entidade": [
+                                        {
+                                            "#text": "Garcia Fernandes",
+                                            "@_tipo": "pessoa"
+                                        },
+                                        {
+                                            "#text": "Narcisa Francisca",
+                                            "@_tipo": "pessoa"
+                                        }
+                                    ]
+                                }
+                            },
+                            "vista": "Norte"
+                        },
+                        {
+                            "número": "9",
+                            "enfiteuta": "Jácome Borges Pereira Pacheco, enfiteuta principal do prazo do casal de Infias ou Flores.",
+                            "desc": {
+                                "para": {
+                                    "#text": "Paga foro ao enfiteura do prazo do.",
+                                    "entidade": {
+                                        "#text": "casal de Infias ou Flores",
+                                        "@_tipo": "família"
+                                    }
+                                }
+                            },
+                            "vista": "Norte"
+                        },
+                        {
+                            "número": "10",
+                            "enfiteuta": "Jácome Borges Pereira Pacheco, enfiteuta principal do prazo do casal de Infias ou Flores.",
+                            "desc": {
+                                "para": {
+                                    "#text": "Paga foro ao enfiteuta do prazo do. \n                        Confronta, do nascente, com \n                        casa foreira à.",
+                                    "entidade": [
+                                        {
+                                            "#text": "casal de Infias ou Flores",
+                                            "@_tipo": "família"
+                                        },
+                                        {
+                                            "#text": "confraria de S. João do Souto",
+                                            "@_tipo": "instituição"
+                                        }
+                                    ]
+                                }
+                            },
+                            "vista": "Norte"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

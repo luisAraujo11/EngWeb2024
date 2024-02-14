@@ -1,0 +1,293 @@
+{
+    "rua": {
+        "@_noNamespaceSchemaLocation": "file:/C:/Users/In%C3%AAs/Desktop/4%C2%BA%20Ano%20(2018-2019)/1%C2%BA%20Semestre/Publica%C3%A7%C3%A3o%20Eletr%C3%B3nica/MRB-rua.xsd",
+        "meta": {
+            "número": "5",
+            "nome": "Rua das Oucias"
+        },
+        "corpo": {
+            "figura": {
+                "@_id": "MRB-05",
+                "imagem": {
+                    "@_path": "../imagem/MRB-05-RuaDasOucias.png"
+                },
+                "legenda": "Rua das Oucias."
+            },
+            "para": [
+                {
+                    "#text": "Tortuosa rua que contornava as traseiras e fachada lateral Sul da.",
+                    "lugar": "Sé"
+                },
+                "Longa e atribulada história tem esta via, que, no espaço curto, quase de notícia, como convém a esta edição, não pode ser aqui contada.",
+                "Formada, naturalmente, pelo isolamento que os monumentos religiosos sempre têm, as suas casas foram lentamente surgindo.",
+                {
+                    "#text": "No ponto de encontro desta rua com adesembocava o «cano» que, vindo de lugar desconhecido, abastecia a principal fonte da cidade medieval,\n            a, que por aqui se deveria localizar. Junto, no local onde está a, existiu ademolida para \n            dar lugar àquela capela.",
+                    "lugar": [
+                        "rua do Souto",
+                        "fonte de S. Geraldo",
+                        "Capela da Glória",
+                        "casa do Conselho Municipal"
+                    ]
+                },
+                {
+                    "#text": "Com, em 1509, afoi profundamente alterada, e, embora não tenha avançado sobre os alicerces da velha \n            construção medieval, deu-lhe outra leveza, que o manuelino, nos seus rendilhados, sempre tem. Poucos anos após o mesmo arcebispo mandou abrir a,\n            permitindo uma ligação directa com a.",
+                    "entidade": {
+                        "#text": "D. Diogo de Sousa",
+                        "@_tipo": "pessoa"
+                    },
+                    "lugar": [
+                        "capela mor da Sé",
+                        "rua de S. João",
+                        "Porta de S. João"
+                    ]
+                },
+                {
+                    "#text": "No pequeno «rexio» existente do, existiu, na Idade Média,\n            uma feira de olarias.",
+                    "lugar": "lado Sul da Sé, entre o braço do transepto e a fachada"
+                },
+                {
+                    "#text": "Toda esta parte foi violentamente destruída nos anos quarenta do nosso século, para «limpar esta zona socialmente tão degradada» criando-se o. E na sequência dessa obra de «limpeza» constroem-se, em «estilo Português Suave», oe um outro, particular; e, \n            passados vinte anos, foi destruído um grande e nobre edifício setecentista, para se construir a.",
+                    "lugar": [
+                        "Rocio \n            da Sé",
+                        "edifício do Tribunal do Trabalho/Delegação Escolar",
+                        "Residência Académica"
+                    ]
+                },
+                {
+                    "#text": "Hoje a rua conserva todos os seus belíssimos edifícios na zona \n            correspondente à. Na parte Sul toda a malha urbanística e escala arquitectónica desapareceu com a introdução do novo e amplo, que, no Mappa\n            apenas conserva uma casa.",
+                    "lugar": [
+                        "rua de Nossa Senhora do Leite",
+                        "Rocio da Sé"
+                    ]
+                },
+                "Das 15 casas existentes, 12 eram prazos do Cabido.",
+                {
+                    "#text": "A designação de Oucias (e aparecem também as designações de Ussias e Adussias), \n            será talvez uma corrupção de ousia, isto é capela-mor. E a deé devida à belíssima imagem, dado séc. XVI, que foi oferecida por.",
+                    "entidade": [
+                        {
+                            "#text": "Nossa Senhora do Leite",
+                            "@_tipo": "pessoa"
+                        },
+                        {
+                            "#text": "D. Diogo de Sousa",
+                            "@_tipo": "pessoa"
+                        }
+                    ],
+                    "lugar": "escola coimbrã"
+                }
+            ],
+            "lista-casas": {
+                "casa": [
+                    {
+                        "número": "1",
+                        "enfiteuta": "",
+                        "foro": "38 reis e 6 pretos (de censo)",
+                        "desc": {
+                            "para": {
+                                "#text": "A casa é foreira aos Padres coreiros. O censo é pago por",
+                                "entidade": {
+                                    "#text": "Domingos José de Melo.",
+                                    "@_tipo": "pessoa"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "número": "2",
+                        "enfiteuta": "",
+                        "foro": "",
+                        "desc": {
+                            "para": {
+                                "#text": "Corresponde ao nº1 da, para onde tem a frontaria e serventia principais.",
+                                "lugar": "Rua de S.João"
+                            }
+                        }
+                    },
+                    {
+                        "número": "3 e 4",
+                        "enfiteuta": "",
+                        "foro": "",
+                        "desc": {
+                            "para": {
+                                "#text": "Corresponde ao nº 11 da, para onde tem a frontaria e serventia principais.",
+                                "lugar": "Rua de S. João"
+                            }
+                        }
+                    },
+                    {
+                        "número": "5",
+                        "enfiteuta": "Custódio Rodrigues, boticário",
+                        "foro": "440 reis e 2 galinhas",
+                        "desc": {
+                            "para": {
+                                "#text": "Confronta, do nascente, com. Foi unida, em, à casa nº 6.",
+                                "lugar": "casa de herdade dízima a Deus",
+                                "data": "1621"
+                            }
+                        }
+                    },
+                    {
+                        "número": "6",
+                        "enfiteuta": "Custódio Rodrigues, boticário",
+                        "foro": "345 reis e 2 galinhas",
+                        "desc": {
+                            "para": {
+                                "#text": "Confronta, do nascente, com casa de herdade dízima a Deus. Foi unida, em, à casa nº 6.",
+                                "data": "1621"
+                            }
+                        }
+                    },
+                    {
+                        "número": "7",
+                        "enfiteuta": "",
+                        "foro": "160 reis (de censo)",
+                        "desc": {
+                            "para": {
+                                "#text": "Confronta, do poente, com o., tercenário, paga de censo 160 reis.",
+                                "lugar": "Terreiro das Oussias",
+                                "entidade": {
+                                    "#text": "António Xavier Rebelo",
+                                    "@_tipo": "pessoa"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "número": "8",
+                        "enfiteuta": "Dr. Manuel José Brandão",
+                        "foro": "700 reis e 2 galinhas",
+                        "desc": {
+                            "para": {
+                                "#text": "O enfiteuta possuia esta casa por sucessão dee desua mulher. Confronta, do sul, com o nº 2 da",
+                                "entidade": [
+                                    {
+                                        "#text": "Frutuoso Brandão Pereira",
+                                        "@_tipo": "pessoa"
+                                    },
+                                    {
+                                        "#text": "Maria Josefa da Costa,",
+                                        "@_tipo": "pessoa"
+                                    }
+                                ],
+                                "lugar": "Rua Pequena."
+                            }
+                        }
+                    },
+                    {
+                        "número": "9",
+                        "enfiteuta": "",
+                        "foro": "",
+                        "desc": {
+                            "para": [
+                                {
+                                    "#text": "Confronta, do norte, com o; do sul, com o nº 8, da; do nascente, com a mesmae, \n                    do poente, com quintal de uma casa da.",
+                                    "lugar": [
+                                        "Terreiro das Oussias",
+                                        "Rua Pequena",
+                                        "Rua Pequena",
+                                        "Rua de Sta. Maria ou do Poço"
+                                    ]
+                                },
+                                {
+                                    "#text": "Foi demolida, depois do ano de, \"para a obra da,\n                    por conta da fábrica da mesma Sé\".",
+                                    "data": "1750",
+                                    "lugar": "sacristia da Sé"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "número": "10 e 11",
+                        "enfiteuta": "",
+                        "foro": "",
+                        "desc": {
+                            "para": {
+                                "#text": "Não aparecem desenhadas no Mapa por terem sido demolidas \"para a obra da. A casa nº 10 situava-se no canto desta rua (parte nascente) e confrontava do norte, defronte da Sé, com ae, do nascente com o caminho que se dirigia das Oussias para a. A casa nº 11 confronta, do nascente, com a nº 10.",
+                                "lugar": [
+                                    "sacristia da Sé\"",
+                                    "Rua das Oussias",
+                                    "Rua Pequena"
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "número": "12",
+                        "enfiteuta": "Custódia Pereira, mulher de João Fernandes Gentil",
+                        "foro": "550 reis, 2 galinhas e 2 capões",
+                        "desc": {
+                            "para": [
+                                {
+                                    "#text": "Foi comprada pelaque a mandou demolir depois de, para a \"obra da sacristia\".",
+                                    "entidade": {
+                                        "#text": "Fábrica da Sé",
+                                        "@_tipo": "empresa"
+                                    },
+                                    "data": "1750"
+                                },
+                                {
+                                    "#text": "Confronta, do nascente, com oe, do norte com o mesmo Terreiro e com o nº 13.",
+                                    "lugar": "Terreiro das Oussias"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "número": "13",
+                        "enfiteuta": "Francisca Teresa",
+                        "foro": "400 reis e 2 galinhas",
+                        "desc": {
+                            "para": [
+                                {
+                                    "#text": "A enfiteuta sucedeu a seu irmão, o Reitor de Freitas,,  sendo ambos filhos de, pasteleiro.",
+                                    "entidade": [
+                                        {
+                                            "#text": "José Ferreira Petiz",
+                                            "@_tipo": "pessoa"
+                                        },
+                                        {
+                                            "#text": "Francisco Gonçalves Petiz",
+                                            "@_tipo": "pessoa"
+                                        }
+                                    ]
+                                },
+                                "Confronta, do nascente, com o nº 14; do norte e poente com a rua e, do sul com a nº 12."
+                            ]
+                        }
+                    },
+                    {
+                        "número": "14",
+                        "enfiteuta": "Francisca Teresa",
+                        "foro": "400 reis e 2 galinhas",
+                        "desc": {
+                            "para": [
+                                "Confronta, do nascente, com o nº 13 e, do poente com o nº 15.",
+                                {
+                                    "#text": "Foi construída em, em pertenças da casa nº 13.",
+                                    "data": "1547"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "número": "15",
+                        "enfiteuta": "António Antunes, pasteleiro, e sua mulher, Joana Francisca",
+                        "foro": "330 reis e 2 galinhas"
+                    },
+                    {
+                        "número": "16 e 17",
+                        "enfiteuta": "David Lopes",
+                        "foro": "820 reis e 2 galinhas",
+                        "desc": {
+                            "para": {
+                                "#text": "A casa nº16 foi unida ao nº17, no ano de. O nº17 confronta com a.",
+                                "data": "1667",
+                                "lugar": "Rua do Poço"
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

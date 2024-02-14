@@ -1,0 +1,136 @@
+{
+    "rua": {
+        "@_noNamespaceSchemaLocation": "file:/C:/Users/In%C3%AAs/Desktop/4%C2%BA%20Ano%20(2018-2019)/1%C2%BA%20Semestre/Publica%C3%A7%C3%A3o%20Eletr%C3%B3nica/MRB-rua.xsd",
+        "meta": {
+            "número": "1",
+            "nome": "Rua do Campo"
+        },
+        "corpo": {
+            "figura": [
+                {
+                    "@_id": "MRB-01-nascente",
+                    "imagem": {
+                        "@_path": "../imagem/MRB-01-RuaDoCampo-nascente.PNG"
+                    },
+                    "legenda": "Rua do Campo - vista nascente."
+                },
+                {
+                    "@_id": "MRB-01-poente",
+                    "imagem": {
+                        "@_path": "../imagem/MRB-01-RuaDoCampo-poente.PNG"
+                    },
+                    "legenda": "Rua do Campo - vista poente."
+                }
+            ],
+            "para": [
+                {
+                    "#text": "Pequena rua, entre ae a, existente ja na Idade Media, entao com o nome de.",
+                    "lugar": [
+                        "rua Nova",
+                        "Porta de S. Francisco",
+                        "rua Nova"
+                    ]
+                },
+                {
+                    "#text": "Actualmente toda esta rua tem feição diferente: afoi demolida em data que desconhecemos e a parte central do lado Nascente \n            foi destruida em 1754 para aí se construir o novo(so concluido em) que ficou com a fachada traseira para esta rua. \n            O lado Sul foi integralmente perdido no final da decada de oitenta do seculo passado, quando se fez o alargamento e rectificação do traçado desta artéria.",
+                    "lugar": [
+                        "porta de S. Francisco",
+                        "edificio da Camara Municipal"
+                    ],
+                    "data": "1865"
+                },
+                {
+                    "#text": "Se, na Idade Media, esta rua teve, possivelmente, grande importância (tinha uma porta num dos seus extremos, dava imediato acesso a saída depara,e, atraves da), no, o seu peso deve ter decaído bastante.",
+                    "lugar": [
+                        "Braga",
+                        "Prado",
+                        "Ponte de Lima",
+                        "Valença",
+                        "rua da Conega"
+                    ],
+                    "data": "sec. XVIII"
+                },
+                {
+                    "#text": "A designagao depodera datar talvez dodo, quando passou a estar em ligação com o, então aberto.",
+                    "lugar": [
+                        "Campo",
+                        "primeiro \n            quartel",
+                        "campo da Vinha"
+                    ],
+                    "data": "sec. XVI"
+                },
+                {
+                    "#text": "Das 10 casas do lado Nascente e 14 do Poente, apenas três deste lado \n            pertenciam ao.",
+                    "entidade": {
+                        "#text": "Cabido",
+                        "@_tipo": "instituição"
+                    }
+                },
+                {
+                    "#text": "Aé um troço da actual, entre ae o, \n            tendo recebido esta designação na sessão da Câmara de.",
+                    "lugar": [
+                        "rua do Campo",
+                        "rua D. Frei Caetano Brandao",
+                        "rua D. Diogo de Sousa",
+                        "largo Conselheiro Torres e Almeida"
+                    ],
+                    "data": "28.07.1890"
+                }
+            ],
+            "lista-casas": {
+                "casa": [
+                    {
+                        "número": "1",
+                        "enfiteuta": "Domingos Dias",
+                        "foro": "620 reis e galinhas",
+                        "desc": {
+                            "para": {
+                                "#text": "Desde o ano deque os nº 1 e 2 se encontravam unidos. A frontaria que dá para acorresponde ao nº15 da dita rua e é foreira à comenda de",
+                                "data": "1719",
+                                "lugar": [
+                                    "Rua Nova de Sousa",
+                                    "São Pedro de Merelim."
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "número": "2",
+                        "enfiteuta": "Domingos Dias",
+                        "foro": "270 reis e 2 galinhas",
+                        "desc": {
+                            "para": {
+                                "#text": "Desde o ano deque os nº 1 e 2 se encontravam unidos. A frontaria que dá para acorresponde ao nº15 da dita rua e é foreira à comenda de",
+                                "data": "1719",
+                                "lugar": [
+                                    "Rua Nova de Sousa",
+                                    "São Pedro de Merelim."
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "número": "3",
+                        "enfiteuta": "Os herdeiros do Padre Domingos Tinoco",
+                        "foro": "150 reis e 2 galinhas",
+                        "desc": {
+                            "para": {
+                                "#text": "Confronta, de Sul, com parte da mesma casa foreira à, antigae, de Norte, com casa dízima a Deus",
+                                "entidade": [
+                                    {
+                                        "#text": "Confraria da Trindade",
+                                        "@_tipo": "instituição"
+                                    },
+                                    {
+                                        "#text": "Confraria da Companhia de Jesus",
+                                        "@_tipo": "instituição"
+                                    }
+                                ]
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

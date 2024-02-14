@@ -1,0 +1,87 @@
+{
+    "rua": {
+        "@_noNamespaceSchemaLocation": "file:/C:/Users/Cristiana%20Carvalho/Desktop/Publica%C3%A7%C3%A3o%20eletr%C3%B3nica/PROJETO%20FINAL/MRM-rua.xsd",
+        "meta": {
+            "número": "9",
+            "nome": "Rua de S.João"
+        },
+        "corpo": {
+            "para": [
+                {
+                    "#text": ", de boas e grandes casas de pedra, aberta por: «Fez a, \n            a qual é daaté a porta do dito; comprou muitas casas acerca da Sé para fazer \n            a dita rua e quintaes atraz d'ellas porque tudo era cerrado de casas e de quintaes e não havia ahi rua nenhuma...»",
+                    "lugar": [
+                        "Rua ampla",
+                        "rua de S. Marcos",
+                        "Cappella maior da Sé"
+                    ],
+                    "entidade": [
+                        {
+                            "#text": "D. Diogo de Sousa",
+                            "@_tipo": "pessoa"
+                        },
+                        {
+                            "#text": "S. Marcos",
+                            "@_tipo": "pessoa"
+                        }
+                    ]
+                },
+                {
+                    "#text": "Esta rua é uma das mais importantes obras urbanísticas de. Ao ligar as traseiras da Sé com a, este arcebispo não se limitou a permitir um maior ângulo de visão para a belíssima, \n            também obra sua; acima de tudo o que esta artéria representa é um violento abanão na estrutura urbana, pois que será ampla e de bons prédios, grandes \n            e de pedra; e, principalmente, permitirá o abrir a cidade ao exterior, porque continuava peloem direcção\n            à.",
+                    "entidade": {
+                        "#text": "D. Diogo de Sousa",
+                        "@_tipo": "pessoa"
+                    },
+                    "lugar": [
+                        "porta de \n            S. João",
+                        "capela mor da Sé",
+                        "Campo dos Remédios e Granginhos",
+                        "rua da Ponte de Guimarães"
+                    ]
+                },
+                {
+                    "#text": "Nela se fixaria a— família que acompanhouna sua vinda para— em casa hoje reconstruída noutro local e desenhada por; os, na notável, riscada empor alguém que passou\n            pore procurou transplantar um pouco da arquitectura do Palácio Pitti; a irmã do Cónego Francisco Pacheco Pereira na grande casa do Passadiço; e os Lagos e os Antões Pereira em casas mais simples, mas não menos belas, que no Mappa se vêem com os nºs 9 e 10.",
+                    "entidade": [
+                        {
+                            "#text": "família dos Coimbras",
+                            "@_tipo": "pessoa"
+                        },
+                        {
+                            "#text": "D. Diogo",
+                            "@_tipo": "pessoa"
+                        },
+                        {
+                            "#text": "João de Castilho",
+                            "@_tipo": "pessoa"
+                        },
+                        {
+                            "#text": "Paiva Marinho",
+                            "@_tipo": "pessoa"
+                        }
+                    ],
+                    "lugar": [
+                        "Braga",
+                        "casa dos Paivas",
+                        "Florença"
+                    ],
+                    "data": "finais do séc. XVI"
+                }
+            ],
+            "figura": [
+                {
+                    "@_id": "MRB-09-norte",
+                    "imagem": {
+                        "@_path": "../imagem/MRB-9-RuaDeSJoao-Norte.jpg"
+                    },
+                    "legenda": "Rua de S.João - vista norte."
+                },
+                {
+                    "@_id": "MRB-09-sul",
+                    "imagem": {
+                        "@_path": "../imagem/MRB-9-RuaDeSJoao-Sul.jpg"
+                    },
+                    "legenda": "Rua de S.João - vista sul."
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,278 @@
+{
+    "rua": {
+        "@_noNamespaceSchemaLocation": "../MRB-rua.xsd",
+        "meta": {
+            "número": "21",
+            "nome": "Rua Verde"
+        },
+        "corpo": {
+            "para": [
+                {
+                    "#text": "Longa rua, com início noe fim na. O seu traçado prolongava-se, porém, até à, através das.",
+                    "lugar": [
+                        "postigo de S. Sebastião",
+                        "rua de Maximinos",
+                        "Porta de S. Francisco",
+                        "ruas dos Sapateiros e do Campo"
+                    ]
+                },
+                "Decalcando, uma rua da cidade romana, era esta a mais ocidental das artérias\n            intra-muros da velha urbe medieval.",
+                {
+                    "#text": "Ponto privilegiado nas ligações come a, o seu traçado foi no séc. XIX (inícios?)\n            violentamente rompido com a continuação da rua das travessas, que, abrindo uma brecha\n            nas muralhas, a ligou com o; no fim do mesmo\n            século, por volta de, foi alargada, sendo destruídas todas as casas,\n            excepto uma, de dois pisos, no seu extremo Norte, recebendo então o nome de D. Frei\n            Caetano Brandão.",
+                    "lugar": [
+                        {
+                            "#text": "Maximinos",
+                            "@_norm": "rua de Maximinos"
+                        },
+                        "capela de S. Sebastião",
+                        "campo de S. Miguel o Anjo"
+                    ],
+                    "data": "1880"
+                },
+                {
+                    "#text": "Emapresentava-se dividida em duas: uma, a Norte dacom o nome de rua Verde; outra, a Sul, chamada somente.",
+                    "data": "1750",
+                    "lugar": [
+                        "rua das Travessas",
+                        "Couto do Arvoredo"
+                    ]
+                },
+                {
+                    "#text": "Oestava parcialmente construído (ainda hoje, aliás,\n            do lado Este conserva os quintais; e os do Oeste só nos anos 60 e 70 do nosso séc. foram\n            ocupados com habitações), com casas simples, de 2 pisos, de um tipo mais frequente fora\n            de muralhas, nos arrabaldes, sem varandas e com as janelas apenas tapadas por portas de\n            madeira.",
+                    "lugar": "Couto do Arvoredo"
+                },
+                {
+                    "#text": "A, embora apresente um tipo de casa também muito simples, e\n            de contrução sem dúvida arcaica, estava já emtoda construída. Mantém,\n            todas as casas apenas com dois pisos (excepto duas), com aberturas predominantemente\n            tapadas por portadas de madeira, raríssimas gelosias e varandas e algumas casas com\n            janela do tipo bracarense. Muito curiosos são os primeiros cinco edifícios do lado\n            Nascente e uma boa parte dos do Poente: são geralmente de dois vãos, 2 pisos, porta no\n            rés do chão e 2 janelas no andar, com um ritmo bem marcado e, sobretudo, com o sobrado\n            muito pronunciado, mostrando bem a fragilidade dos seus materiais construtivos.",
+                    "lugar": "rua Verde",
+                    "data": "1750"
+                },
+                "Das 24 casas do lado Nascente e 33 do Poente, 3 e 13 são, respectivamente, prazos do\n            Cabido."
+            ],
+            "figura": [
+                {
+                    "@_id": "MRB-21-nascente",
+                    "imagem": {
+                        "@_path": "../imagem/MRB-21-RuaVerde-nascente.jpg"
+                    },
+                    "legenda": "Rua Verde - nascente."
+                },
+                {
+                    "@_id": "MRB-21-poente",
+                    "imagem": {
+                        "@_path": "../imagem/MRB-21-RuaVerde-poente.jpg"
+                    },
+                    "legenda": "Rua Verde - poente."
+                }
+            ],
+            "lista-casas": {
+                "casa": [
+                    {
+                        "número": "1",
+                        "enfiteuta": "Maria Catarina do Céu, religiosa do Salvador",
+                        "foro": "170 reis e 2 galinhas",
+                        "desc": {
+                            "para": "Confronta, do sul, com casa foreira à cororaria."
+                        }
+                    },
+                    {
+                        "número": "2",
+                        "enfiteuta": "Faustina Pereira",
+                        "foro": "180 reis e 1 galinha",
+                        "desc": {
+                            "para": [
+                                {
+                                    "#text": "A enfiteuta é filha de, torneiro.",
+                                    "entidade": {
+                                        "#text": "Francisco\n                            Rodrigues",
+                                        "@_tipo": "pessoa"
+                                    }
+                                },
+                                {
+                                    "#text": "Confronta, do norte, com casa foreira à cororaria. Entre os anos deeesteve unida ao n.º 3.",
+                                    "data": [
+                                        "1670",
+                                        "1724"
+                                    ]
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "número": "3",
+                        "enfiteuta": "Constantino Teixeira",
+                        "foro": "175 reis e 1 galinha"
+                    },
+                    {
+                        "número": "4",
+                        "desc": {
+                            "para": {
+                                "#text": "Corresponde, desde o ano, à casa n.º 12 da. Encontra-se situada defronte do.",
+                                "data": "1627",
+                                "lugar": [
+                                    "Rua de St.º António",
+                                    "postigo de S. Sebastião"
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "número": "5, 6 e 7",
+                        "enfiteuta": "António Pereira, sapateiro",
+                        "foro": "100 reis e 1 galinha",
+                        "desc": {
+                            "para": [
+                                {
+                                    "#text": "O enfiteuta é filho dee de seu marido.",
+                                    "entidade": [
+                                        {
+                                            "#text": "Teresa da Costa",
+                                            "@_tipo": "pessoa"
+                                        },
+                                        {
+                                            "#text": "António Pereira",
+                                            "@_tipo": "pessoa"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "#text": "Encontram-se situadas junto aoe\n                        foram construídas, antes de, no, pertencente ao n.º 12 da",
+                                    "lugar": [
+                                        "postigo de S. Sebastião",
+                                        "«lugar do Sabugal»",
+                                        "Rua de Sto. António."
+                                    ],
+                                    "data": "1563"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "número": "8",
+                        "enfiteuta": "Teresa da Costa, viúva de António Pereira",
+                        "foro": "2 galinhas",
+                        "desc": {
+                            "para": {
+                                "#text": "Quintal denominado do Sabugal, que foi de.",
+                                "entidade": {
+                                    "#text": "José de\n                            Araújo Teixeira",
+                                    "@_tipo": "pessoa"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "número": "9 e 10",
+                        "enfiteuta": "Salvador Pinto, guarda da Sé",
+                        "foro": "220 reis e 2 galinhas",
+                        "desc": {
+                            "para": {
+                                "#text": "Estão unidas, num só prazo, desde o ano de. A casa n.º\n                        9, confronta, do sul com casa foreira ao.",
+                                "data": "1549",
+                                "entidade": {
+                                    "#text": "Hospital de S. Marcos",
+                                    "@_tipo": "instituição"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "número": "11",
+                        "desc": {
+                            "para": {
+                                "#text": "Paga pensão à obra da Sé. São enfiteutas os herdeiros de, que pagam 80 reis de\n                        foro.",
+                                "entidade": {
+                                    "#text": "Maria Ribeiro",
+                                    "@_tipo": "pessoa"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "número": "12",
+                        "enfiteuta": "José Pereira, sapateiro",
+                        "foro": "95 reis e 1 galinha",
+                        "desc": {
+                            "para": "O enfiteuta foi dotado com esta casa."
+                        }
+                    },
+                    {
+                        "número": "13",
+                        "enfiteuta": "Manuel da Costa Vasconcelos",
+                        "foro": "320 reis e 7 galinhas"
+                    },
+                    {
+                        "número": "14",
+                        "enfiteuta": "Padre Matias de Lemos",
+                        "foro": "30 reis e 2 galinhas",
+                        "desc": {
+                            "para": {
+                                "#text": "Entre os anos deepertenceu ao n.º\n                        13.",
+                                "data": [
+                                    "1609",
+                                    "1640"
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "número": "15 e 16",
+                        "enfiteuta": "Manuel da Costa Vasconcelos",
+                        "foro": "265 reis e 2 galinhas"
+                    },
+                    {
+                        "número": "17 e 18",
+                        "enfiteuta": "Os herdeiros de Duarte Mendes de Oliveira",
+                        "foro": "1 galinha",
+                        "desc": {
+                            "para": [
+                                {
+                                    "#text": "Os enfiteuras pagavam um foro muito pequeno, dado que as casas tinham sido\n                        consideradas arruinadas no último emprazamento, etectuado no ano de.",
+                                    "data": "1673"
+                                },
+                                {
+                                    "#text": "Confrontam, do Sul, com casas foreiras ao.",
+                                    "entidade": {
+                                        "#text": "Hospital de S. Marcos",
+                                        "@_tipo": "instituição"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "número": "19",
+                        "enfiteuta": "Manuel Vieira",
+                        "foro": "225 reis e 2 galinhas",
+                        "desc": {
+                            "para": {
+                                "#text": "Estas casas tinham pertencido ae, anteriormente, a.",
+                                "entidade": [
+                                    {
+                                        "#text": "Isabel da\n                            Silva",
+                                        "@_tipo": "pessoa"
+                                    },
+                                    {
+                                        "#text": "Julião\n                            Lopes",
+                                        "@_tipo": "pessoa"
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "número": "20",
+                        "desc": {
+                            "para": {
+                                "#text": "Corresponde ao n.º 12 da, para onde tem a\n                        fronteira e serventia principais.",
+                                "lugar": {
+                                    "#text": "Rua de Maximinos",
+                                    "@_norm": "rua de Maximinos"
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

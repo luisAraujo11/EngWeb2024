@@ -1,0 +1,590 @@
+{
+    "rua": {
+        "@_noNamespaceSchemaLocation": "file:/C:/Users/micas/Desktop/Maria/Uminho/4%C2%BAano/1%C2%BAsemestre/publicacao_eletronica/Trabalho%20Final/MRB-rua.xsd",
+        "meta": {
+            "número": "42",
+            "nome": "Campo e Calçada de Nossa Senhora a Branca"
+        },
+        "corpo": {
+            "para": [
+                {
+                    "#text": "Grande espaço aberto, continuação natural de, onde, pelo menos\n            desde, existia uma ermida, então com a invocação de Nossa Senhora da Carreira.",
+                    "lugar": "Santa Ana",
+                    "data": "1319"
+                },
+                {
+                    "#text": "reedificou esta igreja durante orecebeu um retábulo para a capela mor (, alterado em), sacrário ()\n        e fachada ().",
+                    "entidade": {
+                        "#text": "D.Diogo de Sousa",
+                        "@_tipo": "pessoa"
+                    },
+                    "data": [
+                        "séc. XVIII",
+                        "1745",
+                        "1782",
+                        "1756-57",
+                        "1771"
+                    ]
+                },
+                {
+                    "#text": "Emeste campo era ainda uma zona de arrabalde. As suas casas, quase todas de\n        dois pisos e dois vãos- embora haja uma ou outra de 3 pisos-, são na sua maioria, do \n        tipo de porta com janela no piso térreo (62%). Algumas eram de maiores dimensões ou \n        continham outra organização de fachada (casas n.º 11, 14, casa A Oeste da n.º26, 26 e 37,\n        esta com o terceiro piso todo recoberto de gelosias), bem como a existência de gelosias\n        na maioria das janelas (embora haja ainda bastantes aberturas que eram tapadas com portas de madeira),\n        não são bastantes para melhorar a qualidade da arquitectura deste campo.",
+                    "data": "1750"
+                },
+                "Saliente-se ainda a casa do prazo n.º4, com o seu portão lateral terminado em cubos\n        sobrepostos por bolsas e «torre» com janelas de canto.",
+                {
+                    "#text": "Este espaço só se desenvolveu cem anos mais tarde com o crescimento da cidade que\n        obrigou, em, à abertura da actual.",
+                    "data": "1882",
+                    "lugar": "rua de Santa Margarida"
+                },
+                {
+                    "#text": "Das 27 casas do lado Norte e 25 do Sul, eram prazos do15 e 25, respectivamente.",
+                    "entidade": {
+                        "#text": "Cabido",
+                        "@_tipo": "instituição"
+                    }
+                },
+                {
+                    "#text": "Os alçados que vemos correspondem o do Norte à parte deste largo que vao desde a actualaté ao ponto Sudoeste da:\n        e o alçado Sul, hoje totalmente alterado, compreende o espaço entre as.",
+                    "lugar": [
+                        "rua do Sardoal",
+                        "rua de Santa Margarida",
+                        "ruas de Restauração e 31 de Janeiro"
+                    ]
+                }
+            ],
+            "figura": [
+                {
+                    "@_id": "MRB-42-norte",
+                    "imagem": {
+                        "@_path": "../imagem/MRB-42-CampoECalcadaDeNossaSenhoraABranca-Norte.jpg"
+                    },
+                    "legenda": "Campo e Calçada de Nossa Senhora a Branca- Norte."
+                },
+                {
+                    "@_id": "MRB-42-sul",
+                    "imagem": {
+                        "@_path": "../imagem/MRB-42-CampoECalcadaDeNossaSenhoraABranca-Sul.jpg"
+                    },
+                    "legenda": "Campo e Calçada de Nossa Senhora a Branca- Sul."
+                }
+            ],
+            "lista-casas": {
+                "casa": [
+                    {
+                        "número": "1,2 e 3",
+                        "desc": {
+                            "para": {
+                                "#text": "Pertencem ao prazo da casa n.º4. A casa n.º1 fica situada junto da fonte\n                    que está atrás da.",
+                                "lugar": "capela de N.Sra"
+                            }
+                        }
+                    },
+                    {
+                        "número": "4",
+                        "enfiteuta": "Ana Maria de Magalhães",
+                        "foro": "1500 reis, 4 alqueires de trigo, 20 de paõ meado e 10 galinhas",
+                        "desc": {
+                            "para": [
+                                {
+                                    "#text": "Denominado.",
+                                    "lugar": "«Casal e quinta de Sobrado»"
+                                },
+                                {
+                                    "#text": "A enfiteuta sucedeu a,\n                    filho do,\n                    da.",
+                                    "entidade": [
+                                        {
+                                            "#text": "António de Brito Freire",
+                                            "@_tipo": "pessoa"
+                                        },
+                                        {
+                                            "#text": "Dr. Manuel Freire de Brito",
+                                            "@_tipo": "pessoa"
+                                        }
+                                    ],
+                                    "lugar": "cidade de Braga"
+                                },
+                                {
+                                    "#text": "Pertencem a este prazo as casas n.º1 a 3 e 5 a 40 deste campo. No ano defoi Senhor deste prazo o chantre de,.",
+                                    "data": "1506",
+                                    "lugar": "Braga",
+                                    "entidade": {
+                                        "#text": "João Godis",
+                                        "@_tipo": "pessoa"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "número": "5,6 e 7",
+                        "enfiteuta": "Ana Maria de Magalhães",
+                        "desc": {
+                            "para": {
+                                "#text": "Pertencem ao n.º4. A casa n.º7 esteve dividida em duas metades entre os anosa.",
+                                "data": [
+                                    "1636",
+                                    "1662"
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "número": "8",
+                        "enfiteuta": "Ana Maria de Magalhães",
+                        "desc": {
+                            "para": {
+                                "#text": "Os herdeiros de, viúva, pagam 300 reis ao n.º4.",
+                                "entidade": {
+                                    "#text": "Maria de Oliveira",
+                                    "@_tipo": "pessoa"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "número": "9",
+                        "enfiteuta": "Ana Maria de Magalhães",
+                        "desc": {
+                            "para": {
+                                "#text": "Os herdeiros de, sombreireiro, casado com, pagam 300 reis ao n.º4.",
+                                "entidade": [
+                                    {
+                                        "#text": "António Correia",
+                                        "@_tipo": "pessoa"
+                                    },
+                                    {
+                                        "#text": "Natália Carvalho",
+                                        "@_tipo": "pessoa"
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "número": "10",
+                        "enfiteuta": "Ana Maria de Magalhães",
+                        "desc": {
+                            "para": {
+                                "#text": "Os herdeiros de, sombreireiro, casado com, pagam 400 reis e 1 galinha ao n.º4.",
+                                "entidade": [
+                                    {
+                                        "#text": "Manuel Rodrigues",
+                                        "@_tipo": "pessoa"
+                                    },
+                                    {
+                                        "#text": "Serafina João",
+                                        "@_tipo": "pessoa"
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "número": "11",
+                        "enfiteuta": "Ana Maria de Magalhães",
+                        "desc": {
+                            "para": {
+                                "#text": "Os herdeiros de, sombreireiro, casado com, pagam 430 reis e 1 galinha ao n.º4.",
+                                "entidade": [
+                                    {
+                                        "#text": "Manuel Rodrigues",
+                                        "@_tipo": "pessoa"
+                                    },
+                                    {
+                                        "#text": "Serafina João",
+                                        "@_tipo": "pessoa"
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "número": "12",
+                        "enfiteuta": "Ana Maria de Magalhães",
+                        "desc": {
+                            "para": {
+                                "#text": "Os herdeiros de, sapateiro, casado com, pagam 300 reis e 1 galinha ao n.º4.",
+                                "entidade": [
+                                    {
+                                        "#text": "João Lopes",
+                                        "@_tipo": "pessoa"
+                                    },
+                                    {
+                                        "#text": "Isabel Francisca",
+                                        "@_tipo": "pessoa"
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "número": "13",
+                        "enfiteuta": "Ana Maria de Magalhães",
+                        "desc": {
+                            "para": {
+                                "#text": "Os herdeiros de, da cidade de, casado com, pagam 600 reis e 1 galinha ao n.º4.",
+                                "entidade": [
+                                    {
+                                        "#text": "Manuel Pinheiro",
+                                        "@_tipo": "pessoa"
+                                    },
+                                    {
+                                        "#text": "Ana da Silva",
+                                        "@_tipo": "pessoa"
+                                    }
+                                ],
+                                "lugar": "Lisboa"
+                            }
+                        }
+                    },
+                    {
+                        "número": "14",
+                        "enfiteuta": "Ana Maria de Magalhães",
+                        "desc": {
+                            "para": {
+                                "#text": "Os herdeiros de, sombreireiro, casado com, pagam 305 reis e 1 galinha ao n.º4.",
+                                "entidade": [
+                                    {
+                                        "#text": "Gonçalo Antunes",
+                                        "@_tipo": "pessoa"
+                                    },
+                                    {
+                                        "#text": "Maria Francisca",
+                                        "@_tipo": "pessoa"
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "número": "15",
+                        "enfiteuta": "Ana Maria de Magalhães",
+                        "desc": {
+                            "para": {
+                                "#text": "Os herdeiros dopagam 500 reis e 1 galinha ao n.º4.",
+                                "entidade": {
+                                    "#text": "Padre João Velho",
+                                    "@_tipo": "pessoa"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "número": "16",
+                        "enfiteuta": "Ana Maria de Magalhães",
+                        "desc": {
+                            "para": {
+                                "#text": "Os herdeiros de, caldeireiro, casado com, pagam 300 reis ao n.º4.",
+                                "entidade": [
+                                    {
+                                        "#text": "António da Silva",
+                                        "@_tipo": "pessoa"
+                                    },
+                                    {
+                                        "#text": "Margarida de Oliveira",
+                                        "@_tipo": "pessoa"
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "número": "17",
+                        "enfiteuta": "Ana Maria de Magalhães",
+                        "desc": {
+                            "para": {
+                                "#text": "Os herdeiros de, sombreireiro, casado com, pagam 300 reis ao n.º4.",
+                                "entidade": [
+                                    {
+                                        "#text": "Francisco Martins",
+                                        "@_tipo": "pessoa"
+                                    },
+                                    {
+                                        "#text": "Gregória Fernandes",
+                                        "@_tipo": "pessoa"
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "número": "18",
+                        "enfiteuta": "Ana Maria de Magalhães",
+                        "desc": {
+                            "para": {
+                                "#text": "Os herdeiros dopagam 390 reis ao n.º4.",
+                                "entidade": {
+                                    "#text": "Padre Manuel Mendes",
+                                    "@_tipo": "pessoa"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "número": "19",
+                        "enfiteuta": "Ana Maria de Magalhães",
+                        "desc": {
+                            "para": {
+                                "#text": "Os herdeiros de, sombreireiro, casado com, pagam 400 reis ao n.º4.",
+                                "entidade": [
+                                    {
+                                        "#text": "Estêvão Álvares",
+                                        "@_tipo": "pessoa"
+                                    },
+                                    {
+                                        "#text": "Maria Vaz",
+                                        "@_tipo": "pessoa"
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "número": "20 e 21",
+                        "enfiteuta": "Ana Maria de Magalhães",
+                        "desc": {
+                            "para": [
+                                {
+                                    "#text": "Os herdeiros depagam 500 reis ao n.º4.",
+                                    "entidade": {
+                                        "#text": "Padre Manuel Pinheiro",
+                                        "@_tipo": "pessoa"
+                                    }
+                                },
+                                {
+                                    "#text": "Estas casas encontram-se unidas desde o ano de.",
+                                    "data": "1583"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "número": "22 e 23",
+                        "enfiteuta": "Ana Maria de Magalhães",
+                        "desc": {
+                            "para": [
+                                {
+                                    "#text": "Os herdeiros de, sombreireiro, pagam 440 reis ao n.º4.",
+                                    "entidade": {
+                                        "#text": "José Francisco",
+                                        "@_tipo": "pessoa"
+                                    }
+                                },
+                                {
+                                    "#text": "Estas casas encontram-se unidas desde o ano de.",
+                                    "data": "1583"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "número": "24 e 25",
+                        "enfiteuta": "Ana Maria de Magalhães",
+                        "desc": {
+                            "para": [
+                                {
+                                    "#text": "Os herdeiros de, sombreireiro, casado com, pagam 450 reis e 1 galinha ao n.º4.",
+                                    "entidade": [
+                                        {
+                                            "#text": "António Dias",
+                                            "@_tipo": "pessoa"
+                                        },
+                                        {
+                                            "#text": "Apolónia Rodrigues",
+                                            "@_tipo": "pessoa"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "#text": "Encontram-se unidas desde o ano de.",
+                                    "data": "1583"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "número": "26 e 27",
+                        "enfiteuta": "Ana Maria de Magalhães",
+                        "desc": {
+                            "para": [
+                                {
+                                    "#text": "Os herdeiros de, casado com, pagam 110 reis e 1 galinha ao n.º4.",
+                                    "entidade": [
+                                        {
+                                            "#text": "Roque Martins Leite",
+                                            "@_tipo": "pessoa"
+                                        },
+                                        {
+                                            "#text": "Maria Gomes",
+                                            "@_tipo": "pessoa"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "#text": "Encontram-se unidas desde o ano de.",
+                                    "data": "1543"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "número": "28",
+                        "enfiteuta": "Ana Maria de Magalhães",
+                        "desc": {
+                            "para": {
+                                "#text": "Os herdeiros de, alfaiate, casado com, pagam 50 reis ao n.º4.",
+                                "entidade": [
+                                    {
+                                        "#text": "António Barros",
+                                        "@_tipo": "pessoa"
+                                    },
+                                    {
+                                        "#text": "Maria Soares",
+                                        "@_tipo": "pessoa"
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "número": "29",
+                        "enfiteuta": "Ana Maria de Magalhães",
+                        "desc": {
+                            "para": {
+                                "#text": "Os herdeiros de, filha de, pagam 50 reis ao n.º4.",
+                                "entidade": [
+                                    {
+                                        "#text": "Maria Ferreira",
+                                        "@_tipo": "pessoa"
+                                    },
+                                    {
+                                        "#text": "Cristóvão Ferreira",
+                                        "@_tipo": "pessoa"
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "número": "30",
+                        "enfiteuta": "Ana Maria de Magalhães",
+                        "desc": {
+                            "para": {
+                                "#text": "Os herdeiros de, casado com, pagam 50 reis ao n.º4.",
+                                "entidade": [
+                                    {
+                                        "#text": "Geraldo Marques",
+                                        "@_tipo": "pessoa"
+                                    },
+                                    {
+                                        "#text": "Luzia Francisca",
+                                        "@_tipo": "pessoa"
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "número": "31",
+                        "enfiteuta": "Ana Maria de Magalhães",
+                        "desc": {
+                            "para": {
+                                "#text": "Os herdeiros de, solteira, pagam 35 reis ao n.º4.",
+                                "entidade": {
+                                    "#text": "Inês Durães",
+                                    "@_tipo": "pessoa"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "número": "32",
+                        "enfiteuta": "Ana Maria de Magalhães",
+                        "desc": {
+                            "para": [
+                                {
+                                    "#text": "Os herdeiros de, sombreireiro, casado com, pagam 40 reis ao n.º4.",
+                                    "entidade": [
+                                        {
+                                            "#text": "João Martins",
+                                            "@_tipo": "pessoa"
+                                        },
+                                        {
+                                            "#text": "Maria Pinto",
+                                            "@_tipo": "pessoa"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "#text": "Esta casa encontra-se separada do n.º31 desde o ano de.",
+                                    "data": "1629"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "número": "33",
+                        "enfiteuta": "Ana Maria de Magalhães",
+                        "desc": {
+                            "para": {
+                                "#text": "Os herdeiros de, alfaiate, casado com, pagam 40 reis ao n.º4.",
+                                "entidade": [
+                                    {
+                                        "#text": "Álvaro Pinto",
+                                        "@_tipo": "pessoa"
+                                    },
+                                    {
+                                        "#text": "Ângela Antónia",
+                                        "@_tipo": "pessoa"
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "número": "34",
+                        "enfiteuta": "Ana Maria de Magalhães",
+                        "desc": {
+                            "para": {
+                                "#text": "Os herdeiros depagam 30 reis ao n.º4.",
+                                "entidade": {
+                                    "#text": "Padre Teotónio de Sousa",
+                                    "@_tipo": "pessoa"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "número": "35 a 40",
+                        "enfiteuta": "Ana Maria de Magalhães",
+                        "desc": {
+                            "para": [
+                                {
+                                    "#text": "Os herdeiros de, serralheiro, casado com, pagam 20 reis e meio frangão ao n.º4.",
+                                    "entidade": [
+                                        {
+                                            "#text": "Domingos Fernandes",
+                                            "@_tipo": "pessoa"
+                                        },
+                                        {
+                                            "#text": "Isabel Gonçalves",
+                                            "@_tipo": "pessoa"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "#text": "Encontram-se separadas da n.º34 desde o ano de.",
+                                    "data": "1619"
+                                },
+                                {
+                                    "#text": "A casa n.º40 confronta, do norte, com casa foreira à.",
+                                    "lugar": "capela de D.Gonçalo Pereira"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

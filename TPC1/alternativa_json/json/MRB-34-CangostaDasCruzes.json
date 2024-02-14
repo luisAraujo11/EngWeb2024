@@ -1,0 +1,128 @@
+{
+    "rua": {
+        "@_noNamespaceSchemaLocation": "file:/C:/Users/tiago/OneDrive/Documents/workspace_xml/trabalhofinal/MRB-rua.xsd",
+        "meta": {
+            "número": "34",
+            "nome": "Cangosta das Cruzes"
+        },
+        "corpo": {
+            "para": [
+                {
+                    "#text": "De características bem rurais ligava ocom a fachada latera Poente do.",
+                    "lugar": [
+                        "Campo de S. Tiago",
+                        "hospital de S. Marcos"
+                    ]
+                },
+                {
+                    "#text": "Não se conhecendo dados sobre a sua história, podemos apenas dizer que emestava só parcialmente construída, com casas simples, de 2 pisos, muitas delas com janelas de tipo bracarense. Um correr de habitações do tipo de porta com janela ao lado, no piso térreo (prazos 7 a 13), bem como a casa grande, mas de características rurais, virada ao, são as peças de arquitectura desta rua, ainda hoje, bem secundária e, também, com muitos poucos edifícios a ladeá-la.",
+                    "data": "1750",
+                    "lugar": "campo de S. Tiago"
+                },
+                {
+                    "#text": "Das 17 casas ao lado Norte e 9 do lado Sul, eram prazos do5 e 8 respectivamente.",
+                    "entidade": {
+                        "#text": "Cabido",
+                        "@_tipo": "instituição"
+                    }
+                },
+                {
+                    "#text": "Não sabemos a razão porque esta Cangosta foi conhecida pelo nomes das «Cruzes», nem sabemos qual a data em que passou a ser conhecida pelo nome actual, «Falcões», embora emjá assim apareça designada. Essa designação deverá ser mais antiga e provém, sem dúvida, do nome dacujo palácio existente notinha a envolvê-lo terrenos desta rua, os que estão a Oeste do prazo nº 13.",
+                    "data": "1857",
+                    "entidade": {
+                        "#text": "família Falcões Cota",
+                        "@_tipo": "família"
+                    },
+                    "lugar": "Campo de S. Tiago"
+                }
+            ],
+            "lista-casas": {
+                "casa": [
+                    {
+                        "número": "1",
+                        "desc": {
+                            "para": {
+                                "#text": "Porta de serventia do nº 20 da.",
+                                "lugar": "Rua do Anjo"
+                            }
+                        }
+                    },
+                    {
+                        "número": "2",
+                        "desc": {
+                            "para": {
+                                "#text": "Pertence ao nº 17 da.",
+                                "lugar": "Rua do Anjo"
+                            }
+                        }
+                    },
+                    {
+                        "número": "3",
+                        "desc": {
+                            "para": {
+                                "#text": "Porta de serventia do nº 15 da.",
+                                "lugar": "Rua do Anjo"
+                            }
+                        }
+                    },
+                    {
+                        "número": "4",
+                        "desc": {
+                            "para": {
+                                "#text": "Pertence ao nº 14 da.",
+                                "lugar": "Rua do Anjo"
+                            }
+                        }
+                    },
+                    {
+                        "número": "5",
+                        "desc": {
+                            "para": [
+                                {
+                                    "#text": "Pertence ao nº 13 da.",
+                                    "lugar": "Rua do Anjo"
+                                },
+                                {
+                                    "#text": "Confronta, do norte, com casa foreira ao.",
+                                    "lugar": "Hospital de S. Marcos"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "número": "6",
+                        "desc": {
+                            "para": "Leira denominada Castelo Rodrigo, pertencente ao quintal de uma casa dízima a Deus."
+                        }
+                    },
+                    {
+                        "número": "7 a 13",
+                        "enfiteuta": "Estevão Falcão Costa",
+                        "desc": {
+                            "para": {
+                                "#text": "Os subenfiteutas pagam foro ao nº 1 do.",
+                                "lugar": "Campo de Santiago"
+                            }
+                        }
+                    }
+                ]
+            },
+            "figura": [
+                {
+                    "@_id": "MRB-34-a",
+                    "imagem": {
+                        "@_path": "../imagem/MRB-34-QuingostaDasCruzes-primeira.jpg"
+                    },
+                    "legenda": "Quingosta das Cruzes - Norte."
+                },
+                {
+                    "@_id": "MRB-34-b",
+                    "imagem": {
+                        "@_path": "../imagem/MRB-34-QuingostaDasCruzes-segunda.jpg"
+                    },
+                    "legenda": "Quingosta das Cruzes - Sul."
+                }
+            ]
+        }
+    }
+}
