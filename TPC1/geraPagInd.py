@@ -135,13 +135,12 @@ for nome_arquivo in os.listdir(texto_path):
             <img src="{'../' + antigas_path + img}" alt="{legenda}" style="width:100%">  
         """
 
-    for img, legenda in zip(imagens_novas, legendas):
+    for img in imagens_novas:
         conteudo += f"""
             <div class="w3-container w3-teal">
                 <h1>{nome}</h1>
-                <figcaption>{legenda}</figcaption>
             </div>
-            <img src="{'../' + novas_path + img}" alt="{legenda}" style="width:100%">
+            <img src="{'../' + novas_path + img}" alt="{nome}" style="width:100%">
         """
 
     f.write(preHTML + conteudo + posHTML)
