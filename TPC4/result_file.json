@@ -1,28 +1,60 @@
 {
   "compositores": [
-    {
-      "id": "C192",
-      "nome": "Andrea Falconieri",
-      "bio": "Andrea Falconieri (Nápoles, 1585 or 1586 - ?, 1656), também conhecido como Falconiero, foi um compositor e alaudista italiano.Viveu em\n         Parma de 1604 a 1614, depois em Roma e finalmente voltou a Nápoles, onde, em 1647, tornou-se maestro di cappella da capela real.",
-      "dataNasc": "1585",
-      "dataObito": "1656",
-      "periodo": "Renascimento"
+      {
+        "id": "C26",
+        "nome": "Alessandro Marcello",
+        "bio": "Alessandro Ignazio Marcello (Veneza, 1 de Fevereiro de 1673 –Veneza, 19 de Junho de 1747) foi um nobre e diletante, que se interessava pela\n         arte, tendo sido poeta, filósofo e notável músico italiano.",
+        "dataNasc": "1673-02-01",
+        "dataObito": "1747-06-19",
+        "periodo": "Barroco"
     },
     {
-      "id": "C242",
-      "nome": "Anerio, Felice",
-      "bio": "Felice Anerio (Narni, 1560 – Roma, 26 ou 27 de setembro de 1614) foi um compositor italiano do final da Renascença e início do Barroco, e\n         membro da Escola romana de compositores. Foi o irmão mais velho de outro importante, e um pouco mais progressista compositor do mesmo\n         período, Giovanni Francesco Anerio.",
-      "dataNasc": "1560",
-      "dataObito": "1614",
-      "periodo": "Renascimento"
+        "id": "C48",
+        "nome": "Alessandro Scarlatti",
+        "bio": "Alessandro Scarlatti (Palermo, 2 de maio de 1660 — Nápoles, 24 de outubro de 1725), cujo nome verdadeiro era Pietro Alessandro Gaspari, foi\n         um compositor italiano de grande importância para a música lírica do período barroco. Seu trabalho foi fundamental para o desenvolvimento da\n         ópera séria e da ópera bufa (ópera cômica) do seu tempo. Ele é considerado o pai da escola napolitana de ópera, a qual contou, mais tarde,\n         com membros como Leonardo Leo, Leonardo Vinci, Giovanni Pergolesi e Johann Adolfo Hasse, entre outros.Dentre as obras de sucesso de Scarlatti\n         merecem destaque as óperas Carlo, Re d'Allemagna (1716), Telemaco (1718) e La Griselda (1721). Além das óperas, Alessandro Scarlatti também\n         ficou famoso por suas cantatas de câmara. Foi pai de dois outros compositores, Domenico Scarlatti (1785-1757) e Pietro Filippo Scarlatti\n         (1679-1750), e irmão mais velho de Francesco Scarlatti (1666-1741), também compositor, ainda que de menor expressão em comparação com\n         Alessandro e Domenico.As óperas de Alessandro Scarlatti são dotadas de alto nível musical e influenciaram compositores dos mais variados\n         países. Do ponto de vista da ação dramática, porém, ficam a dever para as composições de autores que o sucederam, como Händel, Hasse e\n         Vivaldi. As aberturas das óperas de Alessandro Scarlatti, chamadas sinfonias, consistiam geralmente de três movimentos: rápido, lento e\n         rápido. Essa forma se tornou de grande importância na criação posterior da sinfonia clássica para orquestra.Alessandro Scarlatti foi um\n         compositor de extraordinário talento criativo. Sua obra compreende nada menos que 115 óperas, 150 oratórios e mais de 500 cantatas, além de\n         composições instrumentais. A música de Scarlatti forma um importante elo entre a música vocal do início do barroco italiano do século XVII,\n         centrada em Florença, Veneza e Roma, e a escola clássica do século XVIII, que culmina em Haydn (1732-1809) e Mozart (1756-1791).",
+        "dataNasc": "1660-05-02",
+        "dataObito": "1725-10-22",
+        "periodo": "Barroco"
     },
     {
-      "id": "C244",
-      "nome": "Anerio, Giovanni Francesco",
-      "bio": "Giovanni Francesco Anerio (ca. 1567 – sepultado em 12 de junho de 1630) foi um compositor italiano da Escola romana, do final da Renascença\n         e início Barroco. Era o irmão mais novo de Felice Anerio. A principal importância de Giovanni na história da música foi a sua contribuição\n         para o desenvolvimento inicial do oratório; ele representou a tendência progressista em meio a outra forma conservadora da Escola romana,\n         embora compartilhasse também de algumas das tendências estilísticas do seu irmão, que foi muito influenciado por Palestrina.",
-      "dataNasc": "1567",
-      "dataObito": "1630",
-      "periodo": "Renascimento"
+        "id": "C206",
+        "nome": "Alessandro Stradella",
+        "bio": "Alessandro Stradella (Nepi, 3 de abril de 1639 – Génova, 25 de fevereiro de 1682) foi um cantor, professor de canto, violinista e\n         compositor italiano. Foi assassinado em Gênova por razões obscuras, no segundo atentado contra sua vida. O primeiro fora em 1677, após seu\n         complicado casamento com Agnese, aluna com quem fugira e cujo ex-amante encomendou o crime, causando um incidente internacional. Durante o\n         caso, Stradella continuou a promover suas músicas, passando a receber encomendas da nobreza. Compôs suas melhores obras num tempo curto,\n         entre elas cento e setenta cantatas, várias óperas e a primeira peça apontada como um concerto grosso.",
+        "dataNasc": "1639-04-03",
+        "dataObito": "1682-02-25",
+        "periodo": "Renascimento"
+    },
+    {
+        "id": "C76",
+        "nome": "Altnickol, Johann Christoph",
+        "bio": "Johann Christoph Altnickol, ou Altnikol, (1719? (bat. 1 de janeiro de 1720) - 25 de julho de 1759) foi um organista, baixista, cantor e\n         compositor alemão. Ele era genro e copista de Johann Sebastian Bach.",
+        "dataNasc": "1720-01-01",
+        "dataObito": "1759-07-25",
+        "periodo": "Barroco"
+    },
+    {
+        "id": "C192",
+        "nome": "Andrea Falconieri",
+        "bio": "Andrea Falconieri (Nápoles, 1585 or 1586 - ?, 1656), também conhecido como Falconiero, foi um compositor e alaudista italiano.Viveu em\n         Parma de 1604 a 1614, depois em Roma e finalmente voltou a Nápoles, onde, em 1647, tornou-se maestro di cappella da capela real.",
+        "dataNasc": "1585",
+        "dataObito": "1656",
+        "periodo": "Renascimento"
+    },
+    {
+        "id": "C242",
+        "nome": "Anerio, Felice",
+        "bio": "Felice Anerio (Narni, 1560 – Roma, 26 ou 27 de setembro de 1614) foi um compositor italiano do final da Renascença e início do Barroco, e\n         membro da Escola romana de compositores. Foi o irmão mais velho de outro importante, e um pouco mais progressista compositor do mesmo\n         período, Giovanni Francesco Anerio.",
+        "dataNasc": "1560",
+        "dataObito": "1614",
+        "periodo": "Renascimento"
+    },
+    {
+        "id": "C244",
+        "nome": "Anerio, Giovanni Francesco",
+        "bio": "Giovanni Francesco Anerio (ca. 1567 – sepultado em 12 de junho de 1630) foi um compositor italiano da Escola romana, do final da Renascença\n         e início Barroco. Era o irmão mais novo de Felice Anerio. A principal importância de Giovanni na história da música foi a sua contribuição\n         para o desenvolvimento inicial do oratório; ele representou a tendência progressista em meio a outra forma conservadora da Escola romana,\n         embora compartilhasse também de algumas das tendências estilísticas do seu irmão, que foi muito influenciado por Palestrina.",
+        "dataNasc": "1567",
+        "dataObito": "1630",
+        "periodo": "Renascimento"
     },
     {
       "id": "C204",
@@ -1311,6 +1343,14 @@
       "dataNasc": "1/1/1990",
       "dataObito": "1/1/2006",
       "periodo": "Renascimento"
+    },
+    {
+      "id": "C69",
+      "nome": "a",
+      "bio": "b",
+      "dataNasc": "1/1/1990",
+      "dataObito": "1/1/1991",
+      "periodo": "Renascimento"
     }
   ],
   "periodos": [
@@ -1413,6 +1453,7 @@
       "id": "Renascimento",
       "desc": "Estilo Renascentista.",
       "list": [
+        "C206",
         "C192",
         "C242",
         "C244",
@@ -1492,6 +1533,10 @@
         "C316",
         "C74"
       ]
+    },
+    {
+      "id": "ola",
+      "desc": "olaaa"
     }
   ]
 }
