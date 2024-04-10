@@ -1,0 +1,25 @@
+extends layout
+
+block content
+  .w3-card-4 
+    header.w3-container.w3-green
+      h1= titulo 
+      a.w3-btn.w3-round.w3-purple(href="/periodos/registo") Register
+    .w3-container
+      table.w3-table-all.w3-striped  
+        thead
+          tr
+            th Id 
+            th Desc
+            th Actions
+        tbody
+          each pe in lista
+            tr 
+              td
+                a(href="/periodos/" + pe.id) #{pe.id}
+              td= pe.desc 
+              td
+                a.w3-button.w3-blue(href="/periodos/edit/" + pe.id) Edit 
+                a.w3-button.w3-red(href="/periodos/delete/" + pe.id) Delete
+    footer.w3-container.w3-green
+      address Gerado por a96351::EngWeb2024 em #{data}

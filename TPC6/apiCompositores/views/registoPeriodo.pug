@@ -1,0 +1,21 @@
+extends layout
+
+block content
+  .w3-card-4 
+    header.w3-container.w3-green
+      h1= titulo 
+    .w3-container
+      form.w3-container(method="POST")
+        fieldset
+          legend Metadata
+          label Nome
+          input.w3-input.w3-round(type="text" name="_id")
+          label Descrição
+          input.w3-input.w3-round(type="text" name="desc")
+          label IDs (separados por vírgula)
+          textarea.w3-input.w3-round(name="list" placeholder="example: C26,C48,C76").w3-margin-bottom
+
+        button.w3-btn.w3-purple.w3-mb-2(type="submit") Register
+
+    footer.w3-container.w3-green
+      address Gerado por a96351::EngWeb2024 em #{data}
