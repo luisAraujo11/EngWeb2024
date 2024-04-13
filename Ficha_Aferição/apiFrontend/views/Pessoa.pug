@@ -1,0 +1,57 @@
+extends layout
+
+block content
+  .w3-card-4 
+    header.w3-container.w3-green
+      h1= titulo 
+    .w3-container
+      table.w3-table.w3-striped.w3-bordered  
+        thead
+          tr
+            th Nome
+            th Idade
+            th Sexo
+            th Cidade
+            th Distrito
+            th BI
+            th Descrição
+            th Profissão
+            th Partido Político
+            th Religião
+            th Desportos
+            th Animais
+            th Figura Pública Favorita em Portugal
+            th Marca do Carro
+            th Destinos Favoritos
+            th Atributos
+        tbody
+          tr 
+            td= pessoa.nome 
+            td= pessoa.idade
+            td= pessoa.sexo
+            td= pessoa.morada.cidade
+            td= pessoa.morada.distrito
+            td= pessoa._id
+            td= pessoa.descrição
+            td= pessoa.profissao
+            td= pessoa.partido_politico.party_abbr + " - " + pessoa.partido_politico.party_name
+            td= pessoa.religiao
+            td= pessoa.desportos.join(", ")
+            td= pessoa.animais.join(", ")
+            td= pessoa.figura_publica_pt.join(", ")
+            td= pessoa.marca_carro
+            td= pessoa.destinos_favoritos.join(", ")
+            td 
+              ul
+                li Fumador: #{pessoa.atributos.fumador ? 'Sim' : 'Não'}
+                li Gosta de Cinema: #{pessoa.atributos.gosta_cinema ? 'Sim' : 'Não'}
+                li Gosta de Viajar: #{pessoa.atributos.gosta_viajar ? 'Sim' : 'Não'}
+                li Acorda Cedo: #{pessoa.atributos.acorda_cedo ? 'Sim' : 'Não'}
+                li Gosta de Ler: #{pessoa.atributos.gosta_ler ? 'Sim' : 'Não'}
+                li Gosta de Música: #{pessoa.atributos.gosta_musica ? 'Sim' : 'Não'}
+                li Gosta de Comer: #{pessoa.atributos.gosta_comer ? 'Sim' : 'Não'}
+                li Gosta de Animais de Estimação: #{pessoa.atributos.gosta_animais_estimacao ? 'Sim' : 'Não'}
+                li Gosta de Dançar: #{pessoa.atributos.gosta_dancar ? 'Sim' : 'Não'}
+                li Comida Preferida: #{pessoa.atributos.comida_favorita}
+    footer.w3-container.w3-green
+      address Gerado por a96351::EngWeb2024 em #{data}

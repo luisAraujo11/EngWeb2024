@@ -1,0 +1,78 @@
+extends layout
+
+block content
+  .w3-card-4
+    header.w3-container.w3-green
+      h1= titulo
+    .w3-container
+      form.w3-container(method="POST")
+        fieldset
+          legend Personal Information
+          label Nome
+          input.w3-input.w3-round(type="text" name="nome" required )
+          label Idade
+          input.w3-input.w3-round(type="number" name="idade" required)
+          label Sexo
+          select.w3-input.w3-round(name="sexo" required)
+            option(value="outro") Outro
+            option(value="masculino") Masculino
+            option(value="feminino") Feminino
+          label Morada
+          input.w3-input.w3-round(type="text" name="morada.cidade" placeholder="Cidade" required)
+          input.w3-input.w3-round(type="text" name="morada.distrito" placeholder="Distrito" required)
+          label BI/CC
+          input.w3-input.w3-round(type="text" name="_id" required)
+          label Descrição
+          textarea.w3-input.w3-round(name="descrição" required)
+          label Profissão
+          input.w3-input.w3-round(type="text" name="profissao" required)
+          label Partido Político
+          div
+            label Sigla do Partido
+            input.w3-input.w3-round(type="text" name="partido_politico.party_abbr" placeholder="Sigla do Partido" required)
+          div
+            label Nome do Partido
+            input.w3-input.w3-round(type="text" name="partido_politico.party_name" placeholder="Nome do Partido" required)
+          label Religião
+          input.w3-input.w3-round(type="text" name="religiao" required)
+
+        fieldset
+          legend Interesses
+          label Desportos (Separate with commas for multiple values)
+          input.w3-input.w3-round(type="text" name="desportos" required)
+          label Animais (Separate with commas for multiple values)
+          input.w3-input.w3-round(type="text" name="animais" required)
+          label Figura Pública Favorita em Portugal (Separate with commas for multiple values)
+          input.w3-input.w3-round(type="text" name="figura_publica_pt" required)
+          label Marca do Carro
+          input.w3-input.w3-round(type="text" name="marca_carro" required)
+          label Destinos Favoritos (Separate with commas for multiple values)
+          input.w3-input.w3-round(type="text" name="destinos_favoritos" required)
+
+        fieldset
+          legend Atributos
+          label Fumador
+          input.w3-input(type="checkbox" name="atributos.fumador" value="true")
+          label Gosta de Cinema
+          input.w3-input(type="checkbox" name="atributos.gosta_cinema" value="true")
+          label Gosta de Viajar
+          input.w3-input(type="checkbox" name="atributos.gosta_viajar" value="true")
+          label Acorda Cedo
+          input.w3-input(type="checkbox" name="atributos.acorda_cedo" value="true")
+          label Gosta de Ler
+          input.w3-input(type="checkbox" name="atributos.gosta_ler" value="true")
+          label Gosta de Música
+          input.w3-input(type="checkbox" name="atributos.gosta_musica" value="true")
+          label Gosta de Comer
+          input.w3-input(type="checkbox" name="atributos.gosta_comer" value="true")
+          label Gosta de animias de estimação
+          input.w3-input(type="checkbox" name="atributos.gosta_animais_estimacao" value="true")
+          label Gosta de Dançar
+          input.w3-input(type="checkbox" name="atributos.gosta_dancar" value="true")
+          label Comida Favorita
+          input.w3-input.w3-round(type="text" name="atributos.comida_favorita" required)
+
+        button.w3-btn.w3-purple.w3-mb-2(type="submit") Register
+
+    footer.w3-container.w3-green
+      address Gerado por a96351::EngWeb2024 em #{data}

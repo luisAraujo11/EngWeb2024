@@ -1,0 +1,80 @@
+extends layout
+
+block content
+  .w3-card-4
+    header.w3-container.w3-green
+      h1= titulo
+    .w3-container
+      form.w3-container(method="POST")
+        fieldset
+          legend Personal Information
+          label Nome
+          input.w3-input.w3-round(type="text" name="nome" value=pessoa.nome)
+          label Idade
+          input.w3-input.w3-round(type="number" name="idade" value=pessoa.idade)
+          label Sexo
+          select.w3-input.w3-round(name="sexo")
+            option(value="outro" selected=pessoa.sexo === 'outro') Outro
+            option(value="masculino" selected=pessoa.sexo === 'masculino') Masculino
+            option(value="feminino" selected=pessoa.sexo === 'feminino') Feminino
+          
+          label Cidade
+          input.w3-input.w3-round(type="text" name="morada.cidade" value=pessoa.morada.cidade)
+          label Distrito
+          input.w3-input.w3-round(type="text" name="morada.distrito" value=pessoa.morada.distrito)
+          label BI/CC
+          input.w3-input.w3-round(type="text" name="_id" value=pessoa._id)
+          label Profissão
+          input.w3-input.w3-round(type="text" name="profissao" value=pessoa.profissao)
+          label Partido Político - Sigla
+          input.w3-input.w3-round(type="text" name="partido_politico.party_abbr" value=pessoa.partido_politico.party_abbr)
+          label Partido Político - Nome
+          input.w3-input.w3-round(type="text" name="partido_politico.party_name" value=pessoa.partido_politico.party_name)
+          label Religião
+          input.w3-input.w3-round(type="text" name="religiao" value=pessoa.religiao)
+          label Descrição
+          textarea.w3-input.w3-round(type="text" name="descrição")= pessoa.descrição
+
+        fieldset
+          legend Interests
+          // For simplicity, using text inputs for arrays; consider dynamic JS for production
+          label Desportos (Separate with commas)
+          input.w3-input.w3-round(type="text" name="desportos" value=pessoa.desportos.join(", "))
+          label Animais (Separate with commas)
+          input.w3-input.w3-round(type="text" name="animais" value=pessoa.animais.join(", "))
+          label Figura Pública Favorita em Portugal (Separate with commas)
+          input.w3-input.w3-round(type="text" name="figura_publica_pt" value=pessoa.figura_publica_pt.join(", "))
+          label Marca do Carro
+          input.w3-input.w3-round(type="text" name="marca_carro" value=pessoa.marca_carro)
+          label Destinos Favoritos (Separate with commas)
+          input.w3-input.w3-round(type="text" name="destinos_favoritos" value=pessoa.destinos_favoritos.join(", "))
+
+        // Optionally, handle attributes dynamically or as a JSON string for complex structures
+        fieldset
+          legend Attributes
+          label Fumador
+          input.w3-input(type="checkbox" name="fumador" checked=pessoa.atributos.fumador)
+          label Gosta de Cinema
+          input.w3-input(type="checkbox" name="gosta_cinema" checked=pessoa.atributos.gosta_cinema)
+          label Gosta de Viajar
+          input.w3-input(type="checkbox" name="gosta_viajar" checked=pessoa.atributos.gosta_viajar)
+          label Acorda Cedo
+          input.w3-input(type="checkbox" name="acorda_cedo" checked=pessoa.atributos.acorda_cedo)
+          label Gosta de Ler
+          input.w3-input(type="checkbox" name="gosta_ler" checked=pessoa.atributos.gosta_ler)
+          label Gosta de Música
+          input.w3-input(type="checkbox" name="gosta_musica" checked=pessoa.atributos.gosta_musica)
+          label Gosta de Comer
+          input.w3-input(type="checkbox" name="gosta_comer" checked=pessoa.atributos.gosta_comer)
+          label Gosta de animias de estimação
+          input.w3-input(type="checkbox" name="gosta_animais_estimacao" checked=pessoa.atributos.gosta_animais_estimacao)
+          label Gosta de Dançar
+          input.w3-input(type="checkbox" name="gosta_dancar" checked=pessoa.atributos.gosta_dancar)
+          label Comida Favorita
+          textarea.w3-input.w3-round(type="text" name="comida_favorita")= pessoa.atributos.comida_favorita
+        fieldset
+
+        button.w3-btn.w3-purple.w3-mb-2(type="submit") Update
+
+    footer.w3-container.w3-green
+      address Gerado por a96351::EngWeb2024 em #{data}
