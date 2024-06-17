@@ -1,0 +1,21 @@
+[
+    {
+      "_id": "1",
+      "UserId": "1",
+      "InqId": "00001",
+      "PostTitle": "Inquirição de génere do meu primo!",
+      "PostText": "Inquirição de génere do meu primo, de 1680",
+      "Comments": [
+        {
+          "_id": "1",
+          "UserId": "user1",
+          "CommentText": "WOW!"
+        },
+        {
+          "_id": "2",
+          "UserId": "user2",
+          "CommentText": "Excelente!"
+        }
+      ]
+    }
+]

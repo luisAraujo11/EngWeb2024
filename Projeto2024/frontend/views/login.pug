@@ -1,0 +1,24 @@
+doctype html
+html
+  head
+    title= message
+    meta(charset='utf-8')
+    link(rel='stylesheet', href='/stylesheets/custom.css')
+    body
+      div.title_div
+        h1.title_div Login
+    
+      form.login_form(action='/login', method='POST')
+        fieldset
+          div.login_div
+            label.form_label(for='username') Username
+            input.login_input(type='text', name='username', required=true)
+          div.login_div
+            label.form_label(for='password') Password
+            input.login_input(type='password', name='password', required=true)
+          div.login_button_div
+          button.button(type='submit') Log In
+          
+      
+        h2 Don't have an account?
+        a(href='/register') Register here

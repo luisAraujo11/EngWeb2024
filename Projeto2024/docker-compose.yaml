@@ -1,0 +1,37 @@
+services:
+  backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    ports:
+      - "3000:3000"
+    depends_on:
+      - mongodb
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    ports:
+      - "3001:3001"
+    depends_on:
+      - backend
+  mongodb:
+    image: mongo:latest
+    ports:
+      - "27017:27017"
+    depends_on:
+      - mongo-seed
+  mongo-seed:
+    image: mongo:latest
+    volumes:
+      - ./dbs/db.json:/db.json
+      - ./dbs/users.json:/users.json
+      - ./dbs/posts.json:/posts.json
+      - ./dbs/suggestions.json:/suggestions.json
+    command: >
+      sh -c '
+        mongoimport --host mongodb -d genere -c genere --type json --file /db.json --jsonArray &&
+        mongoimport --host mongodb -d genere -c users --type json --file /users.json --jsonArray &&
+        mongoimport --host mongodb -d genere -c posts --type json --file /posts.json --jsonArray &&
+        mongoimport --host mongodb -d genere -c suggestions --type json --file /suggestions.json --jsonArray
+      '

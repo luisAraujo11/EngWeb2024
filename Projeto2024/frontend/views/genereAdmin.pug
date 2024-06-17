@@ -1,0 +1,339 @@
+doctype html
+html
+  head
+    title= titulo
+    meta(charset='utf-8')
+    link(rel='stylesheet', href='/stylesheets/custom.css')
+
+  body
+  div.title_div
+    h1.title_div= titulo
+
+  div.inq_info
+    table 
+      tr 
+        td UnitID 
+        td #{genere._id}
+      tr
+        td Description Level
+        td #{genere.DescriptionLevel}
+      tr
+        td Entity Type
+        td #{genere.EntityType}
+      tr
+        td Complete Unit ID
+        td #{genere.CompleteUnitId}
+      tr
+        td Repository Code
+        td #{genere.RepositoryCode}
+      tr
+        td Country Code
+        td #{genere.CountryCode}
+      tr
+        td Title Type
+        td #{genere.UnitTitleType}
+      tr
+        td Title
+        td #{genere.UnitTitle}
+      tr
+        td Alternative Title
+        td #{genere.AlternativeTitle}
+      tr 
+        td Normalized Forms Name
+        td #{genere.NormalizedFormsName}
+      tr
+        td Other Forms Name
+        td #{genere.OtherFormsName}
+      tr
+        td Initial Date
+        td #{genere.UnitDateInitial}
+      tr
+        td Final Date
+        td #{genere.UnitDateFinal}
+      tr
+        td Initial Date Certainty
+        td #{genere.UnitDateInitialCertainty}
+      tr
+        td Final Date Certainty
+        td #{genere.UnitDateFinalCertainty}
+      tr
+        td Allow Unit Dates Inference
+        td #{genere.AllowUnitDatesInference}
+      tr
+        td Accumulation Dates
+        td #{genere.AccumulationDates}
+      tr
+        td Unit Date Bulk
+        td #{genere.UnitDateBulk}
+      tr
+        td Unit Date Notes
+        td #{genere.UnitDateNotes}
+      tr
+        td Dimensions
+        td #{genere.Dimensions}
+      tr
+        td Allow Extents Inference
+        td #{genere.AllowExtentsInference}
+      tr
+        td Repository
+        td #{genere.Repository}
+      tr
+        td Producer
+        td #{genere.Producer}
+      tr
+        td Author
+        td #{genere.Author}
+      tr
+        td Material Author
+        td #{genere.MaterialAuthor}
+      tr
+        td Contributor
+        td #{genere.Contributor}
+      tr
+        td Recipient
+        td #{genere.Recipient}
+      tr 
+        td Biographical History
+        td #{genere.BiogHist} 
+      tr  
+        td Legal Status
+        td #{genere.LegalStatus}      
+      tr
+        td Functions
+        td #{genere.Functions}
+      tr 
+        td Authorities
+        td #{genere.Authorities}
+      tr  
+        td Internal Structure
+        td #{genere.InternalStructure}
+      tr  
+        td General Context
+        td #{genere.GeneralContext}
+      tr
+        td Custodial History
+        td #{genere.CustodHist}
+      tr
+        td Acquisition Information
+        td #{genere.AcqInfo}
+      tr  
+        td Classifier
+        td #{genere.Classifier}
+      tr
+        td Scope and Content
+        td #{genere.ScopeContent}
+      tr
+        td Terms
+        td #{genere.Terms}
+      tr
+        td Documental Tradition
+        td #{genere.DocumentalTradition}
+      tr
+        td Documental Typology
+        td #{genere.DocumentalTypology} 
+      tr
+        td Marks
+        td #{genere.Marks}
+      tr
+        td Monograms
+        td #{genere.Monograms}
+      tr
+        td Stamps
+        td #{genere.Stamps}
+      tr
+        td Inscriptions
+        td #{genere.Inscriptions}
+      tr
+        td Signatures
+        td #{genere.Signatures}
+      tr
+        td Appraisal
+        td #{genere.Appraisal}
+      tr
+        td Appraisal Elimination
+        td #{genere.AppraisalElimination} 
+      tr
+        td Appraisal Elimination Date
+        td #{genere.AppraisalEliminationDate}
+      tr
+        td Accruals
+        td #{genere.Accruals}
+      tr
+        td Arrangement
+        td #{genere.Arrangement}
+      tr
+        td Access Restrictions
+        td #{genere.AccessRestrict}
+      tr
+        td Use Restrictions
+        td #{genere.UseRestrict}  
+      tr
+        td Physical Location
+        td #{genere.PhysLoc}
+      tr
+        td Original Numbering
+        td #{genere.OriginalNumbering}
+      tr
+        td Previous Location
+        td #{genere.PreviousLoc}
+      tr 
+        td Language of Material
+        td #{genere.LangMaterial}
+      tr
+        td Physical Technical
+        td #{genere.PhysTech}
+      tr
+        td Other Finding Aid
+        td #{genere.OtherFindAid}
+      tr
+        td Container Type Term
+        td #{genere.ContainerTypeTerm}
+      tr  
+        td Originals Location
+        td #{genere.OriginalsLoc}
+      tr  
+        td Alternative Form Available
+        td #{genere.AltFormAvail}
+      tr  
+        td Related Material
+        td #{genere.RelatedMaterial}
+      tr  
+        td Note
+        td #{genere.Note}
+      tr  
+        td Allow Textual Content Inference
+        td #{genere.AllowTextualContentInference}
+      tr
+        td Textual Content
+        td #{genere.TextualContent}
+      tr
+        td Retention Disposal Document State
+        td #{genere.RetentionDisposalDocumentState}
+      tr
+        td Apply Selection Table
+        td #{genere.ApplySelectionTable}
+      tr
+        td Retention Disposal Policy
+        td #{genere.RetentionDisposalPolicy}
+      tr
+        td Retention Disposal Reference
+        td #{genere.RetentionDisposalReference}
+      tr
+        td Retention Disposal Classification
+        td #{genere.RetentionDisposalClassification}
+      tr
+        td Retention Disposal Period
+        td #{genere.RetentionDisposalPeriod}
+      tr  
+        td Retention Disposal Apply Date
+        td #{genere.RetentionDisposalApplyDate}
+      tr  
+        td Retention Disposal Final Destination
+        td #{genere.RetentionDisposalFinalDestination}
+      tr
+        td Retention Disposal Observations
+        td #{genere.RetentionDisposalObservations}
+      tr  
+        td Description Rules
+        td #{genere.DescRules}
+      tr
+        td Revised
+        td #{genere.Revised}
+      tr
+        td Published
+        td #{genere.Published}
+      tr
+        td Available
+        td #{genere.Available}
+      tr
+        td Highlighted
+        td #{genere.Highlighted}
+      tr
+        td Creator
+        td #{genere.Creator}
+      tr
+        td Created
+        td #{genere.Created}
+      tr  
+        td Username
+        td #{genere.Username}
+      tr
+        td Process Information Date
+        td #{genere.ProcessInfoDate}
+      tr
+        td Other Descriptive Data
+        td #{genere.OtherDescriptiveData}
+      tr
+        td Process Information
+        td #{genere.ProcessInfo}
+      tr  
+        td Father
+        td #{genere.Father}
+      tr
+        td Mother
+        td #{genere.Mother}
+      tr  
+        td Name
+        td #{genere.Name}
+      tr
+        td Location
+        td #{genere.Lugar}
+      tr
+        td County
+        td #{genere.Concelho}
+      tr
+        td District
+        td #{genere.Distrito}
+
+
+
+    if genere.Relationships && genere.Relationships.length > 0
+      h2 Relationships
+      each rel in genere.Relationships
+        div
+          p.inq_p UnitID: 
+            a(href=`/admin/${rel._id}`) #{rel._id}
+          p.inq_p Relation: #{rel.Relationship}
+
+  // Posts
+  if genere.posts && genere.posts.length > 0
+    each post in genere.posts
+      div.post_div
+        p.p_user User #{post.UserId} just posted:
+        h2.post_title= post.PostTitle
+        p.post_text= post.PostText
+        
+        // Comments Section
+        if post.Comments.length > 0
+          h3 Comments:
+          each comment in post.Comments
+            div.comment_div
+              p.comment #{comment.UserId}: #{comment.CommentText}
+              // Delete Comment
+              form(method="POST" action=`/posts/delete-comment/${post._id}/${comment._id}`)
+                button.comment_button(type="submit") Delete Comment
+        else
+          .w3-container
+            p.no_comments No comments yet
+
+        // Form to add a new comment
+        form(action=`/posts/${post._id}/add-comment-genere/${genere._id}`, method="POST")
+          input.comment_input(type="text", name="CommentText", required=true, placeholder="Write your comment here...")
+          input(type="hidden", name="_id", value="defaultCommentId")  
+          input(type="hidden", name="UserId", value="defaultUserId")  
+          input.comment_button(type="submit", value="Add Comment")
+        
+        // Delete Post
+        form(method="POST" action=`/posts/delete-post/${post._id}`)
+          button.genere_edit_button(type="submit") Delete Post
+
+          
+          
+
+  div.return_div
+    a.return_button(href="/admin/home") Return to Main Page
+  footer
+    address Generated by Grupo12::EngWeb2024 on #{data}
+
+
+

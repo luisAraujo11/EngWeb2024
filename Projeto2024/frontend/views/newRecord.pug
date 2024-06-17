@@ -1,0 +1,294 @@
+doctype html
+html
+  head
+    title= titulo
+    meta(charset='utf-8')
+    link(rel='stylesheet', href='/stylesheets/custom.css')
+
+  body
+  div.title_div
+    h1.title_div= titulo
+
+
+  form.edit_form(method="POST")
+    fieldset.edit_fieldset
+        input.edit_input(type="hidden" name="Id" value=uselessID)
+        input.search_input(type="hidden" name="_id" value=genereID)
+        div.input_div
+        label DescriptionLevel
+        input.edit_input(type="text" name="DescriptionLevel" )
+        div.input_div
+        label EntityType
+        input.edit_input(type="text" name="EntityType" )
+        div.input_div
+        label CompleteUnitId
+        input.edit_input(type="text" name="CompleteUnitId" )
+        div.input_div
+        label RepositoryCode
+        input.edit_input(type="text" name="RepositoryCode" )
+        div.input_div
+        label CountryCode
+        input.edit_input(type="text" name="CountryCode" )
+        div.input_div
+        label UnitTitleType
+        input.edit_input(type="text" name="UnitTitleType" )
+        div.input_div
+        label UnitTitle
+        input.edit_input(type="text" name="UnitTitle" )
+        div.input_div
+        label AlternativeTitle
+        input.edit_input(type="text" name="AlternativeTitle" )
+        div.input_div
+        label NormalizedFormsName
+        input.edit_input(type="text" name="NormalizedFormsName" )
+        div.input_div
+        label OtherFormsName
+        input.edit_input(type="text" name="OtherFormsName" )
+        div.input_div
+        label UnitDateInitial
+        input.edit_input(type="text" name="UnitDateInitial" placeholder="YYYY-MM-DD" )
+        div.input_div
+        label UnitDateFinal
+        input.edit_input(type="text" name="UnitDateFinal" placeholder="YYYY-MM-DD" )
+        div.input_div
+        label UnitDateInitialCertainty
+        input.edit_input(type="text" name="UnitDateInitialCertainty" )
+        div.input_div
+        label UnitDateFinalCertainty
+        input.edit_input(type="text" name="UnitDateFinalCertainty" )
+        div.input_div
+        label AllowUnitDatesInference
+        input.edit_input(type="text" name="AllowUnitDatesInference" )
+        div.input_div
+        label AccumulationDates
+        input.edit_input(type="text" name="AccumulationDates" )
+        div.input_div
+        label UnitDateBulk
+        input.edit_input(type="text" name="UnitDateBulk" )
+        div.input_div
+        label UnitDateNotes
+        input.edit_input(type="text" name="UnitDateNotes" )
+        div.input_div
+        label Dimensions
+        input.edit_input(type="text" name="Dimensions" )
+        div.input_div
+        label AllowExtentsInference
+        input.edit_input(type="text" name="AllowExtentsInference" )
+        div.input_div
+        label Repository
+        input.edit_input(type="text" name="Repository" )
+        div.input_div
+        label Producer
+        input.edit_input(type="text" name="Producer" )
+        div.input_div
+        label Author
+        input.edit_input(type="text" name="Author" )
+        div.input_div
+        label MaterialAuthor
+        input.edit_input(type="text" name="MaterialAuthor" )
+        div.input_div
+        label Contributor
+        input.edit_input(type="text" name="Contributor" )
+        div.input_div
+        label Recipient
+        input.edit_input(type="text" name="Recipient" )
+        div.input_div
+        label BiogHist
+        input.edit_input(type="text" name="BiogHist" )
+        div.input_div
+        label LegalStatus
+        input.edit_input(type="text" name="LegalStatus" )
+        div.input_div
+        label Functions
+        input.edit_input(type="text" name="Functions" )
+        div.input_div
+        label Authorities
+        input.edit_input(type="text" name="Authorities" )
+        div.input_div
+        label InternalStructure
+        input.edit_input(type="text" name="InternalStructure" )
+        div.input_div
+        label GeneralContext
+        input.edit_input(type="text" name="GeneralContext" )
+        div.input_div
+        label CustodHist
+        input.edit_input(type="text" name="CustodHist" )
+        div.input_div
+        label AcqInfo
+        input.edit_input(type="text" name="AcqInfo" )
+        div.input_div
+        label Classifier
+        input.edit_input(type="text" name="Classifier" )
+        div.input_div
+        label ScopeContent 
+        input.edit_input(type="text" name="ScopeContent" )
+        div.input_div
+        label Terms
+        input.edit_input(type="text" name="Terms" )
+        div.input_div
+        label DocumentalTradition
+        input.edit_input(type="text" name="DocumentalTradition" )
+        div.input_div
+        label DocumentalTypology
+        input.edit_input(type="text" name="DocumentalTypology" )
+        div.input_div
+        label Marks
+        input.edit_input(type="text" name="Marks" )
+        div.input_div
+        label Monograms
+        input.edit_input(type="text" name="Monograms" )
+        div.input_div
+        label Stamps
+        input.edit_input(type="text" name="Stamps" )
+        div.input_div
+        label Inscriptions
+        input.edit_input(type="text" name="Inscriptions" )
+        div.input_div
+        label Signatures
+        input.edit_input(type="text" name="Signatures" )
+        div.input_div
+        label Appraisal
+        input.edit_input(type="text" name="Appraisal" )
+        div.input_div
+        label AppraisalElimination
+        input.edit_input(type="text" name="AppraisalElimination" )
+        div.input_div
+        label AppraisalEliminationDate
+        input.edit_input(type="text" name="AppraisalEliminationDate" )
+        div.input_div
+        label Accruals
+        input.edit_input(type="text" name="Accruals" )
+        div.input_div
+        label Arrangement
+        input.edit_input(type="text" name="Arrangement" )
+        div.input_div
+        label AccessRestrict
+        input.edit_input(type="text" name="AccessRestrict" )
+        div.input_div
+        label UseRestrict
+        input.edit_input(type="text" name="UseRestrict" )
+        div.input_div
+        label PhysLoc
+        input.edit_input(type="text" name="PhysLoc" )
+        div.input_div
+        label OriginalNumbering
+        input.edit_input(type="text" name="OriginalNumbering" )
+        div.input_div
+        label PreviousLoc
+        input.edit_input(type="text" name="PreviousLoc" )
+        div.input_div
+        label LangMaterial
+        input.edit_input(type="text" name="LangMaterial" )
+        div.input_div
+        label PhysTech
+        input.edit_input(type="text" name="PhysTech" )
+        div.input_div
+        label OtherFindAid
+        input.edit_input(type="text" name="OtherFindAid" )
+        div.input_div
+        label ContainerTypeTerm
+        input.edit_input(type="text" name="ContainerTypeTerm" )
+        div.input_div
+        label OriginalsLoc
+        input.edit_input(type="text" name="OriginalsLoc" )
+        div.input_div
+        label AltFormAvail
+        input.edit_input(type="text" name="AltFormAvail" )
+        div.input_div
+        label RelatedMaterial
+        input.edit_input(type="text" name="RelatedMaterial" )
+        div.input_div
+        label Note
+        input.edit_input(type="text" name="Note" )
+        div.input_div
+        label AllowTextualContentInference
+        input.edit_input(type="text" name="AllowTextualContentInference" )
+        div.input_div
+        label TextualContent
+        input.edit_input(type="text" name="TextualContent" )
+        div.input_div
+        label RetentionDisposalDocumentState
+        input.edit_input(type="text" name="RetentionDisposalDocumentState" )
+        div.input_div
+        label ApplySelectionTable
+        input.edit_input(type="text" name="ApplySelectionTable" )
+        div.input_div
+        label RetentionDisposalPolicy
+        input.edit_input(type="text" name="RetentionDisposalPolicy" )
+        div.input_div
+        label RetentionDisposalReference
+        input.edit_input(type="text" name="RetentionDisposalReference" )
+        div.input_div
+        label RetentionDisposalClassification
+        input.edit_input(type="text" name="RetentionDisposalClassification" )
+        div.input_div
+        label RetentionDisposalPeriod
+        input.edit_input(type="text" name="RetentionDisposalPeriod" )
+        div.input_div
+        label RetentionDisposalApplyDate
+        input.edit_input(type="text" name="RetentionDisposalApplyDate" )
+        div.input_div
+        label RetentionDisposalFinalDestination
+        input.edit_input(type="text" name="RetentionDisposalFinalDestination" )
+        div.input_div
+        label RetentionDisposalObservations
+        input.edit_input(type="text" name="RetentionDisposalObservations" )
+        div.input_div
+        label DescRules
+        input.edit_input(type="text" name="DescRules" )
+        div.input_div
+        label Revised
+        input.edit_input(type="text" name="Revised" )
+        div.input_div
+        label Published
+        input.edit_input(type="text" name="Published" )
+        div.input_div
+        label Available
+        input.edit_input(type="text" name="Available" )
+        div.input_div
+        label Highlighted
+        input.edit_input(type="text" name="Highlighted" )
+        input.edit_input(type="hidden" name="Creator" ) 
+        input.edit_input(type="hidden" name="Created" placeholder="DD/MM/YYYY HH:MM:SS" )
+        div.input_div
+        label Username
+        input.edit_input(type="text" name="Username" )
+        input.edit_input(type="hidden" name="ProcessInfoDate" placeholder="DD/MM/YYYY HH:MM:SS" )
+        div.input_div
+        label OtherDescriptiveData
+        input.edit_input(type="text" name="OtherDescriptiveData" )
+        input.edit_input(type="hidden" name="ProcessInfo" )
+        div.input_div
+        label Relationships
+        textarea.edit_input(
+          name="Relationships"
+          placeholder='Enter relationships in the "ID:Relationship" format (one per line), e.g.:\n00065:Cousin\n00012:Brother')
+        div.input_div
+        label father
+        input.edit_input(type="text" name="Father" )
+        div.input_div
+        label mother
+        input.edit_input(type="text" name="Mother" )
+        div.input_div
+        label lugar
+        input.edit_input(type="text" name="Lugar" )
+        div.input_div
+        label concelho
+        input.edit_input(type="text" name="Concelho" )
+        div.input_div
+        label distrito
+        input.edit_input(type="text" name="Distrito" )
+        div.input_div
+        label name
+        input.edit_input(type="text" name="Name" )
+        div.input_div
+    div.edit_button_div
+      button.button(type="submit") Register 
+  
+  // Right spacer column
+  div.return_div
+    a.return_button(href="/admin/home") Return to Main Page
+
+  footer
+    address Generated by Grupo12::EngWeb2024 on #{data}
+
